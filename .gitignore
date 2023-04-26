@@ -131,27 +131,9 @@ dmypy.json
 # Mac
 .DS_Store
 
-# Dynamic-Graph-Networks/data
-Dynamic-Graph-Networks/data/book_by_chapter/1884/*
-Dynamic-Graph-Networks/data/book_by_chapter/Book 1 - The Philosopher's Stone/*
-Dynamic-Graph-Networks/data/book_by_chapter/Book 2 - The Chamber of Secrets/*
-Dynamic-Graph-Networks/data/book_by_chapter/Book 3 - The Prisoner of Azkaban/*
-Dynamic-Graph-Networks/data/book_by_chapter/Book 4 - The Goblet of Fire/*
-Dynamic-Graph-Networks/data/book_by_chapter/Book 5 - The Order of the Phoenix/*
-Dynamic-Graph-Networks/data/book_by_chapter/Book 6 - The Half-Blood Prince/*
-Dynamic-Graph-Networks/data/book_by_chapter/Book 7 - The Deathly Hallows/*
-Dynamic-Graph-Networks/data/book_by_chapter/hp1/*
 
-Dynamic-Graph-Networks/data/entity_list/*
-Dynamic-Graph-Networks/data/graph/*
-Dynamic-Graph-Networks/data/raw_text/*
-Dynamic-Graph-Networks/data/results/*
 
 # Dynamic-Graph-Networks/models
-Dynamic-Graph-Networks/models/bert_ner_base/*
+Dynamic-Graph-Networks/models/bert_ner_base/pytorch_model.bin
 
-# Dynamic-Graph-Networks/old_test_files
-Dynamic-Graph-Networks/old_test_files/*
 
-# Dynamic-Graph-Networks/biblio
-Dynamic-Graph-Networks/biblio/*
