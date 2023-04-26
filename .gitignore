@@ -152,3 +152,6 @@ Dynamic-Graph-Networks/models/bert_ner_base/*
 
 # Dynamic-Graph-Networks/old_test_files
 Dynamic-Graph-Networks/old_test_files/*
+
+# Dynamic-Graph-Networks/biblio
+Dynamic-Graph-Networks/biblio/*
