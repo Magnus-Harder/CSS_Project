@@ -130,3 +130,10 @@ dmypy.json
 
 # Mac
 .DS_Store
+
+
+
+# Dynamic-Graph-Networks/models
+Dynamic-Graph-Networks/models/bert_ner_base/pytorch_model.bin
+
+

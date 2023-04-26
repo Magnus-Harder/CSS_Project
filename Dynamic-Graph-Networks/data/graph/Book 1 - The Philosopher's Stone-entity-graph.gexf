@@ -1,0 +1,1219 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2023-04-18">
+    <creator>NetworkX 3.0</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="RON." label="['RON.']" />
+      <node id="HARRY HUNTING" label="['HARRY HUNTING']" />
+      <node id="AUNT PETUNIA" label="['AUNT PETUNIA']" />
+      <node id="TERENCE HIGGS" label="['TERENCE HIGGS']" />
+      <node id="LAVENDER" label="['LAVENDER']" />
+      <node id="MALCOLM" label="['MALCOLM']" />
+      <node id="BILL" label="['BILL']" />
+      <node id="ALBUS DUMBLEDORE" label="['ALBUS DUMBLEDORE']" />
+      <node id="GINNY WEASLEY" label="['GINNY WEASLEY']" />
+      <node id="GORDON" label="['GORDON']" />
+      <node id="PROFESSOR SPROUT" label="['PROFESSOR SPROUT']" />
+      <node id="J.K. ROWLING NEVILLE" label="['J.K. ROWLING NEVILLE']" />
+      <node id="DRACO MALFOY" label="['DRACO MALFOY']" />
+      <node id="NEWT SCAMANDER" label="['NEWT SCAMANDER']" />
+      <node id="NEVILLE." label="['NEVILLE.']" />
+      <node id="HARRY POTTED" label="['HARRY POTTED']" />
+      <node id="MIRANDA GOSHAWK" label="['MIRANDA GOSHAWK']" />
+      <node id="HALL" label="['HALL']" />
+      <node id="FINCH-FLETCHLEY" label="['FINCH-FLETCHLEY']" />
+      <node id="GRINGOTTS" label="['GRINGOTTS']" />
+      <node id="FLUFFY" label="['FLUFFY']" />
+      <node id="CLIODNA" label="['CLIODNA']" />
+      <node id="BINNS" label="['BINNS']" />
+      <node id="PATH" label="['PATH']" />
+      <node id="RIDGEBACK" label="['RIDGEBACK']" />
+      <node id="FRED WEASLEY" label="['FRED WEASLEY']" />
+      <node id="HARRYL" label="['HARRYL']" />
+      <node id="LILY" label="['LILY']" />
+      <node id="HARRY." label="['HARRY.']" />
+      <node id="J.K. ROWLING QUIRRELL" label="['J.K. ROWLING QUIRRELL']" />
+      <node id="PIERS POLKISS" label="['PIERS POLKISS']" />
+      <node id="VERNON." label="['VERNON.']" />
+      <node id="MRS. DURSLEY" label="['MRS. DURSLEY']" />
+      <node id="BLAISE" label="['BLAISE']" />
+      <node id="FLUFFY." label="['FLUFFY.']" />
+      <node id="CHASER BELL" label="['CHASER BELL']" />
+      <node id="PROFESSOR FLITWICK" label="['PROFESSOR FLITWICK']" />
+      <node id="“ SNAPE" label="['“ SNAPE']" />
+      <node id="MRS. FIGG" label="['MRS. FIGG']" />
+      <node id="ENID" label="['ENID']" />
+      <node id="PRIVET DRIVE" label="['PRIVET DRIVE']" />
+      <node id="JAMES POTTER" label="['JAMES POTTER']" />
+      <node id="HUFFLEPUFF" label="['HUFFLEPUFF']" />
+      <node id="GALLOPIN" label="['GALLOPIN']" />
+      <node id="MUGWUMP" label="['MUGWUMP']" />
+      <node id="OAK" label="['OAK']" />
+      <node id="ALBUS DUMBLED" label="['ALBUS DUMBLED']" />
+      <node id="SCABBERS" label="['SCABBERS']" />
+      <node id="BERTIE BOTT" label="['BERTIE BOTT']" />
+      <node id="BONES" label="['BONES']" />
+      <node id="RONAN" label="['RONAN']" />
+      <node id="SALLY-" label="['SALLY-']" />
+      <node id="MARGE" label="['MARGE']" />
+      <node id="NO CRABBE" label="['NO CRABBE']" />
+      <node id="SHAN" label="['SHAN']" />
+      <node id="MADAM HOOCH" label="['MADAM HOOCH']" />
+      <node id="DUMBLEDORE." label="['DUMBLEDORE.']" />
+      <node id="EMERIC" label="['EMERIC']" />
+      <node id="DRACO MALFOY." label="['DRACO MALFOY.']" />
+      <node id="HUFFLEPUFFS" label="['HUFFLEPUFFS']" />
+      <node id="SEEKER" label="['SEEKER']" />
+      <node id="PROFESSOR MCGONAGALL." label="['PROFESSOR MCGONAGALL.']" />
+      <node id="TREVOR" label="['TREVOR']" />
+      <node id="PARVATI PATIL" label="['PARVATI PATIL']" />
+      <node id="STONE" label="['STONE']" />
+      <node id="MOM" label="['MOM']" />
+      <node id="DEDALUS DIGGLE" label="['DEDALUS DIGGLE']" />
+      <node id="WEASLEYS" label="['WEASLEYS']" />
+      <node id="PHYLLIDA SPORE" label="['PHYLLIDA SPORE']" />
+      <node id="NICHOLAS DE MIMSY-PORPINGTON" label="['NICHOLAS DE MIMSY-PORPINGTON']" />
+      <node id="GRAN" label="['GRAN']" />
+      <node id="HARRY POTTER" label="['HARRY POTTER']" />
+      <node id="BATHILDA BAGSHOT" label="['BATHILDA BAGSHOT']" />
+      <node id="WARLOCK" label="['WARLOCK']" />
+      <node id="“ VERNON" label="['“ VERNON']" />
+      <node id="” MALFOY" label="['” MALFOY']" />
+      <node id="VINDICTUS VIRIDIAN" label="['VINDICTUS VIRIDIAN']" />
+      <node id="POTTER." label="['POTTER.']" />
+      <node id="BIN" label="['BIN']" />
+      <node id="ERISED" label="['ERISED']" />
+      <node id="PERENELLE" label="['PERENELLE']" />
+      <node id="GRUNT" label="['GRUNT']" />
+      <node id="JUS" label="['JUS']" />
+      <node id="MILLICENT" label="['MILLICENT']" />
+      <node id="NEVILLE LONGBOTTOM." label="['NEVILLE LONGBOTTOM.']" />
+      <node id="DITTANY ”" label="['DITTANY ”']" />
+      <node id="FANG" label="['FANG']" />
+      <node id="GRINDELWALD" label="['GRINDELWALD']" />
+      <node id="RONALD WEASLEY" label="['RONALD WEASLEY']" />
+      <node id="DON" label="['DON']" />
+      <node id="FIRENZE" label="['FIRENZE']" />
+      <node id="RON WEASLEY" label="['RON WEASLEY']" />
+      <node id="P-P-POTTER" label="['P-P-POTTER']" />
+      <node id="“ ZABINI" label="['“ ZABINI']" />
+      <node id="ALGIE" label="['ALGIE']" />
+      <node id="DUDLEY." label="['DUDLEY.']" />
+      <node id="DENNIS" label="['DENNIS']" />
+      <node id="HAROLD" label="['HAROLD']" />
+      <node id="SUSAN" label="['SUSAN']" />
+      <node id="SEVERUS SNAPE" label="['SEVERUS SNAPE']" />
+      <node id="YVONNE" label="['YVONNE']" />
+      <node id="MR. OLLIVANDER" label="['MR. OLLIVANDER']" />
+      <node id="AGRIPPA." label="['AGRIPPA.']" />
+      <node id="LUCKY\" label="['LUCKY\\']" />
+      <node id="MIMBLEWIMBLE." label="['MIMBLEWIMBLE.']" />
+      <node id="SCREECH" label="['SCREECH']" />
+      <node id="PEEVES" label="['PEEVES']" />
+      <node id="HAGRID HARRY" label="['HAGRID HARRY']" />
+      <node id="PARVATI." label="['PARVATI.']" />
+      <node id="ALICIA SPINNET" label="['ALICIA SPINNET']" />
+      <node id="LOVE" label="['LOVE']" />
+      <node id="HOWARD" label="['HOWARD']" />
+      <node id="VOZ" label="['VOZ']" />
+      <node id="DURSLEYS" label="['DURSLEYS']" />
+      <node id="BANE" label="['BANE']" />
+      <node id="DEAN THOMAS" label="['DEAN THOMAS']" />
+      <node id="MADAM MALKIN" label="['MADAM MALKIN']" />
+      <node id="V" label="['V']" />
+      <node id="SNITCH" label="['SNITCH']" />
+      <node id="OLIVER WOOD" label="['OLIVER WOOD']" />
+      <node id="ELFRIC" label="['ELFRIC']" />
+      <node id="ARSENIUS JIGGER" label="['ARSENIUS JIGGER']" />
+      <node id="JUSTIN" label="['JUSTIN']" />
+      <node id="ANGELINA JOHNSON" label="['ANGELINA JOHNSON']" />
+      <node id="NICOLAS FLAMEL" label="['NICOLAS FLAMEL']" />
+      <node id="HANNAH" label="['HANNAH']" />
+      <node id="“ PARKINSON" label="['“ PARKINSON']" />
+      <node id="ADALBERT WAFFLING" label="['ADALBERT WAFFLING']" />
+      <node id="OLLIVANDERS" label="['OLLIVANDERS']" />
+      <node id="RONNIEKINS" label="['RONNIEKINS']" />
+      <node id="“ JORDAN" label="['“ JORDAN']" />
+      <node id="FAT" label="['FAT']" />
+      <node id="DADDY." label="['DADDY.']" />
+      <node id="JIM MCGUFFIN" label="['JIM MCGUFFIN']" />
+      <node id="CHASER PUCEY" label="['CHASER PUCEY']" />
+      <node id="KATIE BELL" label="['KATIE BELL']" />
+      <node id="LEE JORDAN" label="['LEE JORDAN']" />
+      <node id="GOYLE" label="['GOYLE']" />
+      <node id="MCKINNONS" label="['MCKINNONS']" />
+      <node id="VERNON DURSLEY" label="['VERNON DURSLEY']" />
+      <node id="MADAM POMFREY" label="['MADAM POMFREY']" />
+      <node id="GRIPHOOK" label="['GRIPHOOK']" />
+      <node id="CRIKEY" label="['CRIKEY']" />
+      <node id="PARACELSUS" label="['PARACELSUS']" />
+      <node id="HERMIONE GRANGER" label="['HERMIONE GRANGER']" />
+      <node id="DARLING" label="['DARLING']" />
+      <node id="HENGIST" label="['HENGIST']" />
+      <node id="CHARLIE WEASLEY" label="['CHARLIE WEASLEY']" />
+      <node id="J.K. ROWLING HERMIONE" label="['J.K. ROWLING HERMIONE']" />
+      <node id="PREWETTS" label="['PREWETTS']" />
+      <node id="MORAG." label="['MORAG.']" />
+      <node id="— SLYTHERINS" label="['— SLYTHERINS']" />
+      <node id="ALBERIC GRUNNION" label="['ALBERIC GRUNNION']" />
+      <node id="J.K. ROWLING DUDLEY" label="['J.K. ROWLING DUDLEY']" />
+      <node id="RUBEUS HAGRID" label="['RUBEUS HAGRID']" />
+      <node id="KILL" label="['KILL']" />
+      <node id="SLYTHERIN." label="['SLYTHERIN.']" />
+      <node id="MOMMY" label="['MOMMY']" />
+      <node id="LORD VOLDEMORT" label="['LORD VOLDEMORT']" />
+      <node id="GOLDEN" label="['GOLDEN']" />
+      <node id="NEVILLE LONGBOTTOM" label="['NEVILLE LONGBOTTOM']" />
+      <node id="MUMMY" label="['MUMMY']" />
+      <node id="DORIS CROCKFORD" label="['DORIS CROCKFORD']" />
+      <node id="YOU-KNOW-" label="['YOU-KNOW-']" />
+      <node id="PERCY WEASLEY" label="['PERCY WEASLEY']" />
+      <node id="CIRCE" label="['CIRCE']" />
+      <node id="AHEM" label="['AHEM']" />
+      <node id="URIC" label="['URIC']" />
+      <node id="RONNIE" label="['RONNIE']" />
+      <node id="GREGORY THE SMARMY" label="['GREGORY THE SMARMY']" />
+      <node id="HALLOWEEN MALFOY" label="['HALLOWEEN MALFOY']" />
+      <node id="HARVEY" label="['HARVEY']" />
+      <node id="BULSTRODE" label="['BULSTRODE']" />
+      <node id="ERM" label="['ERM']" />
+      <node id="J.K. ROWLING" label="['J.K. ROWLING']" />
+      <node id="J.K. ROWLING HAGRID" label="['J.K. ROWLING HAGRID']" />
+      <node id="TROLL" label="['TROLL']" />
+      <node id="TUT" label="['TUT']" />
+      <node id="GRYFFINDORS" label="['GRYFFINDORS']" />
+      <node id="FLINT PAGE" label="['FLINT PAGE']" />
+      <node id="TUFTY" label="['TUFTY']" />
+      <node id="POTTERS" label="['POTTERS']" />
+      <node id="GULPIN" label="['GULPIN']" />
+      <node id="PETRIFICUS TOTALUSL" label="['PETRIFICUS TOTALUSL']" />
+      <node id="CODSWALLOP" label="['CODSWALLOP']" />
+      <node id="ADRIAN PUCEY" label="['ADRIAN PUCEY']" />
+      <node id="DEDALUS DIGGLE." label="['DEDALUS DIGGLE.']" />
+      <node id="UNCLE PAGE" label="['UNCLE PAGE']" />
+      <node id="“ MOON ”" label="['“ MOON ”']" />
+      <node id="“ PERKS" label="['“ PERKS']" />
+      <node id="TURPIN" label="['TURPIN']" />
+      <node id="NICHOLAS DE MIMSY" label="['NICHOLAS DE MIMSY']" />
+      <node id="BROCKLEHURST" label="['BROCKLEHURST']" />
+      <node id="KEEPER BLETCHLEY" label="['KEEPER BLETCHLEY']" />
+      <node id="PANSY PARKINSON" label="['PANSY PARKINSON']" />
+      <node id="DINKY DUDDYDUMS" label="['DINKY DUDDYDUMS']" />
+      <node id="PEEVSIE" label="['PEEVSIE']" />
+      <node id="BROWN" label="['BROWN']" />
+      <node id="TOM" label="['TOM']" />
+      <node id="MR. PAWS" label="['MR. PAWS']" />
+      <node id="MRS. NORRIS" label="['MRS. NORRIS']" />
+      <node id="’ HERMIONE" label="['’ HERMIONE']" />
+      <node id="MANDY ”" label="['MANDY ”']" />
+      <node id="J.K. ROWLING MALFOY" label="['J.K. ROWLING MALFOY']" />
+      <node id="DUDLEY DURSLEY" label="['DUDLEY DURSLEY']" />
+      <node id="NITWIT" label="['NITWIT']" />
+      <node id="ARGUS FILCH" label="['ARGUS FILCH']" />
+      <node id="QUENTIN TRIMBLE" label="['QUENTIN TRIMBLE']" />
+      <node id="HEDWIG" label="['HEDWIG']" />
+      <node id="BLUDGER" label="['BLUDGER']" />
+      <node id="MINERVA MCGONAGALL" label="['MINERVA MCGONAGALL']" />
+      <node id="HOGWARTS" label="['HOGWARTS']" />
+      <node id="RAVENCLAW" label="['RAVENCLAW']" />
+      <node id="RAVENCLAWS" label="['RAVENCLAWS']" />
+      <node id="MACDOUGAL" label="['MACDOUGAL']" />
+      <node id="ANNE" label="['ANNE']" />
+      <node id="WIZARD BARUFFIO" label="['WIZARD BARUFFIO']" />
+      <node id="HERMIONE." label="['HERMIONE.']" />
+      <node id="URN" label="['URN']" />
+      <node id="J.K. ROWLING ALBUS DUMBLEDORE" label="['J.K. ROWLING ALBUS DUMBLEDORE']" />
+      <node id="FANG." label="['FANG.']" />
+      <node id="DUNNO" label="['DUNNO']" />
+      <node id="BLEAAARGH" label="['BLEAAARGH']" />
+      <node id="ICKLE DUDLEYKINS" label="['ICKLE DUDLEYKINS']" />
+      <node id="BEATERS." label="['BEATERS.']" />
+      <node id="PTOLEMY." label="['PTOLEMY.']" />
+      <node id="” PAGE" label="['” PAGE']" />
+      <node id="HERMIONEL" label="['HERMIONEL']" />
+      <node id="NORBERT." label="['NORBERT.']" />
+      <node id="WHITE" label="['WHITE']" />
+      <node id="BUDGE" label="['BUDGE']" />
+      <node id="MORGANA" label="['MORGANA']" />
+      <node id="MUGGLES" label="['MUGGLES']" />
+      <node id="MARCUS FLINT" label="['MARCUS FLINT']" />
+      <node id="“ THOMAS" label="['“ THOMAS']" />
+      <node id="J.K. ROWLING SNAPE" label="['J.K. ROWLING SNAPE']" />
+      <node id="TIBBIES" label="['TIBBIES']" />
+      <node id="GRYFFINDOR." label="['GRYFFINDOR.']" />
+      <node id="GRED" label="['GRED']" />
+      <node id="“ POTTER" label="['“ POTTER']" />
+      <node id="“ FINNIGAN" label="['“ FINNIGAN']" />
+      <node id="MADAM PINCE" label="['MADAM PINCE']" />
+      <node id="VOLDEMORT." label="['VOLDEMORT.']" />
+      <node id="WISH MCGONAGALL" label="['WISH MCGONAGALL']" />
+      <node id="SIRIUS BLACK" label="['SIRIUS BLACK']" />
+      <node id="GEORG" label="['GEORG']" />
+      <node id="“ QUIRRELL" label="['“ QUIRRELL']" />
+      <node id="NORBERT —" label="['NORBERT —']" />
+      <node id="SEAMUS FINNIGAN" label="['SEAMUS FINNIGAN']" />
+      <node id="‘" label="['‘']" />
+      <node id="TED" label="['TED']" />
+      <node id="GEORGE WEASLEY" label="['GEORGE WEASLEY']" />
+      <node id="SLYTHERIN" label="['SLYTHERIN']" />
+      <node id="PROFESSOR SNAPE." label="['PROFESSOR SNAPE.']" />
+      <node id="SNOWY" label="['SNOWY']" />
+      <node id="OY" label="['OY']" />
+      <node id="“ ABBOTT" label="['“ ABBOTT']" />
+      <node id="NICOLAS FLAMEL." label="['NICOLAS FLAMEL.']" />
+      <node id="HAGRID HAGRID" label="['HAGRID HAGRID']" />
+      <node id="GRYFFINDOR KEEPER WOOD" label="['GRYFFINDOR KEEPER WOOD']" />
+      <node id="CORNELIUS FUDGE" label="['CORNELIUS FUDGE']" />
+      <node id="MERLIN" label="['MERLIN']" />
+      <node id="AGRIPPA" label="['AGRIPPA']" />
+    </nodes>
+    <edges>
+      <edge source="RON." target="HARRY POTTER" id="0" label="interact_with" weight="1" />
+      <edge source="RON." target="RONNIEKINS" id="1" label="interact_with" weight="1" />
+      <edge source="RON." target="J.K. ROWLING" id="2" label="interact_with" weight="3" />
+      <edge source="RON." target="ICKLE DUDLEYKINS" id="3" label="interact_with" weight="1" />
+      <edge source="RON." target="” PAGE" id="4" label="interact_with" weight="3" />
+      <edge source="HARRY HUNTING" target="HARRY POTTER" id="5" label="interact_with" weight="1" />
+      <edge source="HARRY HUNTING" target="J.K. ROWLING DUDLEY" id="6" label="interact_with" weight="1" />
+      <edge source="AUNT PETUNIA" target="PIERS POLKISS" id="7" label="interact_with" weight="2" />
+      <edge source="AUNT PETUNIA" target="VERNON." id="8" label="interact_with" weight="1" />
+      <edge source="AUNT PETUNIA" target="MARGE" id="9" label="interact_with" weight="1" />
+      <edge source="AUNT PETUNIA" target="HARRY POTTER" id="10" label="interact_with" weight="24" />
+      <edge source="AUNT PETUNIA" target="“ VERNON" id="11" label="interact_with" weight="1" />
+      <edge source="AUNT PETUNIA" target="YVONNE" id="12" label="interact_with" weight="1" />
+      <edge source="AUNT PETUNIA" target="DURSLEYS" id="13" label="interact_with" weight="2" />
+      <edge source="AUNT PETUNIA" target="VERNON DURSLEY" id="14" label="interact_with" weight="12" />
+      <edge source="AUNT PETUNIA" target="J.K. ROWLING DUDLEY" id="15" label="interact_with" weight="17" />
+      <edge source="AUNT PETUNIA" target="J.K. ROWLING" id="16" label="interact_with" weight="3" />
+      <edge source="AUNT PETUNIA" target="UNCLE PAGE" id="17" label="interact_with" weight="1" />
+      <edge source="AUNT PETUNIA" target="ICKLE DUDLEYKINS" id="18" label="interact_with" weight="1" />
+      <edge source="AUNT PETUNIA" target="NORBERT —" id="19" label="interact_with" weight="1" />
+      <edge source="TERENCE HIGGS" target="HARRY POTTER" id="20" label="interact_with" weight="1" />
+      <edge source="TERENCE HIGGS" target="SUSAN" id="21" label="interact_with" weight="1" />
+      <edge source="TERENCE HIGGS" target="HANNAH" id="22" label="interact_with" weight="1" />
+      <edge source="TERENCE HIGGS" target="J.K. ROWLING" id="23" label="interact_with" weight="1" />
+      <edge source="TERENCE HIGGS" target="BROCKLEHURST" id="24" label="interact_with" weight="1" />
+      <edge source="TERENCE HIGGS" target="BROWN" id="25" label="interact_with" weight="1" />
+      <edge source="TERENCE HIGGS" target="MANDY ”" id="26" label="interact_with" weight="1" />
+      <edge source="TERENCE HIGGS" target="” PAGE" id="27" label="interact_with" weight="1" />
+      <edge source="TERENCE HIGGS" target="“ POTTER" id="28" label="interact_with" weight="2" />
+      <edge source="LAVENDER" target="PARVATI PATIL" id="29" label="interact_with" weight="1" />
+      <edge source="LAVENDER" target="HARRY POTTER" id="30" label="interact_with" weight="2" />
+      <edge source="LAVENDER" target="RON WEASLEY" id="31" label="interact_with" weight="2" />
+      <edge source="LAVENDER" target="HERMIONE GRANGER" id="32" label="interact_with" weight="1" />
+      <edge source="LAVENDER" target="BROCKLEHURST" id="33" label="interact_with" weight="1" />
+      <edge source="LAVENDER" target="BROWN" id="34" label="interact_with" weight="1" />
+      <edge source="LAVENDER" target="MANDY ”" id="35" label="interact_with" weight="1" />
+      <edge source="LAVENDER" target="“ POTTER" id="36" label="interact_with" weight="2" />
+      <edge source="LAVENDER" target="GRYFFINDOR KEEPER WOOD" id="37" label="interact_with" weight="1" />
+      <edge source="MALCOLM" target="GORDON" id="38" label="interact_with" weight="1" />
+      <edge source="MALCOLM" target="PIERS POLKISS" id="39" label="interact_with" weight="1" />
+      <edge source="MALCOLM" target="DENNIS" id="40" label="interact_with" weight="1" />
+      <edge source="MALCOLM" target="J.K. ROWLING DUDLEY" id="41" label="interact_with" weight="2" />
+      <edge source="BILL" target="GRINGOTTS" id="42" label="interact_with" weight="2" />
+      <edge source="BILL" target="FRED WEASLEY" id="43" label="interact_with" weight="1" />
+      <edge source="BILL" target="HARRY POTTER" id="44" label="interact_with" weight="1" />
+      <edge source="BILL" target="RON WEASLEY" id="45" label="interact_with" weight="2" />
+      <edge source="BILL" target="CHARLIE WEASLEY" id="46" label="interact_with" weight="6" />
+      <edge source="BILL" target="PERCY WEASLEY" id="47" label="interact_with" weight="3" />
+      <edge source="BILL" target="J.K. ROWLING" id="48" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="FLUFFY" id="49" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="FRED WEASLEY" id="50" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="LILY" id="51" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="J.K. ROWLING QUIRRELL" id="52" label="interact_with" weight="5" />
+      <edge source="ALBUS DUMBLEDORE" target="JAMES POTTER" id="53" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="HUFFLEPUFF" id="54" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="SCABBERS" id="55" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="DUMBLEDORE." id="56" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="DEDALUS DIGGLE" id="57" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="HARRY POTTER" id="58" label="interact_with" weight="57" />
+      <edge source="ALBUS DUMBLEDORE" target="GRINDELWALD" id="59" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="FIRENZE" id="60" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="RON WEASLEY" id="61" label="interact_with" weight="13" />
+      <edge source="ALBUS DUMBLEDORE" target="DURSLEYS" id="62" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="BANE" id="63" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="NICOLAS FLAMEL" id="64" label="interact_with" weight="7" />
+      <edge source="ALBUS DUMBLEDORE" target="VERNON DURSLEY" id="65" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="MADAM POMFREY" id="66" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="GRIPHOOK" id="67" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="PARACELSUS" id="68" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="HERMIONE GRANGER" id="69" label="interact_with" weight="7" />
+      <edge source="ALBUS DUMBLEDORE" target="HENGIST" id="70" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="ALBERIC GRUNNION" id="71" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="LORD VOLDEMORT" id="72" label="interact_with" weight="7" />
+      <edge source="ALBUS DUMBLEDORE" target="NEVILLE LONGBOTTOM" id="73" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="PERCY WEASLEY" id="74" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="CIRCE" id="75" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="J.K. ROWLING" id="76" label="interact_with" weight="11" />
+      <edge source="ALBUS DUMBLEDORE" target="J.K. ROWLING HAGRID" id="77" label="interact_with" weight="15" />
+      <edge source="ALBUS DUMBLEDORE" target="TROLL" id="78" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="ARGUS FILCH" id="79" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="HEDWIG" id="80" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="MINERVA MCGONAGALL" id="81" label="interact_with" weight="18" />
+      <edge source="ALBUS DUMBLEDORE" target="RAVENCLAW" id="82" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="” PAGE" id="83" label="interact_with" weight="4" />
+      <edge source="ALBUS DUMBLEDORE" target="MORGANA" id="84" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="J.K. ROWLING SNAPE" id="85" label="interact_with" weight="6" />
+      <edge source="ALBUS DUMBLEDORE" target="“ POTTER" id="86" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="VOLDEMORT." id="87" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="‘" id="88" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="SLYTHERIN" id="89" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="GRYFFINDOR KEEPER WOOD" id="90" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="CORNELIUS FUDGE" id="91" label="interact_with" weight="2" />
+      <edge source="ALBUS DUMBLEDORE" target="MERLIN" id="92" label="interact_with" weight="1" />
+      <edge source="ALBUS DUMBLEDORE" target="AGRIPPA" id="93" label="interact_with" weight="1" />
+      <edge source="GINNY WEASLEY" target="MOM" id="94" label="interact_with" weight="2" />
+      <edge source="GINNY WEASLEY" target="HARRY POTTER" id="95" label="interact_with" weight="1" />
+      <edge source="GINNY WEASLEY" target="RON WEASLEY" id="96" label="interact_with" weight="2" />
+      <edge source="GINNY WEASLEY" target="PERCY WEASLEY" id="97" label="interact_with" weight="1" />
+      <edge source="GINNY WEASLEY" target="J.K. ROWLING" id="98" label="interact_with" weight="1" />
+      <edge source="GINNY WEASLEY" target="” PAGE" id="99" label="interact_with" weight="2" />
+      <edge source="GINNY WEASLEY" target="GEORGE WEASLEY" id="100" label="interact_with" weight="1" />
+      <edge source="GORDON" target="PIERS POLKISS" id="101" label="interact_with" weight="1" />
+      <edge source="GORDON" target="DENNIS" id="102" label="interact_with" weight="1" />
+      <edge source="GORDON" target="J.K. ROWLING DUDLEY" id="103" label="interact_with" weight="1" />
+      <edge source="PROFESSOR SPROUT" target="FLUFFY" id="104" label="interact_with" weight="1" />
+      <edge source="PROFESSOR SPROUT" target="J.K. ROWLING QUIRRELL" id="105" label="interact_with" weight="1" />
+      <edge source="PROFESSOR SPROUT" target="PROFESSOR FLITWICK" id="106" label="interact_with" weight="1" />
+      <edge source="PROFESSOR SPROUT" target="MINERVA MCGONAGALL" id="107" label="interact_with" weight="1" />
+      <edge source="DRACO MALFOY" target="FRED WEASLEY" id="108" label="interact_with" weight="1" />
+      <edge source="DRACO MALFOY" target="PROFESSOR FLITWICK" id="109" label="interact_with" weight="2" />
+      <edge source="DRACO MALFOY" target="HUFFLEPUFF" id="110" label="interact_with" weight="1" />
+      <edge source="DRACO MALFOY" target="SCABBERS" id="111" label="interact_with" weight="2" />
+      <edge source="DRACO MALFOY" target="NO CRABBE" id="112" label="interact_with" weight="17" />
+      <edge source="DRACO MALFOY" target="DRACO MALFOY." id="113" label="interact_with" weight="2" />
+      <edge source="DRACO MALFOY" target="PARVATI PATIL" id="114" label="interact_with" weight="2" />
+      <edge source="DRACO MALFOY" target="HARRY POTTER" id="115" label="interact_with" weight="68" />
+      <edge source="DRACO MALFOY" target="FANG" id="116" label="interact_with" weight="10" />
+      <edge source="DRACO MALFOY" target="RONALD WEASLEY" id="117" label="interact_with" weight="2" />
+      <edge source="DRACO MALFOY" target="RON WEASLEY" id="118" label="interact_with" weight="42" />
+      <edge source="DRACO MALFOY" target="PARVATI." id="119" label="interact_with" weight="1" />
+      <edge source="DRACO MALFOY" target="SNITCH" id="120" label="interact_with" weight="1" />
+      <edge source="DRACO MALFOY" target="GOYLE" id="121" label="interact_with" weight="17" />
+      <edge source="DRACO MALFOY" target="MADAM POMFREY" id="122" label="interact_with" weight="1" />
+      <edge source="DRACO MALFOY" target="HERMIONE GRANGER" id="123" label="interact_with" weight="12" />
+      <edge source="DRACO MALFOY" target="CHARLIE WEASLEY" id="124" label="interact_with" weight="1" />
+      <edge source="DRACO MALFOY" target="J.K. ROWLING DUDLEY" id="125" label="interact_with" weight="1" />
+      <edge source="DRACO MALFOY" target="NEVILLE LONGBOTTOM" id="126" label="interact_with" weight="21" />
+      <edge source="DRACO MALFOY" target="J.K. ROWLING" id="127" label="interact_with" weight="11" />
+      <edge source="DRACO MALFOY" target="J.K. ROWLING HAGRID" id="128" label="interact_with" weight="13" />
+      <edge source="DRACO MALFOY" target="POTTERS" id="129" label="interact_with" weight="2" />
+      <edge source="DRACO MALFOY" target="PANSY PARKINSON" id="130" label="interact_with" weight="1" />
+      <edge source="DRACO MALFOY" target="ARGUS FILCH" id="131" label="interact_with" weight="4" />
+      <edge source="DRACO MALFOY" target="MINERVA MCGONAGALL" id="132" label="interact_with" weight="4" />
+      <edge source="DRACO MALFOY" target="” PAGE" id="133" label="interact_with" weight="5" />
+      <edge source="DRACO MALFOY" target="NORBERT." id="134" label="interact_with" weight="1" />
+      <edge source="DRACO MALFOY" target="J.K. ROWLING SNAPE" id="135" label="interact_with" weight="13" />
+      <edge source="DRACO MALFOY" target="“ POTTER" id="136" label="interact_with" weight="7" />
+      <edge source="DRACO MALFOY" target="NORBERT —" id="137" label="interact_with" weight="9" />
+      <edge source="DRACO MALFOY" target="GEORGE WEASLEY" id="138" label="interact_with" weight="1" />
+      <edge source="DRACO MALFOY" target="PROFESSOR SNAPE." id="139" label="interact_with" weight="1" />
+      <edge source="NEWT SCAMANDER" target="PHYLLIDA SPORE" id="140" label="interact_with" weight="1" />
+      <edge source="NEWT SCAMANDER" target="ARSENIUS JIGGER" id="141" label="interact_with" weight="1" />
+      <edge source="NEWT SCAMANDER" target="QUENTIN TRIMBLE" id="142" label="interact_with" weight="1" />
+      <edge source="NEVILLE." target="RON WEASLEY" id="143" label="interact_with" weight="1" />
+      <edge source="NEVILLE." target="NEVILLE LONGBOTTOM" id="144" label="interact_with" weight="1" />
+      <edge source="NEVILLE." target="“ POTTER" id="145" label="interact_with" weight="1" />
+      <edge source="HARRY POTTED" target="MOM" id="146" label="interact_with" weight="1" />
+      <edge source="HARRY POTTED" target="HARRY POTTER" id="147" label="interact_with" weight="1" />
+      <edge source="MIRANDA GOSHAWK" target="BATHILDA BAGSHOT" id="148" label="interact_with" weight="1" />
+      <edge source="MIRANDA GOSHAWK" target="ADALBERT WAFFLING" id="149" label="interact_with" weight="1" />
+      <edge source="FINCH-FLETCHLEY" target="HARRY POTTER" id="150" label="interact_with" weight="2" />
+      <edge source="FINCH-FLETCHLEY" target="JUSTIN" id="151" label="interact_with" weight="1" />
+      <edge source="FINCH-FLETCHLEY" target="J.K. ROWLING" id="152" label="interact_with" weight="1" />
+      <edge source="GRINGOTTS" target="HARRY POTTER" id="153" label="interact_with" weight="4" />
+      <edge source="GRINGOTTS" target="RON WEASLEY" id="154" label="interact_with" weight="4" />
+      <edge source="GRINGOTTS" target="CHARLIE WEASLEY" id="155" label="interact_with" weight="1" />
+      <edge source="GRINGOTTS" target="J.K. ROWLING" id="156" label="interact_with" weight="1" />
+      <edge source="GRINGOTTS" target="J.K. ROWLING HAGRID" id="157" label="interact_with" weight="2" />
+      <edge source="FLUFFY" target="J.K. ROWLING QUIRRELL" id="158" label="interact_with" weight="6" />
+      <edge source="FLUFFY" target="HARRY POTTER" id="159" label="interact_with" weight="6" />
+      <edge source="FLUFFY" target="RON WEASLEY" id="160" label="interact_with" weight="1" />
+      <edge source="FLUFFY" target="HERMIONE GRANGER" id="161" label="interact_with" weight="2" />
+      <edge source="FLUFFY" target="LORD VOLDEMORT" id="162" label="interact_with" weight="1" />
+      <edge source="FLUFFY" target="NEVILLE LONGBOTTOM" id="163" label="interact_with" weight="1" />
+      <edge source="FLUFFY" target="J.K. ROWLING" id="164" label="interact_with" weight="1" />
+      <edge source="FLUFFY" target="J.K. ROWLING HAGRID" id="165" label="interact_with" weight="8" />
+      <edge source="FLUFFY" target="HEDWIG" id="166" label="interact_with" weight="1" />
+      <edge source="FLUFFY" target="MINERVA MCGONAGALL" id="167" label="interact_with" weight="2" />
+      <edge source="FLUFFY" target="” PAGE" id="168" label="interact_with" weight="1" />
+      <edge source="FLUFFY" target="J.K. ROWLING SNAPE" id="169" label="interact_with" weight="5" />
+      <edge source="CLIODNA" target="BERTIE BOTT" id="170" label="interact_with" weight="1" />
+      <edge source="CLIODNA" target="PARACELSUS" id="171" label="interact_with" weight="1" />
+      <edge source="CLIODNA" target="ALBERIC GRUNNION" id="172" label="interact_with" weight="1" />
+      <edge source="CLIODNA" target="CIRCE" id="173" label="interact_with" weight="1" />
+      <edge source="CLIODNA" target="MERLIN" id="174" label="interact_with" weight="1" />
+      <edge source="BINNS" target="EMERIC" id="175" label="interact_with" weight="1" />
+      <edge source="BINNS" target="URIC" id="176" label="interact_with" weight="1" />
+      <edge source="PATH" target="SALLY-" id="177" label="interact_with" weight="1" />
+      <edge source="PATH" target="“ PARKINSON" id="178" label="interact_with" weight="1" />
+      <edge source="PATH" target="“ MOON ”" id="179" label="interact_with" weight="1" />
+      <edge source="PATH" target="“ PERKS" id="180" label="interact_with" weight="1" />
+      <edge source="PATH" target="ANNE" id="181" label="interact_with" weight="1" />
+      <edge source="PATH" target="” PAGE" id="182" label="interact_with" weight="1" />
+      <edge source="PATH" target="“ POTTER" id="183" label="interact_with" weight="1" />
+      <edge source="FRED WEASLEY" target="HUFFLEPUFF" id="184" label="interact_with" weight="1" />
+      <edge source="FRED WEASLEY" target="NO CRABBE" id="185" label="interact_with" weight="1" />
+      <edge source="FRED WEASLEY" target="HARRY POTTER" id="186" label="interact_with" weight="22" />
+      <edge source="FRED WEASLEY" target="RON WEASLEY" id="187" label="interact_with" weight="9" />
+      <edge source="FRED WEASLEY" target="OLIVER WOOD" id="188" label="interact_with" weight="1" />
+      <edge source="FRED WEASLEY" target="CHARLIE WEASLEY" id="189" label="interact_with" weight="2" />
+      <edge source="FRED WEASLEY" target="PERCY WEASLEY" id="190" label="interact_with" weight="3" />
+      <edge source="FRED WEASLEY" target="GREGORY THE SMARMY" id="191" label="interact_with" weight="1" />
+      <edge source="FRED WEASLEY" target="J.K. ROWLING" id="192" label="interact_with" weight="4" />
+      <edge source="FRED WEASLEY" target="J.K. ROWLING HAGRID" id="193" label="interact_with" weight="2" />
+      <edge source="FRED WEASLEY" target="J.K. ROWLING SNAPE" id="194" label="interact_with" weight="2" />
+      <edge source="FRED WEASLEY" target="GEORGE WEASLEY" id="195" label="interact_with" weight="21" />
+      <edge source="FRED WEASLEY" target="GRYFFINDOR KEEPER WOOD" id="196" label="interact_with" weight="2" />
+      <edge source="HARRYL" target="HARRY POTTER" id="197" label="interact_with" weight="1" />
+      <edge source="HARRYL" target="RON WEASLEY" id="198" label="interact_with" weight="1" />
+      <edge source="HARRYL" target="HERMIONE GRANGER" id="199" label="interact_with" weight="2" />
+      <edge source="HARRYL" target="J.K. ROWLING" id="200" label="interact_with" weight="1" />
+      <edge source="LILY" target="JAMES POTTER" id="201" label="interact_with" weight="5" />
+      <edge source="LILY" target="HARRY POTTER" id="202" label="interact_with" weight="2" />
+      <edge source="LILY" target="DURSLEYS" id="203" label="interact_with" weight="1" />
+      <edge source="LILY" target="J.K. ROWLING HAGRID" id="204" label="interact_with" weight="1" />
+      <edge source="LILY" target="POTTERS" id="205" label="interact_with" weight="1" />
+      <edge source="LILY" target="MINERVA MCGONAGALL" id="206" label="interact_with" weight="1" />
+      <edge source="LILY" target="MUGGLES" id="207" label="interact_with" weight="1" />
+      <edge source="HARRY." target="J.K. ROWLING QUIRRELL" id="208" label="interact_with" weight="1" />
+      <edge source="HARRY." target="HARRY POTTER" id="209" label="interact_with" weight="5" />
+      <edge source="HARRY." target="DUDLEY." id="210" label="interact_with" weight="1" />
+      <edge source="HARRY." target="VERNON DURSLEY" id="211" label="interact_with" weight="1" />
+      <edge source="HARRY." target="HERMIONE GRANGER" id="212" label="interact_with" weight="1" />
+      <edge source="HARRY." target="J.K. ROWLING DUDLEY" id="213" label="interact_with" weight="1" />
+      <edge source="HARRY." target="DORIS CROCKFORD" id="214" label="interact_with" weight="1" />
+      <edge source="HARRY." target="J.K. ROWLING" id="215" label="interact_with" weight="2" />
+      <edge source="HARRY." target="J.K. ROWLING HAGRID" id="216" label="interact_with" weight="4" />
+      <edge source="HARRY." target="J.K. ROWLING SNAPE" id="217" label="interact_with" weight="2" />
+      <edge source="HARRY." target="“ QUIRRELL" id="218" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING QUIRRELL" target="HARRY POTTER" id="219" label="interact_with" weight="71" />
+      <edge source="J.K. ROWLING QUIRRELL" target="POTTER." id="220" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING QUIRRELL" target="DON" id="221" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING QUIRRELL" target="RON WEASLEY" id="222" label="interact_with" weight="8" />
+      <edge source="J.K. ROWLING QUIRRELL" target="SEVERUS SNAPE" id="223" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING QUIRRELL" target="HERMIONE GRANGER" id="224" label="interact_with" weight="6" />
+      <edge source="J.K. ROWLING QUIRRELL" target="KILL" id="225" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING QUIRRELL" target="LORD VOLDEMORT" id="226" label="interact_with" weight="8" />
+      <edge source="J.K. ROWLING QUIRRELL" target="PERCY WEASLEY" id="227" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING QUIRRELL" target="J.K. ROWLING" id="228" label="interact_with" weight="11" />
+      <edge source="J.K. ROWLING QUIRRELL" target="J.K. ROWLING HAGRID" id="229" label="interact_with" weight="3" />
+      <edge source="J.K. ROWLING QUIRRELL" target="MINERVA MCGONAGALL" id="230" label="interact_with" weight="3" />
+      <edge source="J.K. ROWLING QUIRRELL" target="” PAGE" id="231" label="interact_with" weight="4" />
+      <edge source="J.K. ROWLING QUIRRELL" target="J.K. ROWLING SNAPE" id="232" label="interact_with" weight="23" />
+      <edge source="J.K. ROWLING QUIRRELL" target="“ POTTER" id="233" label="interact_with" weight="4" />
+      <edge source="J.K. ROWLING QUIRRELL" target="“ QUIRRELL" id="234" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING QUIRRELL" target="NORBERT —" id="235" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING QUIRRELL" target="SEAMUS FINNIGAN" id="236" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING QUIRRELL" target="PROFESSOR SNAPE." id="237" label="interact_with" weight="1" />
+      <edge source="PIERS POLKISS" target="HARRY POTTER" id="238" label="interact_with" weight="10" />
+      <edge source="PIERS POLKISS" target="DENNIS" id="239" label="interact_with" weight="1" />
+      <edge source="PIERS POLKISS" target="DURSLEYS" id="240" label="interact_with" weight="2" />
+      <edge source="PIERS POLKISS" target="VERNON DURSLEY" id="241" label="interact_with" weight="2" />
+      <edge source="PIERS POLKISS" target="J.K. ROWLING DUDLEY" id="242" label="interact_with" weight="15" />
+      <edge source="PIERS POLKISS" target="J.K. ROWLING" id="243" label="interact_with" weight="1" />
+      <edge source="MRS. DURSLEY" target="HAROLD" id="244" label="interact_with" weight="1" />
+      <edge source="MRS. DURSLEY" target="DURSLEYS" id="245" label="interact_with" weight="1" />
+      <edge source="MRS. DURSLEY" target="VERNON DURSLEY" id="246" label="interact_with" weight="2" />
+      <edge source="MRS. DURSLEY" target="J.K. ROWLING DUDLEY" id="247" label="interact_with" weight="2" />
+      <edge source="MRS. DURSLEY" target="HARVEY" id="248" label="interact_with" weight="1" />
+      <edge source="BLAISE" target="HARRY POTTER" id="249" label="interact_with" weight="1" />
+      <edge source="BLAISE" target="RON WEASLEY" id="250" label="interact_with" weight="1" />
+      <edge source="BLAISE" target="“ ZABINI" id="251" label="interact_with" weight="1" />
+      <edge source="BLAISE" target="PERCY WEASLEY" id="252" label="interact_with" weight="1" />
+      <edge source="BLAISE" target="MINERVA MCGONAGALL" id="253" label="interact_with" weight="1" />
+      <edge source="FLUFFY." target="HARRY POTTER" id="254" label="interact_with" weight="1" />
+      <edge source="FLUFFY." target="J.K. ROWLING HAGRID" id="255" label="interact_with" weight="2" />
+      <edge source="FLUFFY." target="J.K. ROWLING SNAPE" id="256" label="interact_with" weight="1" />
+      <edge source="CHASER BELL" target="ALICIA SPINNET" id="257" label="interact_with" weight="1" />
+      <edge source="CHASER BELL" target="ANGELINA JOHNSON" id="258" label="interact_with" weight="1" />
+      <edge source="CHASER BELL" target="CHASER PUCEY" id="259" label="interact_with" weight="1" />
+      <edge source="CHASER BELL" target="KATIE BELL" id="260" label="interact_with" weight="1" />
+      <edge source="CHASER BELL" target="LEE JORDAN" id="261" label="interact_with" weight="2" />
+      <edge source="CHASER BELL" target="” PAGE" id="262" label="interact_with" weight="1" />
+      <edge source="CHASER BELL" target="MARCUS FLINT" id="263" label="interact_with" weight="1" />
+      <edge source="CHASER BELL" target="GRYFFINDOR KEEPER WOOD" id="264" label="interact_with" weight="2" />
+      <edge source="PROFESSOR FLITWICK" target="EMERIC" id="265" label="interact_with" weight="1" />
+      <edge source="PROFESSOR FLITWICK" target="HARRY POTTER" id="266" label="interact_with" weight="6" />
+      <edge source="PROFESSOR FLITWICK" target="RON WEASLEY" id="267" label="interact_with" weight="4" />
+      <edge source="PROFESSOR FLITWICK" target="HERMIONE GRANGER" id="268" label="interact_with" weight="2" />
+      <edge source="PROFESSOR FLITWICK" target="NEVILLE LONGBOTTOM" id="269" label="interact_with" weight="1" />
+      <edge source="PROFESSOR FLITWICK" target="URIC" id="270" label="interact_with" weight="1" />
+      <edge source="PROFESSOR FLITWICK" target="J.K. ROWLING" id="271" label="interact_with" weight="1" />
+      <edge source="PROFESSOR FLITWICK" target="J.K. ROWLING HAGRID" id="272" label="interact_with" weight="1" />
+      <edge source="PROFESSOR FLITWICK" target="MINERVA MCGONAGALL" id="273" label="interact_with" weight="4" />
+      <edge source="PROFESSOR FLITWICK" target="” PAGE" id="274" label="interact_with" weight="1" />
+      <edge source="PROFESSOR FLITWICK" target="J.K. ROWLING SNAPE" id="275" label="interact_with" weight="4" />
+      <edge source="PROFESSOR FLITWICK" target="“ POTTER" id="276" label="interact_with" weight="2" />
+      <edge source="PROFESSOR FLITWICK" target="SEAMUS FINNIGAN" id="277" label="interact_with" weight="1" />
+      <edge source="PROFESSOR FLITWICK" target="GRYFFINDOR KEEPER WOOD" id="278" label="interact_with" weight="4" />
+      <edge source="“ SNAPE" target="J.K. ROWLING" id="279" label="interact_with" weight="1" />
+      <edge source="“ SNAPE" target="” PAGE" id="280" label="interact_with" weight="1" />
+      <edge source="“ SNAPE" target="PROFESSOR SNAPE." id="281" label="interact_with" weight="1" />
+      <edge source="MRS. FIGG" target="HARRY POTTER" id="282" label="interact_with" weight="1" />
+      <edge source="MRS. FIGG" target="J.K. ROWLING" id="283" label="interact_with" weight="1" />
+      <edge source="JAMES POTTER" target="HARRY POTTER" id="284" label="interact_with" weight="2" />
+      <edge source="JAMES POTTER" target="DURSLEYS" id="285" label="interact_with" weight="1" />
+      <edge source="JAMES POTTER" target="J.K. ROWLING HAGRID" id="286" label="interact_with" weight="1" />
+      <edge source="JAMES POTTER" target="POTTERS" id="287" label="interact_with" weight="1" />
+      <edge source="JAMES POTTER" target="MINERVA MCGONAGALL" id="288" label="interact_with" weight="2" />
+      <edge source="JAMES POTTER" target="MUGGLES" id="289" label="interact_with" weight="1" />
+      <edge source="HUFFLEPUFF" target="BONES" id="290" label="interact_with" weight="1" />
+      <edge source="HUFFLEPUFF" target="HARRY POTTER" id="291" label="interact_with" weight="2" />
+      <edge source="HUFFLEPUFF" target="RON WEASLEY" id="292" label="interact_with" weight="2" />
+      <edge source="HUFFLEPUFF" target="SUSAN" id="293" label="interact_with" weight="1" />
+      <edge source="HUFFLEPUFF" target="HANNAH" id="294" label="interact_with" weight="1" />
+      <edge source="HUFFLEPUFF" target="HERMIONE GRANGER" id="295" label="interact_with" weight="1" />
+      <edge source="HUFFLEPUFF" target="J.K. ROWLING" id="296" label="interact_with" weight="1" />
+      <edge source="HUFFLEPUFF" target="RAVENCLAW" id="297" label="interact_with" weight="2" />
+      <edge source="HUFFLEPUFF" target="J.K. ROWLING SNAPE" id="298" label="interact_with" weight="3" />
+      <edge source="HUFFLEPUFF" target="GEORGE WEASLEY" id="299" label="interact_with" weight="1" />
+      <edge source="HUFFLEPUFF" target="SLYTHERIN" id="300" label="interact_with" weight="4" />
+      <edge source="HUFFLEPUFF" target="GRYFFINDOR KEEPER WOOD" id="301" label="interact_with" weight="2" />
+      <edge source="GALLOPIN" target="J.K. ROWLING HAGRID" id="302" label="interact_with" weight="1" />
+      <edge source="MUGWUMP" target="WARLOCK" id="303" label="interact_with" weight="1" />
+      <edge source="OAK" target="RUBEUS HAGRID" id="304" label="interact_with" weight="2" />
+      <edge source="OAK" target="J.K. ROWLING HAGRID" id="305" label="interact_with" weight="1" />
+      <edge source="SCABBERS" target="NO CRABBE" id="306" label="interact_with" weight="2" />
+      <edge source="SCABBERS" target="HARRY POTTER" id="307" label="interact_with" weight="9" />
+      <edge source="SCABBERS" target="RON WEASLEY" id="308" label="interact_with" weight="9" />
+      <edge source="SCABBERS" target="DEAN THOMAS" id="309" label="interact_with" weight="1" />
+      <edge source="SCABBERS" target="GOYLE" id="310" label="interact_with" weight="6" />
+      <edge source="SCABBERS" target="PERCY WEASLEY" id="311" label="interact_with" weight="1" />
+      <edge source="SCABBERS" target="J.K. ROWLING" id="312" label="interact_with" weight="1" />
+      <edge source="BERTIE BOTT" target="RON WEASLEY" id="313" label="interact_with" weight="1" />
+      <edge source="BONES" target="HARRY POTTER" id="314" label="interact_with" weight="1" />
+      <edge source="BONES" target="SUSAN" id="315" label="interact_with" weight="2" />
+      <edge source="BONES" target="MCKINNONS" id="316" label="interact_with" weight="1" />
+      <edge source="BONES" target="PREWETTS" id="317" label="interact_with" weight="1" />
+      <edge source="BONES" target="” PAGE" id="318" label="interact_with" weight="1" />
+      <edge source="RONAN" target="HARRY POTTER" id="319" label="interact_with" weight="4" />
+      <edge source="RONAN" target="FIRENZE" id="320" label="interact_with" weight="2" />
+      <edge source="RONAN" target="BANE" id="321" label="interact_with" weight="7" />
+      <edge source="RONAN" target="HERMIONE GRANGER" id="322" label="interact_with" weight="5" />
+      <edge source="RONAN" target="J.K. ROWLING" id="323" label="interact_with" weight="3" />
+      <edge source="RONAN" target="J.K. ROWLING HAGRID" id="324" label="interact_with" weight="10" />
+      <edge source="RONAN" target="” PAGE" id="325" label="interact_with" weight="4" />
+      <edge source="SALLY-" target="HARRY POTTER" id="326" label="interact_with" weight="1" />
+      <edge source="SALLY-" target="“ MOON ”" id="327" label="interact_with" weight="1" />
+      <edge source="SALLY-" target="“ PERKS" id="328" label="interact_with" weight="1" />
+      <edge source="SALLY-" target="ANNE" id="329" label="interact_with" weight="1" />
+      <edge source="SALLY-" target="” PAGE" id="330" label="interact_with" weight="1" />
+      <edge source="SALLY-" target="“ POTTER" id="331" label="interact_with" weight="2" />
+      <edge source="MARGE" target="VERNON DURSLEY" id="332" label="interact_with" weight="5" />
+      <edge source="MARGE" target="J.K. ROWLING DUDLEY" id="333" label="interact_with" weight="2" />
+      <edge source="MARGE" target="TUFTY" id="334" label="interact_with" weight="1" />
+      <edge source="MARGE" target="MR. PAWS" id="335" label="interact_with" weight="1" />
+      <edge source="MARGE" target="TIBBIES" id="336" label="interact_with" weight="1" />
+      <edge source="MARGE" target="SNOWY" id="337" label="interact_with" weight="1" />
+      <edge source="NO CRABBE" target="HARRY POTTER" id="338" label="interact_with" weight="14" />
+      <edge source="NO CRABBE" target="RONALD WEASLEY" id="339" label="interact_with" weight="1" />
+      <edge source="NO CRABBE" target="RON WEASLEY" id="340" label="interact_with" weight="4" />
+      <edge source="NO CRABBE" target="GOYLE" id="341" label="interact_with" weight="21" />
+      <edge source="NO CRABBE" target="MADAM POMFREY" id="342" label="interact_with" weight="1" />
+      <edge source="NO CRABBE" target="NEVILLE LONGBOTTOM" id="343" label="interact_with" weight="2" />
+      <edge source="NO CRABBE" target="J.K. ROWLING" id="344" label="interact_with" weight="3" />
+      <edge source="NO CRABBE" target="MINERVA MCGONAGALL" id="345" label="interact_with" weight="1" />
+      <edge source="NO CRABBE" target="” PAGE" id="346" label="interact_with" weight="1" />
+      <edge source="NO CRABBE" target="J.K. ROWLING SNAPE" id="347" label="interact_with" weight="2" />
+      <edge source="NO CRABBE" target="GEORGE WEASLEY" id="348" label="interact_with" weight="1" />
+      <edge source="SHAN" target="PEEVES" id="349" label="interact_with" weight="2" />
+      <edge source="SHAN" target="“ POTTER" id="350" label="interact_with" weight="1" />
+      <edge source="MADAM HOOCH" target="HARRY POTTER" id="351" label="interact_with" weight="2" />
+      <edge source="MADAM HOOCH" target="NEVILLE LONGBOTTOM" id="352" label="interact_with" weight="3" />
+      <edge source="MADAM HOOCH" target="J.K. ROWLING" id="353" label="interact_with" weight="1" />
+      <edge source="MADAM HOOCH" target="” PAGE" id="354" label="interact_with" weight="1" />
+      <edge source="MADAM HOOCH" target="MARCUS FLINT" id="355" label="interact_with" weight="1" />
+      <edge source="MADAM HOOCH" target="GRYFFINDOR KEEPER WOOD" id="356" label="interact_with" weight="1" />
+      <edge source="EMERIC" target="HARRY POTTER" id="357" label="interact_with" weight="2" />
+      <edge source="EMERIC" target="BATHILDA BAGSHOT" id="358" label="interact_with" weight="1" />
+      <edge source="EMERIC" target="ADALBERT WAFFLING" id="359" label="interact_with" weight="1" />
+      <edge source="EMERIC" target="URIC" id="360" label="interact_with" weight="1" />
+      <edge source="EMERIC" target="J.K. ROWLING" id="361" label="interact_with" weight="1" />
+      <edge source="DRACO MALFOY." target="HARRY POTTER" id="362" label="interact_with" weight="1" />
+      <edge source="DRACO MALFOY." target="RON WEASLEY" id="363" label="interact_with" weight="1" />
+      <edge source="HUFFLEPUFFS" target="HARRY POTTER" id="364" label="interact_with" weight="2" />
+      <edge source="HUFFLEPUFFS" target="RAVENCLAWS" id="365" label="interact_with" weight="1" />
+      <edge source="HUFFLEPUFFS" target="SLYTHERIN" id="366" label="interact_with" weight="1" />
+      <edge source="SEEKER" target="HARRY POTTER" id="367" label="interact_with" weight="4" />
+      <edge source="SEEKER" target="RON WEASLEY" id="368" label="interact_with" weight="1" />
+      <edge source="SEEKER" target="” PAGE" id="369" label="interact_with" weight="2" />
+      <edge source="SEEKER" target="GRYFFINDOR KEEPER WOOD" id="370" label="interact_with" weight="1" />
+      <edge source="PROFESSOR MCGONAGALL." target="J.K. ROWLING" id="371" label="interact_with" weight="1" />
+      <edge source="PROFESSOR MCGONAGALL." target="” PAGE" id="372" label="interact_with" weight="2" />
+      <edge source="TREVOR" target="NEVILLE LONGBOTTOM" id="373" label="interact_with" weight="4" />
+      <edge source="TREVOR" target="J.K. ROWLING" id="374" label="interact_with" weight="2" />
+      <edge source="PARVATI PATIL" target="HARRY POTTER" id="375" label="interact_with" weight="3" />
+      <edge source="PARVATI PATIL" target="RONALD WEASLEY" id="376" label="interact_with" weight="1" />
+      <edge source="PARVATI PATIL" target="RON WEASLEY" id="377" label="interact_with" weight="1" />
+      <edge source="PARVATI PATIL" target="HERMIONE GRANGER" id="378" label="interact_with" weight="2" />
+      <edge source="PARVATI PATIL" target="NEVILLE LONGBOTTOM" id="379" label="interact_with" weight="1" />
+      <edge source="PARVATI PATIL" target="PANSY PARKINSON" id="380" label="interact_with" weight="1" />
+      <edge source="PARVATI PATIL" target="NORBERT —" id="381" label="interact_with" weight="1" />
+      <edge source="PARVATI PATIL" target="GRYFFINDOR KEEPER WOOD" id="382" label="interact_with" weight="1" />
+      <edge source="STONE" target="RON WEASLEY" id="383" label="interact_with" weight="1" />
+      <edge source="STONE" target="HERMIONE GRANGER" id="384" label="interact_with" weight="1" />
+      <edge source="MOM" target="HARRY POTTER" id="385" label="interact_with" weight="3" />
+      <edge source="MOM" target="RON WEASLEY" id="386" label="interact_with" weight="2" />
+      <edge source="MOM" target="HERMIONE GRANGER" id="387" label="interact_with" weight="1" />
+      <edge source="MOM" target="RONNIE" id="388" label="interact_with" weight="1" />
+      <edge source="MOM" target="J.K. ROWLING" id="389" label="interact_with" weight="1" />
+      <edge source="MOM" target="” PAGE" id="390" label="interact_with" weight="2" />
+      <edge source="DEDALUS DIGGLE" target="HARRY POTTER" id="391" label="interact_with" weight="3" />
+      <edge source="DEDALUS DIGGLE" target="J.K. ROWLING" id="392" label="interact_with" weight="1" />
+      <edge source="DEDALUS DIGGLE" target="DEDALUS DIGGLE." id="393" label="interact_with" weight="2" />
+      <edge source="WEASLEYS" target="HARRY POTTER" id="394" label="interact_with" weight="2" />
+      <edge source="WEASLEYS" target="NEVILLE LONGBOTTOM" id="395" label="interact_with" weight="1" />
+      <edge source="PHYLLIDA SPORE" target="HARRY POTTER" id="396" label="interact_with" weight="2" />
+      <edge source="PHYLLIDA SPORE" target="ARSENIUS JIGGER" id="397" label="interact_with" weight="1" />
+      <edge source="PHYLLIDA SPORE" target="J.K. ROWLING" id="398" label="interact_with" weight="1" />
+      <edge source="NICHOLAS DE MIMSY-PORPINGTON" target="RON WEASLEY" id="399" label="interact_with" weight="1" />
+      <edge source="NICHOLAS DE MIMSY-PORPINGTON" target="PEEVES" id="400" label="interact_with" weight="1" />
+      <edge source="NICHOLAS DE MIMSY-PORPINGTON" target="NICHOLAS DE MIMSY" id="401" label="interact_with" weight="1" />
+      <edge source="NICHOLAS DE MIMSY-PORPINGTON" target="SEAMUS FINNIGAN" id="402" label="interact_with" weight="1" />
+      <edge source="GRAN" target="NEVILLE LONGBOTTOM" id="403" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="BATHILDA BAGSHOT" id="404" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="GRUNT" id="405" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="MILLICENT" id="406" label="interact_with" weight="2" />
+      <edge source="HARRY POTTER" target="DITTANY ”" id="407" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="FANG" id="408" label="interact_with" weight="11" />
+      <edge source="HARRY POTTER" target="RONALD WEASLEY" id="409" label="interact_with" weight="2" />
+      <edge source="HARRY POTTER" target="FIRENZE" id="410" label="interact_with" weight="10" />
+      <edge source="HARRY POTTER" target="RON WEASLEY" id="411" label="interact_with" weight="284" />
+      <edge source="HARRY POTTER" target="“ ZABINI" id="412" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="ALGIE" id="413" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="DUDLEY." id="414" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="HAROLD" id="415" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="SUSAN" id="416" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="SEVERUS SNAPE" id="417" label="interact_with" weight="2" />
+      <edge source="HARRY POTTER" target="MR. OLLIVANDER" id="418" label="interact_with" weight="9" />
+      <edge source="HARRY POTTER" target="MIMBLEWIMBLE." id="419" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="SCREECH" id="420" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="PEEVES" id="421" label="interact_with" weight="4" />
+      <edge source="HARRY POTTER" target="ALICIA SPINNET" id="422" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="HOWARD" id="423" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="VOZ" id="424" label="interact_with" weight="3" />
+      <edge source="HARRY POTTER" target="DURSLEYS" id="425" label="interact_with" weight="24" />
+      <edge source="HARRY POTTER" target="BANE" id="426" label="interact_with" weight="4" />
+      <edge source="HARRY POTTER" target="DEAN THOMAS" id="427" label="interact_with" weight="7" />
+      <edge source="HARRY POTTER" target="MADAM MALKIN" id="428" label="interact_with" weight="9" />
+      <edge source="HARRY POTTER" target="OLIVER WOOD" id="429" label="interact_with" weight="5" />
+      <edge source="HARRY POTTER" target="JUSTIN" id="430" label="interact_with" weight="2" />
+      <edge source="HARRY POTTER" target="ANGELINA JOHNSON" id="431" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="NICOLAS FLAMEL" id="432" label="interact_with" weight="12" />
+      <edge source="HARRY POTTER" target="HANNAH" id="433" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="ADALBERT WAFFLING" id="434" label="interact_with" weight="2" />
+      <edge source="HARRY POTTER" target="FAT" id="435" label="interact_with" weight="4" />
+      <edge source="HARRY POTTER" target="DADDY." id="436" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="LEE JORDAN" id="437" label="interact_with" weight="6" />
+      <edge source="HARRY POTTER" target="GOYLE" id="438" label="interact_with" weight="14" />
+      <edge source="HARRY POTTER" target="VERNON DURSLEY" id="439" label="interact_with" weight="69" />
+      <edge source="HARRY POTTER" target="MADAM POMFREY" id="440" label="interact_with" weight="5" />
+      <edge source="HARRY POTTER" target="GRIPHOOK" id="441" label="interact_with" weight="7" />
+      <edge source="HARRY POTTER" target="HERMIONE GRANGER" id="442" label="interact_with" weight="163" />
+      <edge source="HARRY POTTER" target="CHARLIE WEASLEY" id="443" label="interact_with" weight="10" />
+      <edge source="HARRY POTTER" target="J.K. ROWLING HERMIONE" id="444" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="— SLYTHERINS" id="445" label="interact_with" weight="2" />
+      <edge source="HARRY POTTER" target="J.K. ROWLING DUDLEY" id="446" label="interact_with" weight="90" />
+      <edge source="HARRY POTTER" target="RUBEUS HAGRID" id="447" label="interact_with" weight="3" />
+      <edge source="HARRY POTTER" target="KILL" id="448" label="interact_with" weight="3" />
+      <edge source="HARRY POTTER" target="SLYTHERIN." id="449" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="MOMMY" id="450" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="LORD VOLDEMORT" id="451" label="interact_with" weight="18" />
+      <edge source="HARRY POTTER" target="NEVILLE LONGBOTTOM" id="452" label="interact_with" weight="62" />
+      <edge source="HARRY POTTER" target="DORIS CROCKFORD" id="453" label="interact_with" weight="4" />
+      <edge source="HARRY POTTER" target="PERCY WEASLEY" id="454" label="interact_with" weight="13" />
+      <edge source="HARRY POTTER" target="HALLOWEEN MALFOY" id="455" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="HARVEY" id="456" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="BULSTRODE" id="457" label="interact_with" weight="2" />
+      <edge source="HARRY POTTER" target="J.K. ROWLING" id="458" label="interact_with" weight="185" />
+      <edge source="HARRY POTTER" target="J.K. ROWLING HAGRID" id="459" label="interact_with" weight="208" />
+      <edge source="HARRY POTTER" target="TUT" id="460" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="GRYFFINDORS" id="461" label="interact_with" weight="2" />
+      <edge source="HARRY POTTER" target="FLINT PAGE" id="462" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="POTTERS" id="463" label="interact_with" weight="4" />
+      <edge source="HARRY POTTER" target="GULPIN" id="464" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="DEDALUS DIGGLE." id="465" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="“ MOON ”" id="466" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="“ PERKS" id="467" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="TURPIN" id="468" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="KEEPER BLETCHLEY" id="469" label="interact_with" weight="3" />
+      <edge source="HARRY POTTER" target="PEEVSIE" id="470" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="BROWN" id="471" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="TOM" id="472" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="MRS. NORRIS" id="473" label="interact_with" weight="2" />
+      <edge source="HARRY POTTER" target="DUDLEY DURSLEY" id="474" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="ARGUS FILCH" id="475" label="interact_with" weight="26" />
+      <edge source="HARRY POTTER" target="HEDWIG" id="476" label="interact_with" weight="6" />
+      <edge source="HARRY POTTER" target="MINERVA MCGONAGALL" id="477" label="interact_with" weight="32" />
+      <edge source="HARRY POTTER" target="HOGWARTS" id="478" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="RAVENCLAWS" id="479" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="ANNE" id="480" label="interact_with" weight="2" />
+      <edge source="HARRY POTTER" target="HERMIONE." id="481" label="interact_with" weight="3" />
+      <edge source="HARRY POTTER" target="BLEAAARGH" id="482" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="ICKLE DUDLEYKINS" id="483" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="PTOLEMY." id="484" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="” PAGE" id="485" label="interact_with" weight="63" />
+      <edge source="HARRY POTTER" target="HERMIONEL" id="486" label="interact_with" weight="3" />
+      <edge source="HARRY POTTER" target="NORBERT." id="487" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="WHITE" id="488" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="MORGANA" id="489" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="MUGGLES" id="490" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="MARCUS FLINT" id="491" label="interact_with" weight="10" />
+      <edge source="HARRY POTTER" target="“ THOMAS" id="492" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="J.K. ROWLING SNAPE" id="493" label="interact_with" weight="94" />
+      <edge source="HARRY POTTER" target="GRYFFINDOR." id="494" label="interact_with" weight="3" />
+      <edge source="HARRY POTTER" target="“ POTTER" id="495" label="interact_with" weight="22" />
+      <edge source="HARRY POTTER" target="“ FINNIGAN" id="496" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="VOLDEMORT." id="497" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="WISH MCGONAGALL" id="498" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="GEORG" id="499" label="interact_with" weight="1" />
+      <edge source="HARRY POTTER" target="NORBERT —" id="500" label="interact_with" weight="20" />
+      <edge source="HARRY POTTER" target="SEAMUS FINNIGAN" id="501" label="interact_with" weight="14" />
+      <edge source="HARRY POTTER" target="GEORGE WEASLEY" id="502" label="interact_with" weight="14" />
+      <edge source="HARRY POTTER" target="SLYTHERIN" id="503" label="interact_with" weight="10" />
+      <edge source="HARRY POTTER" target="PROFESSOR SNAPE." id="504" label="interact_with" weight="2" />
+      <edge source="HARRY POTTER" target="GRYFFINDOR KEEPER WOOD" id="505" label="interact_with" weight="55" />
+      <edge source="HARRY POTTER" target="AGRIPPA" id="506" label="interact_with" weight="2" />
+      <edge source="BATHILDA BAGSHOT" target="ADALBERT WAFFLING" id="507" label="interact_with" weight="1" />
+      <edge source="” MALFOY" target="MORAG." id="508" label="interact_with" weight="1" />
+      <edge source="” MALFOY" target="MACDOUGAL" id="509" label="interact_with" weight="1" />
+      <edge source="” MALFOY" target="“ POTTER" id="510" label="interact_with" weight="1" />
+      <edge source="VINDICTUS VIRIDIAN" target="DUDLEY." id="511" label="interact_with" weight="1" />
+      <edge source="POTTER." target="SEVERUS SNAPE" id="512" label="interact_with" weight="1" />
+      <edge source="POTTER." target="VERNON DURSLEY" id="513" label="interact_with" weight="1" />
+      <edge source="POTTER." target="J.K. ROWLING SNAPE" id="514" label="interact_with" weight="3" />
+      <edge source="POTTER." target="“ POTTER" id="515" label="interact_with" weight="1" />
+      <edge source="BIN" target="RON WEASLEY" id="516" label="interact_with" weight="1" />
+      <edge source="BIN" target="HERMIONE GRANGER" id="517" label="interact_with" weight="1" />
+      <edge source="BIN" target="J.K. ROWLING HAGRID" id="518" label="interact_with" weight="3" />
+      <edge source="PERENELLE" target="NICOLAS FLAMEL" id="519" label="interact_with" weight="1" />
+      <edge source="PERENELLE" target="J.K. ROWLING" id="520" label="interact_with" weight="2" />
+      <edge source="GRUNT" target="VERNON DURSLEY" id="521" label="interact_with" weight="1" />
+      <edge source="MILLICENT" target="RON WEASLEY" id="522" label="interact_with" weight="1" />
+      <edge source="MILLICENT" target="BULSTRODE" id="523" label="interact_with" weight="1" />
+      <edge source="MILLICENT" target="“ POTTER" id="524" label="interact_with" weight="1" />
+      <edge source="DITTANY ”" target="RON WEASLEY" id="525" label="interact_with" weight="1" />
+      <edge source="FANG" target="RON WEASLEY" id="526" label="interact_with" weight="5" />
+      <edge source="FANG" target="HERMIONE GRANGER" id="527" label="interact_with" weight="3" />
+      <edge source="FANG" target="NEVILLE LONGBOTTOM" id="528" label="interact_with" weight="5" />
+      <edge source="FANG" target="J.K. ROWLING" id="529" label="interact_with" weight="1" />
+      <edge source="FANG" target="J.K. ROWLING HAGRID" id="530" label="interact_with" weight="14" />
+      <edge source="FANG" target="” PAGE" id="531" label="interact_with" weight="1" />
+      <edge source="GRINDELWALD" target="‘" id="532" label="interact_with" weight="1" />
+      <edge source="RONALD WEASLEY" target="RON WEASLEY" id="533" label="interact_with" weight="1" />
+      <edge source="RONALD WEASLEY" target="GOYLE" id="534" label="interact_with" weight="1" />
+      <edge source="RONALD WEASLEY" target="HERMIONE GRANGER" id="535" label="interact_with" weight="1" />
+      <edge source="DON" target="J.K. ROWLING HAGRID" id="536" label="interact_with" weight="1" />
+      <edge source="FIRENZE" target="BANE" id="537" label="interact_with" weight="8" />
+      <edge source="FIRENZE" target="LORD VOLDEMORT" id="538" label="interact_with" weight="3" />
+      <edge source="FIRENZE" target="J.K. ROWLING" id="539" label="interact_with" weight="3" />
+      <edge source="FIRENZE" target="J.K. ROWLING HAGRID" id="540" label="interact_with" weight="2" />
+      <edge source="FIRENZE" target="” PAGE" id="541" label="interact_with" weight="2" />
+      <edge source="RON WEASLEY" target="“ ZABINI" id="542" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="AGRIPPA." id="543" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="LUCKY\" id="544" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="PEEVES" id="545" label="interact_with" weight="3" />
+      <edge source="RON WEASLEY" target="HAGRID HARRY" id="546" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="ALICIA SPINNET" id="547" label="interact_with" weight="2" />
+      <edge source="RON WEASLEY" target="DEAN THOMAS" id="548" label="interact_with" weight="10" />
+      <edge source="RON WEASLEY" target="ELFRIC" id="549" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="NICOLAS FLAMEL" id="550" label="interact_with" weight="8" />
+      <edge source="RON WEASLEY" target="RONNIEKINS" id="551" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="LEE JORDAN" id="552" label="interact_with" weight="3" />
+      <edge source="RON WEASLEY" target="GOYLE" id="553" label="interact_with" weight="10" />
+      <edge source="RON WEASLEY" target="MADAM POMFREY" id="554" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="HERMIONE GRANGER" id="555" label="interact_with" weight="140" />
+      <edge source="RON WEASLEY" target="CHARLIE WEASLEY" id="556" label="interact_with" weight="10" />
+      <edge source="RON WEASLEY" target="J.K. ROWLING DUDLEY" id="557" label="interact_with" weight="2" />
+      <edge source="RON WEASLEY" target="MOMMY" id="558" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="LORD VOLDEMORT" id="559" label="interact_with" weight="4" />
+      <edge source="RON WEASLEY" target="NEVILLE LONGBOTTOM" id="560" label="interact_with" weight="26" />
+      <edge source="RON WEASLEY" target="PERCY WEASLEY" id="561" label="interact_with" weight="8" />
+      <edge source="RON WEASLEY" target="HALLOWEEN MALFOY" id="562" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="BULSTRODE" id="563" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="J.K. ROWLING" id="564" label="interact_with" weight="41" />
+      <edge source="RON WEASLEY" target="J.K. ROWLING HAGRID" id="565" label="interact_with" weight="46" />
+      <edge source="RON WEASLEY" target="GRYFFINDORS" id="566" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="TURPIN" id="567" label="interact_with" weight="2" />
+      <edge source="RON WEASLEY" target="MRS. NORRIS" id="568" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="ARGUS FILCH" id="569" label="interact_with" weight="7" />
+      <edge source="RON WEASLEY" target="HEDWIG" id="570" label="interact_with" weight="2" />
+      <edge source="RON WEASLEY" target="MINERVA MCGONAGALL" id="571" label="interact_with" weight="8" />
+      <edge source="RON WEASLEY" target="HERMIONE." id="572" label="interact_with" weight="2" />
+      <edge source="RON WEASLEY" target="BLEAAARGH" id="573" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="ICKLE DUDLEYKINS" id="574" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="” PAGE" id="575" label="interact_with" weight="12" />
+      <edge source="RON WEASLEY" target="WHITE" id="576" label="interact_with" weight="2" />
+      <edge source="RON WEASLEY" target="BUDGE" id="577" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="MORGANA" id="578" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="MUGGLES" id="579" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="“ THOMAS" id="580" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="J.K. ROWLING SNAPE" id="581" label="interact_with" weight="43" />
+      <edge source="RON WEASLEY" target="GRYFFINDOR." id="582" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="“ POTTER" id="583" label="interact_with" weight="13" />
+      <edge source="RON WEASLEY" target="MADAM PINCE" id="584" label="interact_with" weight="2" />
+      <edge source="RON WEASLEY" target="NORBERT —" id="585" label="interact_with" weight="4" />
+      <edge source="RON WEASLEY" target="SEAMUS FINNIGAN" id="586" label="interact_with" weight="4" />
+      <edge source="RON WEASLEY" target="GEORGE WEASLEY" id="587" label="interact_with" weight="11" />
+      <edge source="RON WEASLEY" target="NICOLAS FLAMEL." id="588" label="interact_with" weight="1" />
+      <edge source="RON WEASLEY" target="GRYFFINDOR KEEPER WOOD" id="589" label="interact_with" weight="7" />
+      <edge source="RON WEASLEY" target="AGRIPPA" id="590" label="interact_with" weight="1" />
+      <edge source="“ ZABINI" target="PERCY WEASLEY" id="591" label="interact_with" weight="1" />
+      <edge source="“ ZABINI" target="MINERVA MCGONAGALL" id="592" label="interact_with" weight="1" />
+      <edge source="ALGIE" target="NEVILLE LONGBOTTOM" id="593" label="interact_with" weight="1" />
+      <edge source="ALGIE" target="PERCY WEASLEY" id="594" label="interact_with" weight="1" />
+      <edge source="DUDLEY." target="VERNON DURSLEY" id="595" label="interact_with" weight="1" />
+      <edge source="DUDLEY." target="J.K. ROWLING DUDLEY" id="596" label="interact_with" weight="1" />
+      <edge source="DENNIS" target="J.K. ROWLING DUDLEY" id="597" label="interact_with" weight="2" />
+      <edge source="HAROLD" target="HARVEY" id="598" label="interact_with" weight="1" />
+      <edge source="SUSAN" target="HANNAH" id="599" label="interact_with" weight="1" />
+      <edge source="SUSAN" target="” PAGE" id="600" label="interact_with" weight="2" />
+      <edge source="SEVERUS SNAPE" target="J.K. ROWLING" id="601" label="interact_with" weight="1" />
+      <edge source="SEVERUS SNAPE" target="J.K. ROWLING HAGRID" id="602" label="interact_with" weight="1" />
+      <edge source="SEVERUS SNAPE" target="MINERVA MCGONAGALL" id="603" label="interact_with" weight="1" />
+      <edge source="SEVERUS SNAPE" target="J.K. ROWLING SNAPE" id="604" label="interact_with" weight="2" />
+      <edge source="SEVERUS SNAPE" target="SLYTHERIN" id="605" label="interact_with" weight="1" />
+      <edge source="YVONNE" target="NORBERT —" id="606" label="interact_with" weight="1" />
+      <edge source="MR. OLLIVANDER" target="J.K. ROWLING HAGRID" id="607" label="interact_with" weight="3" />
+      <edge source="LUCKY\" target="HERMIONE GRANGER" id="608" label="interact_with" weight="1" />
+      <edge source="MIMBLEWIMBLE." target="VERNON DURSLEY" id="609" label="interact_with" weight="1" />
+      <edge source="MIMBLEWIMBLE." target="J.K. ROWLING" id="610" label="interact_with" weight="1" />
+      <edge source="MIMBLEWIMBLE." target="J.K. ROWLING HAGRID" id="611" label="interact_with" weight="1" />
+      <edge source="MIMBLEWIMBLE." target="“ POTTER" id="612" label="interact_with" weight="1" />
+      <edge source="SCREECH" target="BROWN" id="613" label="interact_with" weight="1" />
+      <edge source="PEEVES" target="HERMIONE GRANGER" id="614" label="interact_with" weight="1" />
+      <edge source="PEEVES" target="NEVILLE LONGBOTTOM" id="615" label="interact_with" weight="1" />
+      <edge source="PEEVES" target="PERCY WEASLEY" id="616" label="interact_with" weight="6" />
+      <edge source="PEEVES" target="J.K. ROWLING" id="617" label="interact_with" weight="5" />
+      <edge source="PEEVES" target="J.K. ROWLING HAGRID" id="618" label="interact_with" weight="1" />
+      <edge source="PEEVES" target="PEEVSIE" id="619" label="interact_with" weight="1" />
+      <edge source="PEEVES" target="MRS. NORRIS" id="620" label="interact_with" weight="1" />
+      <edge source="PEEVES" target="ARGUS FILCH" id="621" label="interact_with" weight="6" />
+      <edge source="PEEVES" target="MINERVA MCGONAGALL" id="622" label="interact_with" weight="2" />
+      <edge source="PEEVES" target="” PAGE" id="623" label="interact_with" weight="2" />
+      <edge source="PEEVES" target="“ POTTER" id="624" label="interact_with" weight="2" />
+      <edge source="HAGRID HARRY" target="HEDWIG" id="625" label="interact_with" weight="1" />
+      <edge source="PARVATI." target="PANSY PARKINSON" id="626" label="interact_with" weight="1" />
+      <edge source="ALICIA SPINNET" target="OLIVER WOOD" id="627" label="interact_with" weight="1" />
+      <edge source="ALICIA SPINNET" target="LEE JORDAN" id="628" label="interact_with" weight="1" />
+      <edge source="ALICIA SPINNET" target="TURPIN" id="629" label="interact_with" weight="1" />
+      <edge source="ALICIA SPINNET" target="MINERVA MCGONAGALL" id="630" label="interact_with" weight="1" />
+      <edge source="ALICIA SPINNET" target="MARCUS FLINT" id="631" label="interact_with" weight="1" />
+      <edge source="ALICIA SPINNET" target="“ POTTER" id="632" label="interact_with" weight="1" />
+      <edge source="ALICIA SPINNET" target="GRYFFINDOR KEEPER WOOD" id="633" label="interact_with" weight="2" />
+      <edge source="LOVE" target="CHARLIE WEASLEY" id="634" label="interact_with" weight="1" />
+      <edge source="LOVE" target="J.K. ROWLING" id="635" label="interact_with" weight="1" />
+      <edge source="VOZ" target="HERMIONE GRANGER" id="636" label="interact_with" weight="1" />
+      <edge source="DURSLEYS" target="OLLIVANDERS" id="637" label="interact_with" weight="1" />
+      <edge source="DURSLEYS" target="VERNON DURSLEY" id="638" label="interact_with" weight="7" />
+      <edge source="DURSLEYS" target="J.K. ROWLING DUDLEY" id="639" label="interact_with" weight="4" />
+      <edge source="DURSLEYS" target="J.K. ROWLING" id="640" label="interact_with" weight="4" />
+      <edge source="DURSLEYS" target="J.K. ROWLING HAGRID" id="641" label="interact_with" weight="7" />
+      <edge source="DURSLEYS" target="POTTERS" id="642" label="interact_with" weight="3" />
+      <edge source="DURSLEYS" target="HEDWIG" id="643" label="interact_with" weight="1" />
+      <edge source="DURSLEYS" target="J.K. ROWLING SNAPE" id="644" label="interact_with" weight="2" />
+      <edge source="BANE" target="HERMIONE GRANGER" id="645" label="interact_with" weight="1" />
+      <edge source="BANE" target="J.K. ROWLING HERMIONE" id="646" label="interact_with" weight="1" />
+      <edge source="BANE" target="LORD VOLDEMORT" id="647" label="interact_with" weight="3" />
+      <edge source="BANE" target="J.K. ROWLING" id="648" label="interact_with" weight="1" />
+      <edge source="BANE" target="J.K. ROWLING HAGRID" id="649" label="interact_with" weight="4" />
+      <edge source="DEAN THOMAS" target="HERMIONE GRANGER" id="650" label="interact_with" weight="2" />
+      <edge source="DEAN THOMAS" target="GOLDEN" id="651" label="interact_with" weight="1" />
+      <edge source="DEAN THOMAS" target="NEVILLE LONGBOTTOM" id="652" label="interact_with" weight="3" />
+      <edge source="DEAN THOMAS" target="J.K. ROWLING" id="653" label="interact_with" weight="1" />
+      <edge source="DEAN THOMAS" target="J.K. ROWLING HAGRID" id="654" label="interact_with" weight="2" />
+      <edge source="DEAN THOMAS" target="TURPIN" id="655" label="interact_with" weight="1" />
+      <edge source="DEAN THOMAS" target="” PAGE" id="656" label="interact_with" weight="1" />
+      <edge source="DEAN THOMAS" target="MARCUS FLINT" id="657" label="interact_with" weight="1" />
+      <edge source="DEAN THOMAS" target="“ THOMAS" id="658" label="interact_with" weight="1" />
+      <edge source="DEAN THOMAS" target="“ POTTER" id="659" label="interact_with" weight="1" />
+      <edge source="DEAN THOMAS" target="SEAMUS FINNIGAN" id="660" label="interact_with" weight="2" />
+      <edge source="MADAM MALKIN" target="J.K. ROWLING" id="661" label="interact_with" weight="1" />
+      <edge source="MADAM MALKIN" target="J.K. ROWLING HAGRID" id="662" label="interact_with" weight="2" />
+      <edge source="V" target="NICOLAS FLAMEL" id="663" label="interact_with" weight="1" />
+      <edge source="V" target="’ HERMIONE" id="664" label="interact_with" weight="1" />
+      <edge source="SNITCH" target="J.K. ROWLING" id="665" label="interact_with" weight="1" />
+      <edge source="OLIVER WOOD" target="ANGELINA JOHNSON" id="666" label="interact_with" weight="1" />
+      <edge source="OLIVER WOOD" target="J.K. ROWLING" id="667" label="interact_with" weight="1" />
+      <edge source="OLIVER WOOD" target="“ POTTER" id="668" label="interact_with" weight="1" />
+      <edge source="OLIVER WOOD" target="GEORGE WEASLEY" id="669" label="interact_with" weight="1" />
+      <edge source="OLIVER WOOD" target="GRYFFINDOR KEEPER WOOD" id="670" label="interact_with" weight="2" />
+      <edge source="ELFRIC" target="HERMIONE GRANGER" id="671" label="interact_with" weight="1" />
+      <edge source="ARSENIUS JIGGER" target="J.K. ROWLING" id="672" label="interact_with" weight="1" />
+      <edge source="JUSTIN" target="J.K. ROWLING" id="673" label="interact_with" weight="1" />
+      <edge source="ANGELINA JOHNSON" target="KEEPER BLETCHLEY" id="674" label="interact_with" weight="1" />
+      <edge source="ANGELINA JOHNSON" target="BLUDGER" id="675" label="interact_with" weight="1" />
+      <edge source="ANGELINA JOHNSON" target="MARCUS FLINT" id="676" label="interact_with" weight="1" />
+      <edge source="ANGELINA JOHNSON" target="GEORGE WEASLEY" id="677" label="interact_with" weight="1" />
+      <edge source="ANGELINA JOHNSON" target="GRYFFINDOR KEEPER WOOD" id="678" label="interact_with" weight="2" />
+      <edge source="NICOLAS FLAMEL" target="HERMIONE GRANGER" id="679" label="interact_with" weight="7" />
+      <edge source="NICOLAS FLAMEL" target="J.K. ROWLING" id="680" label="interact_with" weight="2" />
+      <edge source="NICOLAS FLAMEL" target="J.K. ROWLING HAGRID" id="681" label="interact_with" weight="5" />
+      <edge source="NICOLAS FLAMEL" target="’ HERMIONE" id="682" label="interact_with" weight="1" />
+      <edge source="NICOLAS FLAMEL" target="MADAM PINCE" id="683" label="interact_with" weight="1" />
+      <edge source="HANNAH" target="J.K. ROWLING" id="684" label="interact_with" weight="1" />
+      <edge source="HANNAH" target="” PAGE" id="685" label="interact_with" weight="1" />
+      <edge source="HANNAH" target="“ ABBOTT" id="686" label="interact_with" weight="1" />
+      <edge source="“ PARKINSON" target="“ MOON ”" id="687" label="interact_with" weight="2" />
+      <edge source="“ PARKINSON" target="” PAGE" id="688" label="interact_with" weight="1" />
+      <edge source="“ PARKINSON" target="“ POTTER" id="689" label="interact_with" weight="1" />
+      <edge source="RONNIEKINS" target="ICKLE DUDLEYKINS" id="690" label="interact_with" weight="1" />
+      <edge source="“ JORDAN" target="MINERVA MCGONAGALL" id="691" label="interact_with" weight="1" />
+      <edge source="“ JORDAN" target="” PAGE" id="692" label="interact_with" weight="2" />
+      <edge source="FAT" target="HERMIONE GRANGER" id="693" label="interact_with" weight="2" />
+      <edge source="FAT" target="J.K. ROWLING" id="694" label="interact_with" weight="1" />
+      <edge source="DADDY." target="J.K. ROWLING DUDLEY" id="695" label="interact_with" weight="1" />
+      <edge source="JIM MCGUFFIN" target="TED" id="696" label="interact_with" weight="1" />
+      <edge source="CHASER PUCEY" target="LEE JORDAN" id="697" label="interact_with" weight="1" />
+      <edge source="CHASER PUCEY" target="” PAGE" id="698" label="interact_with" weight="1" />
+      <edge source="CHASER PUCEY" target="MARCUS FLINT" id="699" label="interact_with" weight="1" />
+      <edge source="KATIE BELL" target="GRYFFINDOR KEEPER WOOD" id="700" label="interact_with" weight="1" />
+      <edge source="LEE JORDAN" target="J.K. ROWLING" id="701" label="interact_with" weight="3" />
+      <edge source="LEE JORDAN" target="MINERVA MCGONAGALL" id="702" label="interact_with" weight="1" />
+      <edge source="LEE JORDAN" target="” PAGE" id="703" label="interact_with" weight="4" />
+      <edge source="LEE JORDAN" target="MARCUS FLINT" id="704" label="interact_with" weight="4" />
+      <edge source="LEE JORDAN" target="GRYFFINDOR KEEPER WOOD" id="705" label="interact_with" weight="2" />
+      <edge source="GOYLE" target="MADAM POMFREY" id="706" label="interact_with" weight="1" />
+      <edge source="GOYLE" target="NEVILLE LONGBOTTOM" id="707" label="interact_with" weight="2" />
+      <edge source="GOYLE" target="J.K. ROWLING" id="708" label="interact_with" weight="2" />
+      <edge source="GOYLE" target="MINERVA MCGONAGALL" id="709" label="interact_with" weight="1" />
+      <edge source="GOYLE" target="” PAGE" id="710" label="interact_with" weight="1" />
+      <edge source="GOYLE" target="J.K. ROWLING SNAPE" id="711" label="interact_with" weight="2" />
+      <edge source="GOYLE" target="GEORGE WEASLEY" id="712" label="interact_with" weight="1" />
+      <edge source="MCKINNONS" target="PREWETTS" id="713" label="interact_with" weight="1" />
+      <edge source="VERNON DURSLEY" target="HERMIONE GRANGER" id="714" label="interact_with" weight="2" />
+      <edge source="VERNON DURSLEY" target="J.K. ROWLING DUDLEY" id="715" label="interact_with" weight="37" />
+      <edge source="VERNON DURSLEY" target="J.K. ROWLING" id="716" label="interact_with" weight="13" />
+      <edge source="VERNON DURSLEY" target="J.K. ROWLING HAGRID" id="717" label="interact_with" weight="9" />
+      <edge source="VERNON DURSLEY" target="TUFTY" id="718" label="interact_with" weight="1" />
+      <edge source="VERNON DURSLEY" target="MR. PAWS" id="719" label="interact_with" weight="1" />
+      <edge source="VERNON DURSLEY" target="” PAGE" id="720" label="interact_with" weight="2" />
+      <edge source="VERNON DURSLEY" target="TIBBIES" id="721" label="interact_with" weight="1" />
+      <edge source="VERNON DURSLEY" target="“ POTTER" id="722" label="interact_with" weight="4" />
+      <edge source="VERNON DURSLEY" target="NORBERT —" id="723" label="interact_with" weight="2" />
+      <edge source="VERNON DURSLEY" target="SNOWY" id="724" label="interact_with" weight="1" />
+      <edge source="MADAM POMFREY" target="HERMIONE GRANGER" id="725" label="interact_with" weight="1" />
+      <edge source="MADAM POMFREY" target="NEVILLE LONGBOTTOM" id="726" label="interact_with" weight="1" />
+      <edge source="MADAM POMFREY" target="MINERVA MCGONAGALL" id="727" label="interact_with" weight="1" />
+      <edge source="MADAM POMFREY" target="NORBERT." id="728" label="interact_with" weight="1" />
+      <edge source="MADAM POMFREY" target="SLYTHERIN" id="729" label="interact_with" weight="1" />
+      <edge source="GRIPHOOK" target="J.K. ROWLING HAGRID" id="730" label="interact_with" weight="7" />
+      <edge source="CRIKEY" target="J.K. ROWLING HAGRID" id="731" label="interact_with" weight="1" />
+      <edge source="PARACELSUS" target="HENGIST" id="732" label="interact_with" weight="1" />
+      <edge source="PARACELSUS" target="ALBERIC GRUNNION" id="733" label="interact_with" weight="1" />
+      <edge source="PARACELSUS" target="CIRCE" id="734" label="interact_with" weight="1" />
+      <edge source="PARACELSUS" target="MORGANA" id="735" label="interact_with" weight="1" />
+      <edge source="PARACELSUS" target="MERLIN" id="736" label="interact_with" weight="1" />
+      <edge source="HERMIONE GRANGER" target="CHARLIE WEASLEY" id="737" label="interact_with" weight="2" />
+      <edge source="HERMIONE GRANGER" target="LORD VOLDEMORT" id="738" label="interact_with" weight="1" />
+      <edge source="HERMIONE GRANGER" target="NEVILLE LONGBOTTOM" id="739" label="interact_with" weight="33" />
+      <edge source="HERMIONE GRANGER" target="PERCY WEASLEY" id="740" label="interact_with" weight="2" />
+      <edge source="HERMIONE GRANGER" target="ERM" id="741" label="interact_with" weight="1" />
+      <edge source="HERMIONE GRANGER" target="J.K. ROWLING" id="742" label="interact_with" weight="30" />
+      <edge source="HERMIONE GRANGER" target="J.K. ROWLING HAGRID" id="743" label="interact_with" weight="30" />
+      <edge source="HERMIONE GRANGER" target="TUT" id="744" label="interact_with" weight="1" />
+      <edge source="HERMIONE GRANGER" target="GRYFFINDORS" id="745" label="interact_with" weight="1" />
+      <edge source="HERMIONE GRANGER" target="ARGUS FILCH" id="746" label="interact_with" weight="1" />
+      <edge source="HERMIONE GRANGER" target="MINERVA MCGONAGALL" id="747" label="interact_with" weight="10" />
+      <edge source="HERMIONE GRANGER" target="” PAGE" id="748" label="interact_with" weight="11" />
+      <edge source="HERMIONE GRANGER" target="NORBERT." id="749" label="interact_with" weight="1" />
+      <edge source="HERMIONE GRANGER" target="WHITE" id="750" label="interact_with" weight="1" />
+      <edge source="HERMIONE GRANGER" target="BUDGE" id="751" label="interact_with" weight="1" />
+      <edge source="HERMIONE GRANGER" target="MARCUS FLINT" id="752" label="interact_with" weight="1" />
+      <edge source="HERMIONE GRANGER" target="J.K. ROWLING SNAPE" id="753" label="interact_with" weight="35" />
+      <edge source="HERMIONE GRANGER" target="“ POTTER" id="754" label="interact_with" weight="12" />
+      <edge source="HERMIONE GRANGER" target="MADAM PINCE" id="755" label="interact_with" weight="2" />
+      <edge source="HERMIONE GRANGER" target="NORBERT —" id="756" label="interact_with" weight="8" />
+      <edge source="HERMIONE GRANGER" target="SEAMUS FINNIGAN" id="757" label="interact_with" weight="2" />
+      <edge source="HERMIONE GRANGER" target="GEORGE WEASLEY" id="758" label="interact_with" weight="1" />
+      <edge source="HERMIONE GRANGER" target="SLYTHERIN" id="759" label="interact_with" weight="1" />
+      <edge source="HERMIONE GRANGER" target="NICOLAS FLAMEL." id="760" label="interact_with" weight="1" />
+      <edge source="HERMIONE GRANGER" target="GRYFFINDOR KEEPER WOOD" id="761" label="interact_with" weight="2" />
+      <edge source="HENGIST" target="ALBERIC GRUNNION" id="762" label="interact_with" weight="1" />
+      <edge source="HENGIST" target="CIRCE" id="763" label="interact_with" weight="1" />
+      <edge source="HENGIST" target="MORGANA" id="764" label="interact_with" weight="1" />
+      <edge source="HENGIST" target="MERLIN" id="765" label="interact_with" weight="1" />
+      <edge source="CHARLIE WEASLEY" target="PERCY WEASLEY" id="766" label="interact_with" weight="3" />
+      <edge source="CHARLIE WEASLEY" target="J.K. ROWLING" id="767" label="interact_with" weight="3" />
+      <edge source="CHARLIE WEASLEY" target="J.K. ROWLING HAGRID" id="768" label="interact_with" weight="6" />
+      <edge source="CHARLIE WEASLEY" target="HEDWIG" id="769" label="interact_with" weight="1" />
+      <edge source="CHARLIE WEASLEY" target="MINERVA MCGONAGALL" id="770" label="interact_with" weight="1" />
+      <edge source="CHARLIE WEASLEY" target="NORBERT —" id="771" label="interact_with" weight="5" />
+      <edge source="CHARLIE WEASLEY" target="GEORGE WEASLEY" id="772" label="interact_with" weight="1" />
+      <edge source="CHARLIE WEASLEY" target="GRYFFINDOR KEEPER WOOD" id="773" label="interact_with" weight="2" />
+      <edge source="MORAG." target="MACDOUGAL" id="774" label="interact_with" weight="1" />
+      <edge source="MORAG." target="“ POTTER" id="775" label="interact_with" weight="1" />
+      <edge source="ALBERIC GRUNNION" target="CIRCE" id="776" label="interact_with" weight="1" />
+      <edge source="ALBERIC GRUNNION" target="MORGANA" id="777" label="interact_with" weight="1" />
+      <edge source="ALBERIC GRUNNION" target="MERLIN" id="778" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING DUDLEY" target="J.K. ROWLING" id="779" label="interact_with" weight="20" />
+      <edge source="J.K. ROWLING DUDLEY" target="J.K. ROWLING HAGRID" id="780" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING DUDLEY" target="” PAGE" id="781" label="interact_with" weight="5" />
+      <edge source="J.K. ROWLING DUDLEY" target="BUDGE" id="782" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING DUDLEY" target="NORBERT —" id="783" label="interact_with" weight="1" />
+      <edge source="RUBEUS HAGRID" target="J.K. ROWLING HAGRID" id="784" label="interact_with" weight="2" />
+      <edge source="KILL" target="LORD VOLDEMORT" id="785" label="interact_with" weight="2" />
+      <edge source="SLYTHERIN." target="J.K. ROWLING" id="786" label="interact_with" weight="1" />
+      <edge source="SLYTHERIN." target="” PAGE" id="787" label="interact_with" weight="2" />
+      <edge source="MOMMY" target="NORBERT —" id="788" label="interact_with" weight="2" />
+      <edge source="LORD VOLDEMORT" target="J.K. ROWLING" id="789" label="interact_with" weight="6" />
+      <edge source="LORD VOLDEMORT" target="J.K. ROWLING HAGRID" id="790" label="interact_with" weight="4" />
+      <edge source="LORD VOLDEMORT" target="POTTERS" id="791" label="interact_with" weight="1" />
+      <edge source="LORD VOLDEMORT" target="” PAGE" id="792" label="interact_with" weight="1" />
+      <edge source="LORD VOLDEMORT" target="J.K. ROWLING SNAPE" id="793" label="interact_with" weight="9" />
+      <edge source="GOLDEN" target="GRYFFINDOR KEEPER WOOD" id="794" label="interact_with" weight="1" />
+      <edge source="NEVILLE LONGBOTTOM" target="PERCY WEASLEY" id="795" label="interact_with" weight="1" />
+      <edge source="NEVILLE LONGBOTTOM" target="J.K. ROWLING" id="796" label="interact_with" weight="9" />
+      <edge source="NEVILLE LONGBOTTOM" target="J.K. ROWLING HAGRID" id="797" label="interact_with" weight="10" />
+      <edge source="NEVILLE LONGBOTTOM" target="PETRIFICUS TOTALUSL" id="798" label="interact_with" weight="2" />
+      <edge source="NEVILLE LONGBOTTOM" target="PANSY PARKINSON" id="799" label="interact_with" weight="1" />
+      <edge source="NEVILLE LONGBOTTOM" target="MRS. NORRIS" id="800" label="interact_with" weight="1" />
+      <edge source="NEVILLE LONGBOTTOM" target="ARGUS FILCH" id="801" label="interact_with" weight="4" />
+      <edge source="NEVILLE LONGBOTTOM" target="MINERVA MCGONAGALL" id="802" label="interact_with" weight="2" />
+      <edge source="NEVILLE LONGBOTTOM" target="” PAGE" id="803" label="interact_with" weight="4" />
+      <edge source="NEVILLE LONGBOTTOM" target="J.K. ROWLING SNAPE" id="804" label="interact_with" weight="3" />
+      <edge source="NEVILLE LONGBOTTOM" target="“ POTTER" id="805" label="interact_with" weight="3" />
+      <edge source="NEVILLE LONGBOTTOM" target="NORBERT —" id="806" label="interact_with" weight="1" />
+      <edge source="NEVILLE LONGBOTTOM" target="SEAMUS FINNIGAN" id="807" label="interact_with" weight="5" />
+      <edge source="NEVILLE LONGBOTTOM" target="GRYFFINDOR KEEPER WOOD" id="808" label="interact_with" weight="1" />
+      <edge source="MUMMY" target="DINKY DUDDYDUMS" id="809" label="interact_with" weight="1" />
+      <edge source="DORIS CROCKFORD" target="J.K. ROWLING" id="810" label="interact_with" weight="1" />
+      <edge source="DORIS CROCKFORD" target="J.K. ROWLING HAGRID" id="811" label="interact_with" weight="1" />
+      <edge source="PERCY WEASLEY" target="J.K. ROWLING" id="812" label="interact_with" weight="4" />
+      <edge source="PERCY WEASLEY" target="J.K. ROWLING HAGRID" id="813" label="interact_with" weight="1" />
+      <edge source="PERCY WEASLEY" target="MINERVA MCGONAGALL" id="814" label="interact_with" weight="1" />
+      <edge source="PERCY WEASLEY" target="J.K. ROWLING SNAPE" id="815" label="interact_with" weight="1" />
+      <edge source="PERCY WEASLEY" target="GRED" id="816" label="interact_with" weight="1" />
+      <edge source="PERCY WEASLEY" target="GEORGE WEASLEY" id="817" label="interact_with" weight="3" />
+      <edge source="CIRCE" target="MORGANA" id="818" label="interact_with" weight="1" />
+      <edge source="CIRCE" target="MERLIN" id="819" label="interact_with" weight="1" />
+      <edge source="AHEM" target="“ POTTER" id="820" label="interact_with" weight="1" />
+      <edge source="GREGORY THE SMARMY" target="GEORGE WEASLEY" id="821" label="interact_with" weight="1" />
+      <edge source="HALLOWEEN MALFOY" target="J.K. ROWLING" id="822" label="interact_with" weight="1" />
+      <edge source="BULSTRODE" target="“ POTTER" id="823" label="interact_with" weight="1" />
+      <edge source="ERM" target="NORBERT —" id="824" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING" target="J.K. ROWLING HAGRID" id="825" label="interact_with" weight="41" />
+      <edge source="J.K. ROWLING" target="FLINT PAGE" id="826" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING" target="POTTERS" id="827" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING" target="GULPIN" id="828" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING" target="“ MOON ”" id="829" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING" target="ARGUS FILCH" id="830" label="interact_with" weight="4" />
+      <edge source="J.K. ROWLING" target="HEDWIG" id="831" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING" target="MINERVA MCGONAGALL" id="832" label="interact_with" weight="5" />
+      <edge source="J.K. ROWLING" target="WIZARD BARUFFIO" id="833" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING" target="DUNNO" id="834" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING" target="” PAGE" id="835" label="interact_with" weight="100" />
+      <edge source="J.K. ROWLING" target="MARCUS FLINT" id="836" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING" target="J.K. ROWLING SNAPE" id="837" label="interact_with" weight="17" />
+      <edge source="J.K. ROWLING" target="“ POTTER" id="838" label="interact_with" weight="3" />
+      <edge source="J.K. ROWLING" target="NORBERT —" id="839" label="interact_with" weight="6" />
+      <edge source="J.K. ROWLING" target="SEAMUS FINNIGAN" id="840" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING" target="GEORGE WEASLEY" id="841" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING" target="SLYTHERIN" id="842" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING" target="PROFESSOR SNAPE." id="843" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING" target="“ ABBOTT" id="844" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING" target="GRYFFINDOR KEEPER WOOD" id="845" label="interact_with" weight="6" />
+      <edge source="J.K. ROWLING HAGRID" target="CODSWALLOP" id="846" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING HAGRID" target="TOM" id="847" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING HAGRID" target="J.K. ROWLING MALFOY" id="848" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING HAGRID" target="ARGUS FILCH" id="849" label="interact_with" weight="7" />
+      <edge source="J.K. ROWLING HAGRID" target="HEDWIG" id="850" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING HAGRID" target="MINERVA MCGONAGALL" id="851" label="interact_with" weight="11" />
+      <edge source="J.K. ROWLING HAGRID" target="URN" id="852" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING HAGRID" target="DUNNO" id="853" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING HAGRID" target="” PAGE" id="854" label="interact_with" weight="9" />
+      <edge source="J.K. ROWLING HAGRID" target="BUDGE" id="855" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING HAGRID" target="MARCUS FLINT" id="856" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING HAGRID" target="J.K. ROWLING SNAPE" id="857" label="interact_with" weight="26" />
+      <edge source="J.K. ROWLING HAGRID" target="“ POTTER" id="858" label="interact_with" weight="5" />
+      <edge source="J.K. ROWLING HAGRID" target="VOLDEMORT." id="859" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING HAGRID" target="NORBERT —" id="860" label="interact_with" weight="7" />
+      <edge source="J.K. ROWLING HAGRID" target="SEAMUS FINNIGAN" id="861" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING HAGRID" target="GEORGE WEASLEY" id="862" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING HAGRID" target="SLYTHERIN" id="863" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING HAGRID" target="PROFESSOR SNAPE." id="864" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING HAGRID" target="OY" id="865" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING HAGRID" target="GRYFFINDOR KEEPER WOOD" id="866" label="interact_with" weight="1" />
+      <edge source="TUT" target="J.K. ROWLING SNAPE" id="867" label="interact_with" weight="1" />
+      <edge source="GRYFFINDORS" target="J.K. ROWLING SNAPE" id="868" label="interact_with" weight="1" />
+      <edge source="FLINT PAGE" target="MARCUS FLINT" id="869" label="interact_with" weight="1" />
+      <edge source="TUFTY" target="MR. PAWS" id="870" label="interact_with" weight="1" />
+      <edge source="TUFTY" target="TIBBIES" id="871" label="interact_with" weight="1" />
+      <edge source="TUFTY" target="SNOWY" id="872" label="interact_with" weight="1" />
+      <edge source="“ MOON ”" target="“ PERKS" id="873" label="interact_with" weight="1" />
+      <edge source="“ MOON ”" target="ANNE" id="874" label="interact_with" weight="1" />
+      <edge source="“ MOON ”" target="” PAGE" id="875" label="interact_with" weight="1" />
+      <edge source="“ MOON ”" target="“ POTTER" id="876" label="interact_with" weight="1" />
+      <edge source="“ PERKS" target="ANNE" id="877" label="interact_with" weight="1" />
+      <edge source="“ PERKS" target="” PAGE" id="878" label="interact_with" weight="1" />
+      <edge source="“ PERKS" target="“ POTTER" id="879" label="interact_with" weight="2" />
+      <edge source="TURPIN" target="“ POTTER" id="880" label="interact_with" weight="1" />
+      <edge source="NICHOLAS DE MIMSY" target="SEAMUS FINNIGAN" id="881" label="interact_with" weight="2" />
+      <edge source="BROCKLEHURST" target="BROWN" id="882" label="interact_with" weight="1" />
+      <edge source="BROCKLEHURST" target="MANDY ”" id="883" label="interact_with" weight="1" />
+      <edge source="BROCKLEHURST" target="“ POTTER" id="884" label="interact_with" weight="2" />
+      <edge source="BROCKLEHURST" target="GRYFFINDOR KEEPER WOOD" id="885" label="interact_with" weight="1" />
+      <edge source="KEEPER BLETCHLEY" target="BLUDGER" id="886" label="interact_with" weight="1" />
+      <edge source="BROWN" target="MANDY ”" id="887" label="interact_with" weight="1" />
+      <edge source="BROWN" target="“ POTTER" id="888" label="interact_with" weight="2" />
+      <edge source="BROWN" target="GRYFFINDOR KEEPER WOOD" id="889" label="interact_with" weight="1" />
+      <edge source="MR. PAWS" target="TIBBIES" id="890" label="interact_with" weight="1" />
+      <edge source="MR. PAWS" target="SNOWY" id="891" label="interact_with" weight="1" />
+      <edge source="MRS. NORRIS" target="ARGUS FILCH" id="892" label="interact_with" weight="1" />
+      <edge source="MRS. NORRIS" target="J.K. ROWLING SNAPE" id="893" label="interact_with" weight="1" />
+      <edge source="MANDY ”" target="“ POTTER" id="894" label="interact_with" weight="2" />
+      <edge source="MANDY ”" target="GRYFFINDOR KEEPER WOOD" id="895" label="interact_with" weight="1" />
+      <edge source="ARGUS FILCH" target="MINERVA MCGONAGALL" id="896" label="interact_with" weight="1" />
+      <edge source="ARGUS FILCH" target="” PAGE" id="897" label="interact_with" weight="1" />
+      <edge source="ARGUS FILCH" target="J.K. ROWLING SNAPE" id="898" label="interact_with" weight="9" />
+      <edge source="HEDWIG" target="J.K. ROWLING SNAPE" id="899" label="interact_with" weight="1" />
+      <edge source="MINERVA MCGONAGALL" target="” PAGE" id="900" label="interact_with" weight="6" />
+      <edge source="MINERVA MCGONAGALL" target="J.K. ROWLING SNAPE" id="901" label="interact_with" weight="7" />
+      <edge source="MINERVA MCGONAGALL" target="VOLDEMORT." id="902" label="interact_with" weight="1" />
+      <edge source="MINERVA MCGONAGALL" target="WISH MCGONAGALL" id="903" label="interact_with" weight="1" />
+      <edge source="MINERVA MCGONAGALL" target="NORBERT —" id="904" label="interact_with" weight="1" />
+      <edge source="MINERVA MCGONAGALL" target="SLYTHERIN" id="905" label="interact_with" weight="2" />
+      <edge source="MINERVA MCGONAGALL" target="GRYFFINDOR KEEPER WOOD" id="906" label="interact_with" weight="6" />
+      <edge source="RAVENCLAW" target="SLYTHERIN" id="907" label="interact_with" weight="1" />
+      <edge source="RAVENCLAWS" target="SLYTHERIN" id="908" label="interact_with" weight="1" />
+      <edge source="MACDOUGAL" target="“ POTTER" id="909" label="interact_with" weight="1" />
+      <edge source="ANNE" target="” PAGE" id="910" label="interact_with" weight="1" />
+      <edge source="ANNE" target="“ POTTER" id="911" label="interact_with" weight="2" />
+      <edge source="BLEAAARGH" target="“ POTTER" id="912" label="interact_with" weight="1" />
+      <edge source="BEATERS." target="“ POTTER" id="913" label="interact_with" weight="1" />
+      <edge source="BEATERS." target="GEORGE WEASLEY" id="914" label="interact_with" weight="1" />
+      <edge source="BEATERS." target="GRYFFINDOR KEEPER WOOD" id="915" label="interact_with" weight="1" />
+      <edge source="PTOLEMY." target="AGRIPPA" id="916" label="interact_with" weight="1" />
+      <edge source="” PAGE" target="MARCUS FLINT" id="917" label="interact_with" weight="3" />
+      <edge source="” PAGE" target="J.K. ROWLING SNAPE" id="918" label="interact_with" weight="3" />
+      <edge source="” PAGE" target="“ POTTER" id="919" label="interact_with" weight="1" />
+      <edge source="” PAGE" target="NORBERT —" id="920" label="interact_with" weight="1" />
+      <edge source="” PAGE" target="PROFESSOR SNAPE." id="921" label="interact_with" weight="1" />
+      <edge source="” PAGE" target="GRYFFINDOR KEEPER WOOD" id="922" label="interact_with" weight="6" />
+      <edge source="WHITE" target="“ POTTER" id="923" label="interact_with" weight="1" />
+      <edge source="BUDGE" target="“ POTTER" id="924" label="interact_with" weight="1" />
+      <edge source="MORGANA" target="MERLIN" id="925" label="interact_with" weight="1" />
+      <edge source="MUGGLES" target="SEAMUS FINNIGAN" id="926" label="interact_with" weight="1" />
+      <edge source="MARCUS FLINT" target="SEAMUS FINNIGAN" id="927" label="interact_with" weight="1" />
+      <edge source="MARCUS FLINT" target="GRYFFINDOR KEEPER WOOD" id="928" label="interact_with" weight="1" />
+      <edge source="J.K. ROWLING SNAPE" target="GRYFFINDOR." id="929" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING SNAPE" target="“ POTTER" id="930" label="interact_with" weight="5" />
+      <edge source="J.K. ROWLING SNAPE" target="“ QUIRRELL" id="931" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING SNAPE" target="SEAMUS FINNIGAN" id="932" label="interact_with" weight="3" />
+      <edge source="J.K. ROWLING SNAPE" target="GEORGE WEASLEY" id="933" label="interact_with" weight="3" />
+      <edge source="J.K. ROWLING SNAPE" target="PROFESSOR SNAPE." id="934" label="interact_with" weight="2" />
+      <edge source="J.K. ROWLING SNAPE" target="GRYFFINDOR KEEPER WOOD" id="935" label="interact_with" weight="8" />
+      <edge source="TIBBIES" target="SNOWY" id="936" label="interact_with" weight="1" />
+      <edge source="“ POTTER" target="NORBERT —" id="937" label="interact_with" weight="1" />
+      <edge source="“ POTTER" target="GEORGE WEASLEY" id="938" label="interact_with" weight="1" />
+      <edge source="“ POTTER" target="PROFESSOR SNAPE." id="939" label="interact_with" weight="1" />
+      <edge source="“ POTTER" target="GRYFFINDOR KEEPER WOOD" id="940" label="interact_with" weight="5" />
+      <edge source="“ FINNIGAN" target="SEAMUS FINNIGAN" id="941" label="interact_with" weight="1" />
+      <edge source="GEORGE WEASLEY" target="GRYFFINDOR KEEPER WOOD" id="942" label="interact_with" weight="4" />
+      <edge source="SLYTHERIN" target="GRYFFINDOR KEEPER WOOD" id="943" label="interact_with" weight="6" />
+    </edges>
+  </graph>
+</gexf>
