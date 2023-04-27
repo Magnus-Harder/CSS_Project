@@ -2,7 +2,7 @@ import re
 from nltk.corpus import stopwords
 from nltk import word_tokenize
 
-def tokenize(text):
+def stop_tokenize(text):
     # Remove URLs
     text = re.sub('http[s]?://\S+', '', text)
 
