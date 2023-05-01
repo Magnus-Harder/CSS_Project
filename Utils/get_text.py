@@ -48,9 +48,9 @@ def tokenize_text(text : list) -> str:
                 text_tokenized.extend(tokenize(sentence))
     return text_tokenized
 
-def text_book(char : list, book : list) -> dict:
+def text_book(char : list, book_text : dict) -> dict:
     text = {}
-    for chapnr,chapter in book.items():
+    for chapnr,chapter in book_text.items():
         text[chapnr] = tokenize_text(text_chapter(char, chapter))
     return text
 
