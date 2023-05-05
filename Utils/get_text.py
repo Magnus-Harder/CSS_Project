@@ -48,10 +48,24 @@ def tokenize_text(text : list) -> str:
                 text_tokenized.extend(tokenize(sentence))
     return text_tokenized
 
+def texturize_text(text: list) -> str:
+    return_text = []
+
+    for page in text:
+        for finding in page:
+            for sentence in finding:
+                sentence = ' '.join(sentence)
+                return_text.append(sentence)
+    return return_text
+
 def text_book(char : list, book_text : dict) -> dict:
     text = {}
     for chapnr,chapter in book_text.items():
-        text[chapnr] = tokenize_text(text_chapter(char, chapter))
+        temp = text_chapter(char, chapter)
+        text[chapnr] = {
+            'text' : texturize_text(temp),
+            'tokens': tokenize_text(temp)
+        }
     return text
 
 # %%
