@@ -1,0 +1,678 @@
+Name,Link,Aliases
+Vernon Dursley,/wiki/Vernon_Dursley,"['Mr. Dursley', 'Vernon', 'Vernon Dursley']"
+Petunia Dursley,/wiki/Petunia_Dursley,"['Tuney', 'Petunia', 'Mrs. Dursley', 'Petunia Dursley']"
+Dudley Dursley,/wiki/Dudley_Dursley,"['Diddy', 'Diddykins', 'Dudders', 'Dudley', 'Popkin', 'My Neffy Poo', 'Dinky Diddydums', 'Ickle Dudleykins', ""Big 'D'"", 'Dudley Dursley']"
+Lily Potter,/wiki/Lily_J._Potter,"['Lily', 'Mrs. Potter', 'Lily Potter']"
+James Potter,/wiki/James_Potter_I,"['Prongs', 'James', 'James Potter']"
+Harry Potter,/wiki/Harry_Potter,"['Undesirable No. 1', 'Plotter', 'Harry', 'Potty', 'Lightning', 'The Chosen One', 'Mr. Potter', 'The Boy Who Lived', 'Vernon Dudley', 'The Boy Who Lied', 'Harry Potter']"
+Violet-cloaked wizard,/wiki/Violet-cloaked_wizard,['Violet-cloaked wizard']
+Lord Voldemort,/wiki/Tom_Riddle,"['My Lord', 'He-Who-Must-Not-Be-Named', 'You-Know-Who', 'Heir of Slytherin', 'Chief Death Eater', 'The Dark Lord', 'Lord', 'Lord Voldemort']"
+Jim McGuffin,/wiki/Jim_McGuffin,"['Jim', 'Jim McGuffin']"
+Ted,/wiki/Ted,['Ted']
+Vernon Dursley's secretary,/wiki/Vernon_Dursley%27s_secretary,"[""Vernon Dursley's secretary""]"
+Albus Dumbledore,/wiki/Albus_Dumbledore,"['Dumbledore', 'Albus', 'Albus Dumbledore']"
+Minerva McGonagall,/wiki/Minerva_McGonagall,"['Minerva', 'McGonagall', 'Minerva McGonagall']"
+Dedalus Diggle,/wiki/Dedalus_Diggle,"['Diggle', 'Dedalus', 'Dedalus Diggle']"
+Poppy Pomfrey,/wiki/Poppy_Pomfrey,"['Pomfrey', 'Poppy', 'Poppy Pomfrey']"
+Rubeus Hagrid,/wiki/Rubeus_Hagrid,"['Hagger', 'Rubeus', 'Hagrid', 'Rubeus Hagrid']"
+Sirius Black,/wiki/Sirius_Black,"['Snuffles', 'Padfoot', 'Sirius', 'Sirius Black']"
+Marge Dursley,/wiki/Marjorie_Dursley,"['Auntie Marge', 'Aunt Marge', 'Margie', 'Marge', 'Marge Dursley']"
+Arabella Figg,/wiki/Arabella_Figg,"['Arabella', 'Mrs. Figg', 'Arabella Figg']"
+Tibbles,/wiki/Mr_Tibbles,['Tibbles']
+Snowy,/wiki/Snowy,['Snowy']
+Mr Paws,/wiki/Mr_Paws,"['Mr. Paws', 'Mr Paws']"
+Tufty,/wiki/Tufty,['Tufty']
+Yvonne,/wiki/Yvonne,['Yvonne']
+Piers Polkiss,/wiki/Piers_Polkiss,"['Piers', 'Piers Polkiss']"
+Piers Polkiss's mother,/wiki/Piers_Polkiss%27s_mother,"[""Piers Polkiss's mother""]"
+Keeper of the reptile house,/wiki/Keeper_of_the_reptile_house,"['Keeper', 'Keeper of the reptile house']"
+Zoo director,/wiki/Zoo_director,['Zoo director']
+A boa constrictor,/wiki/Boa_constrictor_at_the_zoo,"['Boa Constrictor', 'A boa constrictor']"
+A gorilla,/wiki/Gorilla_at_the_zoo,['A gorilla']
+Dennis,/wiki/Dennis,['Dennis']
+Malcolm,/wiki/Malcolm,['Malcolm']
+Gordon,/wiki/Gordon,['Gordon']
+Dudley's parrot,/wiki/Dudley_Dursley%27s_parrot,"[""Dudley's parrot""]"
+Dudley's tortoise,/wiki/Dudley_Dursley%27s_tortoise,"[""Dudley's tortoise""]"
+Owner of the Railview Hotel,/wiki/Owner_of_the_Railview_Hotel,"['Owner', 'Owner of the Railview Hotel']"
+Merlin,/wiki/Merlin,"['Prince of Enchanters', 'Merlin']"
+Mr Evans,/wiki/Evans_sisters%27_father,"['Mr. Evans', 'Mr Evans']"
+Mrs Evans,/wiki/Evans_sisters%27_mother,"['Mrs. Evans', 'Mrs Evans']"
+McKinnon family,/wiki/McKinnon_family,['McKinnon family']
+Bones family,/wiki/Bones_family,['Bones family']
+Prewett family,/wiki/Prewett_family,['Prewett family']
+Cornelius Fudge,/wiki/Cornelius_Fudge,"['The Other Minister', 'Goblin-Crusher', 'Cornelius', 'Cornelius Fudge']"
+Miranda Goshawk,/wiki/Miranda_Goshawk,"['Miranda', 'Miranda Goshawk']"
+Bathilda Bagshot,/wiki/Bathilda_Bagshot,"['Bathilda', '""Batty"" Bagshot', 'Bathilda Bagshot']"
+Adalbert Waffling,/wiki/Adalbert_Waffling,"['Adalbert', 'Adalbert Waffling']"
+Emeric Switch,/wiki/Emeric_Switch,"['Emeric', 'Emeric Switch']"
+Phyllida Spore,/wiki/Phyllida_Spore,"['Phyllida', 'Phyllida Spore']"
+Arsenus Jigger,/wiki/Arsenius_Jigger,"['Arsenus', 'Arsenus Jigger']"
+Newton Scamander,/wiki/Newton_Scamander,"['Newton', 'Theseus Scamander', 'Newton Scamander']"
+Quentin Trimble,/wiki/Quentin_Trimble,"['Quentin', 'Quentin Trimble']"
+Tom,/wiki/Tom,['Tom']
+Doris Crockford,/wiki/Doris_Crockford,"['Doris', 'Doris Crockford']"
+Quirinus Quirrell,/wiki/Quirinus_Quirrell,"['Quirinus', 'Quirrell', 'Quirinus Quirrell']"
+Gringotts Head Goblin,/wiki/Gringotts_Head_Goblin,"['Gringotts', 'Gringotts Head Goblin']"
+Griphook,/wiki/Griphook,['Griphook']
+Madam Malkin,/wiki/Madam_Malkin%27s_Robes_for_All_Occasions,"['Madam', 'Madam Malkin']"
+Draco Malfoy,/wiki/Draco_Malfoy,"['Malfoy', 'Draco', 'Draco Malfoy']"
+Lucius Malfoy,/wiki/Lucius_Malfoy,"['Lucius', 'Lucius Malfoy']"
+Narcissa Malfoy,/wiki/Narcissa_Malfoy,"['Cissy', 'Narcissa', 'Narcissa Malfoy']"
+Vindictus Viridian,/wiki/Vindictus_Viridian,"['Vindictus', 'Vindictus Viridian']"
+Hedwig,/wiki/Hedwig,['Hedwig']
+Garrick Ollivander,/wiki/Garrick_Ollivander,"['Garrick', 'Mr. Ollivander', 'Garrick Ollivander']"
+King's Cross Station guard,/wiki/King%27s_Cross_Station_guard,"[""King's Cross Station guard""]"
+Ginny Weasley,/wiki/Ginevra_Weasley,"['Ginny', 'Ginny Weasley']"
+Molly Weasley,/wiki/Molly_Weasley,"['Molly', 'Mrs. Weasley', 'Mollywobbles', 'Molly Weasley']"
+Percy Weasley,/wiki/Percy_Weasley,"['Percy', 'Perce', 'Percy Weasley']"
+Fred Weasley,/wiki/Fred_Weasley,"['Rodent', 'Freddie', 'Rapier', 'Fred', 'Forge', 'Fred Weasley']"
+George Weasley,/wiki/George_Weasley,"['George', 'Tentacula', 'Georgie', 'Gred', 'George Weasley']"
+Ron Weasley,/wiki/Ronald_Weasley,"['Roonil Wazlib', 'Ickle Ronnikins', 'Wheezy', 'Reg Cattermole', 'Mr. Weasley', 'Dragomir Despard', 'Ron', 'Won-Won', 'Weasel', 'Ron Weasley']"
+Neville Longbottom,/wiki/Neville_Longbottom,"['Longbottom', 'Neville', 'Neville Longbottom']"
+Augusta Longbottom,/wiki/Augusta_Longbottom,"['Augusta', 'Augusta Longbottom']"
+Lee Jordan,/wiki/Lee_Jordan,"['River', 'Lee', 'Lee Jordan']"
+Lee Jordan's tarantula,/wiki/Lee_Jordan%27s_tarantula,"[""Lee Jordan's tarantula""]"
+Bill Weasley,/wiki/William_Weasley,"['Bill', 'Bill Weasley']"
+Charlie Weasley,/wiki/Charles_Weasley,"['Charlie', 'Charlie Weasley']"
+Arthur Weasley,/wiki/Arthur_Weasley,"['Arthur', 'Arthur Weasley']"
+Peter Pettigrew,/wiki/Peter_Pettigrew,"['Scabbers', 'Wormy', 'Peter', 'Wormtail', 'The Servant of Lord Voldemort', 'Peter Pettigrew']"
+Cornelius Agrippa,/wiki/Cornelius_Agrippa,"['Agrippa', 'Cornelius Agrippa']"
+Claudius Ptolemy,/wiki/Ptolemy,"['Claudius', 'Ptolemy', 'Claudius Ptolemy']"
+Gellert Grindelwald,/wiki/Gellert_Grindelwald,"['Percival Graves', 'Gellert', 'Grindelwald', 'Abernathy', 'Gellert Grindelwald']"
+Nicolas Flamel,/wiki/Nicolas_Flamel,"['Nicolas', 'Nicolas Flamel']"
+Morgan le Fay,/wiki/Morgan_le_Fay,"['Morgana', 'Morgan', 'Morgan le Fay']"
+Hengist of Woodcroft,/wiki/Hengist_of_Woodcroft,"['Hengist', 'Hengist of Woodcroft']"
+Alberic Grunnion,/wiki/Alberic_Grunnion,"['Alberic', 'Alberic Grunnion']"
+Circe,/wiki/Circe,['Circe']
+Paracelsus,/wiki/Phillipus_von_Hohenheim,['Paracelsus']
+Cliodna,/wiki/Cliodna,"['Cliodne', 'Cliodna']"
+Bertie Bott,/wiki/Bertie_Bott,"['Bertie', 'Bertie Bott']"
+Trevor,/wiki/Trevor,['Trevor']
+Hermione Granger,/wiki/Hermione_Granger,"['Hermy', 'Hermione', 'Miss Granger', 'Hermione Granger']"
+Vincent Crabbe,/wiki/Vincent_Crabbe,"['Crabbe', 'Vincent', 'Vincent Crabbe']"
+Gregory Goyle,/wiki/Gregory_Goyle,"['Goyle', 'Gregory', 'Gregory Goyle']"
+Hogwarts Express conductor,/wiki/Hogwarts_Express_conductor,['Hogwarts Express conductor']
+Hermes,/wiki/Hermes,['Hermes']
+Fat Friar,/wiki/Fat_Friar,"['Friar', 'Fat Friar']"
+Peeves,/wiki/Peeves,"['Peevsie', 'Peevesy', 'Peeves']"
+Sorting Hat,/wiki/Sorting_Hat,['Sorting Hat']
+Hannah Abbott,/wiki/Hannah_Abbott,"['Hannah', 'Hannah Abbott']"
+Susan Bones,/wiki/Susan_Bones,"['Susan', 'Susan Bones']"
+Terry Boot,/wiki/Terry_Boot,"['Terry', 'Terry Boot']"
+Mandy Brocklehurst,/wiki/Mandy_Brocklehurst,"['Mandy', 'Mandy Brocklehurst']"
+Lavender Brown,/wiki/Lavender_Brown,"['Lavender', 'Lav-Lav', 'Lavender Brown']"
+Millicent Bulstrode,/wiki/Millicent_Bulstrode,"['Millicent', 'Millicent Bulstrode']"
+Justin Finch-Fletchley,/wiki/Justin_Finch-Fletchley,"['Justin', 'Justin Finch-Fletchley']"
+Seamus Finnigan,/wiki/Seamus_Finnigan,"['Seamus', ""O'Flaherty"", 'Seamus Finnigan']"
+Morag MacDougal,/wiki/Morag_MacDougal,"['Morag', 'Morag MacDougal']"
+Lily Moon,/wiki/Lily_Moon,['Lily Moon']
+Theodore Nott,/wiki/Theodore_Nott,"['Theodore', 'Theodore Nott']"
+Pansy Parkinson,/wiki/Pansy_Parkinson,"['Pansy', 'Pansy Parkinson']"
+Padma Patil,/wiki/Padma_Patil,"['Padma', 'Padma Patil']"
+Parvati Patil,/wiki/Parvati_Patil,"['Miss Pennyfeather', 'Parvati', 'Parvati Patil']"
+Sally-Anne Perks,/wiki/Sally-Anne_Perks,['Sally-Anne Perks']
+Dean Thomas,/wiki/Dean_Thomas,"['Dean', 'Dean Thomas']"
+Lisa Turpin,/wiki/Lisa_Turpin,"['Lisa', 'Lisa Turpin']"
+Blaise Zabini,/wiki/Blaise_Zabini,"['Blaise', 'Blaise Zabini']"
+Nearly-Headless Nick,/wiki/Nicholas_de_Mimsy-Porpington,"['Sir Nicholas', 'Nearly Headless Nick', 'Nearly-Headless Nick']"
+Bloody Baron,/wiki/Bloody_Baron,"['Bloody', 'Bloody Baron']"
+Mr Finnigan,/wiki/Seamus_Finnigan%27s_father,"['Mr. Finnigan', 'Mr Finnigan']"
+Mrs Finnigan,/wiki/Seamus_Finnigan%27s_mother,"['Mrs. Finnigan', 'Mrs Finnigan']"
+Algie,/wiki/Algie_Longbottom,['Algie']
+Severus Snape,/wiki/Severus_Snape,"['Snivellus/Snivelly', 'Severus', 'Snape', 'The Potions Master', 'Half-Blood Prince', 'Slytherus', 'Severus Snape']"
+Argus Filch,/wiki/Argus_Filch,"['Argus', 'Filchy', 'Filch', 'Argus Filch']"
+Rolanda Hooch,/wiki/Rolanda_Hooch,"['Rolanda', 'Madam Hooch', 'Rolanda Hooch']"
+Fat Lady,/wiki/Fat_Lady,['Fat Lady']
+Mrs Norris,/wiki/Mrs_Norris,"['Mrs. Norris', 'Mrs Norris']"
+Pomona Sprout,/wiki/Pomona_Sprout,"['Professor Sprout', 'Pomona', 'Pomona Sprout']"
+Cuthbert Binns,/wiki/Cuthbert_Binns,"['Professor Binns', 'Cuthbert', 'Cuthbert Binns']"
+Emeric the Evil,/wiki/Emeric_the_Evil,['Emeric the Evil']
+Uric the Oddball,/wiki/Uric_the_Oddball,"['Uric', 'Uric the Oddball']"
+Filius Flitwick,/wiki/Filius_Flitwick,"['Professor Flitwick', 'Filius', 'Filius Flitwick']"
+Fang,/wiki/Fang,['Fang']
+Oliver Wood,/wiki/Oliver_Wood,"['Oliver', 'Wood', 'Oliver Wood']"
+Helena Ravenclaw,/wiki/Helena_Ravenclaw,"['The Ghost of Ravenclaw', 'Helena', 'Grey Lady', 'Helena Ravenclaw']"
+Draco Malfoy's eagle owl,/wiki/Draco_Malfoy%27s_eagle_owl,"[""Draco Malfoy's eagle owl""]"
+Gregory the Smarmy,/wiki/Gregory_the_Smarmy,['Gregory the Smarmy']
+Fluffy,/wiki/Fluffy,['Fluffy']
+Baruffio,/wiki/Baruffio,['Baruffio']
+Angelina Johnson,/wiki/Angelina_Johnson,"['Angelina', 'Angelina Johnson']"
+Marcus Flint,/wiki/Marcus_Flint,"['Flint', 'Marcus', 'Marcus Flint']"
+Alicia Spinnet,/wiki/Alicia_Spinnet,"['Spinnet', 'Alicia', 'Alicia Spinnet']"
+Katie Bell,/wiki/Katie_Bell,"['Katie', 'Katie Bell']"
+Miles Bletchley,/wiki/Miles_Bletchley,"['Miles', 'Miles Bletchley']"
+Adrian Pucey,/wiki/Adrian_Pucey,"['Adrian', 'Pucey', 'Adrian Pucey']"
+Terence Higgs,/wiki/Terence_Higgs,"['Terence', 'Higgs', 'Terence Higgs']"
+Irma Pince,/wiki/Irma_Pince,"['Madam Pince', 'Irma', 'Irma Pince']"
+Perenelle Flamel,/wiki/Perenelle_Flamel,"['Perenelle', 'Perenelle Flamel']"
+Norbert,/wiki/Norberta,['Norbert']
+Ronan,/wiki/Ronan,['Ronan']
+Bane,/wiki/Bane,['Bane']
+Firenze,/wiki/Firenze,"['Dobbin', 'The nag', 'Firenze']"
+Elfric the Eager,/wiki/Elfric_the_Eager,"['Elfric', 'Elfric the Eager']"
+Hogwarts Giant Squid,/wiki/Hogwarts_Giant_Squid,"['giant squid', 'Hogwarts Giant Squid']"
+King's Cross Station,/wiki/King%27s_Cross_Station,"[""King's Cross Station""]"
+Mr Mason,/wiki/Mason,"['Mr. Mason', 'Mr Mason']"
+Mrs Mason,/wiki/Mason%27s_wife,"['Mrs. Mason', 'Mrs Mason']"
+Dobby,/wiki/Dobby,['Dobby']
+Mafalda Hopkirk,/wiki/Mafalda_Hopkirk,"['Mafalda', 'Mafalda Hopkirk']"
+Errol,/wiki/Errol,['Errol']
+Perkins,/wiki/Perkins,['Perkins']
+Celestina Warbeck,/wiki/Celestina_Warbeck,"['Celestina', 'The Singing Sorceress', 'Celestina Warbeck']"
+Gilderoy Lockhart,/wiki/Gilderoy_Lockhart,"['Lockhart', 'Gilderoy', 'Gilderoy Lockhart']"
+Father Christmas,/wiki/Father_Christmas,['Father Christmas']
+Mundungus Fletcher,/wiki/Mundungus_Fletcher,"['Dung', 'Mundungus', 'Mundungus Fletcher']"
+Mortlake,/wiki/Mortlake,['Mortlake']
+Weasley family ghoul,/wiki/Weasley_family_ghoul,"['Ronald Weasley', 'Weasley family ghoul']"
+Chudley Cannons,/wiki/Chudley_Cannons,"['Chudley', 'Chudley Cannons']"
+Martin Miggs,/wiki/Martin_Miggs,"['Martin', 'The Mad Muggle', 'Martin Miggs']"
+Mr Borgin,/wiki/Borgin,"['Mr. Borgin', 'Mr Borgin']"
+Aged witch,/wiki/Aged_witch,['Aged witch']
+Mr Granger,/wiki/Hermione_Granger%27s_father,"['Mr. Granger', 'Wendell Wilkins', 'Mr Granger']"
+Mrs Granger,/wiki/Hermione_Granger%27s_mother,"['Mrs. Granger', 'Monica Wilkins', 'Mrs Granger']"
+Dr Filibuster,/wiki/Dr_Filibuster%27s_Fireworks,"['Dr. Filibuster', 'Dr Filibuster']"
+Bozo,/wiki/Bozo,['Bozo']
+Manager of Flourish and Blotts,/wiki/Manager_of_Flourish_and_Blotts,['Manager of Flourish and Blotts']
+Hetty Bayliss,/wiki/Hetty_Bayliss,"['Hetty', 'Hetty Bayliss']"
+Angus Fleet,/wiki/Angus_Fleet,"['Angus', 'Angus Fleet']"
+Justin Finch-Fletchley's mother,/wiki/Justin_Finch-Fletchley%27s_mother,"[""Justin Finch-Fletchley's mother""]"
+Colin Creevey,/wiki/Colin_Creevey,"['Mr. Creevey', 'Colin', 'Colin Creevey']"
+Bandon Banshee,/wiki/Bandon_Banshee,"['Bandon', 'Bandon Banshee']"
+pixies,/wiki/Pixie,['pixies']
+Gladys Gudgeon,/wiki/Gladys_Gudgeon,"['Gladys', 'Gladys Gudgeon']"
+Veronica Smethley,/wiki/Veronica_Smethley,"['Veronica', 'Veronica Smethley']"
+Sir Patrick Delaney-Podmore,/wiki/Patrick_Delaney-Podmore,"['Sir Patrick', 'Sir Properly-Decapitated Podmore', 'Sir Patrick Delaney-Podmore']"
+Z. Nettles,/wiki/Z._Nettles,['Z. Nettles']
+D.J. Prod,/wiki/Demetrius_Prod,"['D. J. Prod', 'D.J. Prod']"
+salamander,/wiki/Fire_Dwelling_Salamander,['salamander']
+Portly ghost,/wiki/Portly_ghost,"['Portly', 'Portly ghost']"
+Myrtle Warren,/wiki/Myrtle_Warren,"['Myrtle', 'Moaning Myrtle', 'Myrtle Warren']"
+Wailing Widow,/wiki/Wailing_Widow,"['Wailing', 'Wailing Widow']"
+Ghosts,/wiki/Ghost,['Ghosts']
+Mrs Skower,/wiki/Skower,"['Mrs. Skower', 'Mrs Skower']"
+Godric Gryffindor,/wiki/Godric_Gryffindor,"['Godric', 'Godric Gryffindor']"
+Helga Hufflepuff,/wiki/Helga_Hufflepuff,"['Helga', 'Helga Hufflepuff']"
+Rowena Ravenclaw,/wiki/Rowena_Ravenclaw,"['Rowena', 'Rowena Ravenclaw']"
+Salazar Slytherin,/wiki/Salazar_Slytherin,"['Salazar', 'Serpent-tongue', 'Salazar Slytherin']"
+Transylvanian,/wiki/Transylvania,['Transylvanian']
+Yeti,/wiki/Yeti,['Yeti']
+Vampire,/wiki/Vampire,['Vampire']
+Wagga Wagga Werewolf,/wiki/Wagga_Wagga_Werewolf,"['Wagga', 'Wagga Wagga Werewolf']"
+Ernie Macmillan,/wiki/Ernest_Macmillan,"['Ernie', 'Macmillan', 'Ernie Macmillan']"
+Blood-Sucking Bugbear,/wiki/Blood-Sucking_Bugbear,['Blood-Sucking Bugbear']
+Aurora Sinistra,/wiki/Aurora_Sinistra,"['Professor Sinistra', 'Aurora', 'Aurora Sinistra']"
+Fawkes,/wiki/Fawkes,['Fawkes']
+Penelope Clearwater,/wiki/Penelope_Clearwater,"['Penny', 'Penelope', 'Penelope Clearwater']"
+Millicent Bulstrode's cat,/wiki/Millicent_Bulstrode%27s_cat,"[""Millicent Bulstrode's cat""]"
+dwarfs,/wiki/Dwarf,['dwarfs']
+Armando Dippet,/wiki/Armando_Dippet,"['Dippet', 'Armando', 'Armando Dippet']"
+Aragog,/wiki/Aragog,['Aragog']
+Hogwarts Board of Governors,/wiki/Hogwarts_Board_of_Governors,"['governors', 'Hogwarts Board of Governors']"
+Mosag,/wiki/Mosag,['Mosag']
+Forbidden Forest Acromantula colony,/wiki/Forbidden_Forest_Acromantula_colony,['Forbidden Forest Acromantula colony']
+Olive Hornby,/wiki/Olive_Hornby,"['Olive', 'Olive Hornby']"
+Tom Riddle Senior,/wiki/Tom_Riddle_Senior,['Tom Riddle Senior']
+Merope Riddle,/wiki/Merope_Riddle,"['Merope', 'Merope Riddle']"
+Serpent of Slytherin,/wiki/Serpent_of_Slytherin,"['Serpent', 'Serpent of Slytherin']"
+Wendelin the Weird,/wiki/Wendelin_the_Weird,"['Wendelin', 'Wendelin the Weird']"
+Unidentified Hogwarts owl,/wiki/Unidentified_Hogwarts_owl,['Unidentified Hogwarts owl']
+Fleetwood,/wiki/Fleetwood,['Fleetwood']
+Ripper,/wiki/Ripper,"['Rippy', 'Rippy-pippy-pooh', 'Rippy-pooh', 'Ripper']"
+Fubster,/wiki/Fubster,['Fubster']
+Stan Shunpike,/wiki/Stanley_Shunpike,"['Stan', 'Stan Shunpike']"
+Ernie Prang,/wiki/Ernest_Prang,['Ernie Prang']
+Sleeping wizard on the Knight Bus,/wiki/Dishevelled_Wizard,"['Sleeping', 'Sleeping wizard on the Knight Bus']"
+Marsh,/wiki/Marsh,['Marsh']
+Prime Minister,/wiki/Prime_Minister,"['Prime', 'Prime Minister']"
+Florean Fortescue,/wiki/Florean_Fortescue,"['Florean', 'Florean Fortescue']"
+Cassandra Vablatsky,/wiki/Cassandra_Vablatsky,"['Cassandra', 'Cassandra Vablatsky']"
+Magical Menagerie saleswoman,/wiki/Magical_Menagerie_saleswoman,"['Magical', 'Magical Menagerie saleswoman']"
+Crookshanks,/wiki/Crookshanks,['Crookshanks']
+Remus Lupin,/wiki/Remus_Lupin,"['Romulus', 'Moony', 'Lupin', 'Remus', 'Remus Lupin']"
+Silvanus Kettleburn,/wiki/Silvanus_Kettleburn,"['Silvanus', 'Professor Kettleburn', 'Silvanus Kettleburn']"
+Dementor,/wiki/Dementor,['Dementor']
+Cadogan,/wiki/Cadogan,['Cadogan']
+Sybill Trelawney,/wiki/Sybill_Trelawney,"['Sybill', 'Professor Trelawney', 'Sybill Trelawney']"
+Bilius,/wiki/Bilius,['Bilius']
+Hogwarts Hippogriff herd,/wiki/Hogwarts_Hippogriff_herd,['Hogwarts Hippogriff herd']
+Buckbeak,/wiki/Buckbeak,"['Beaky', 'Witherwings', 'Buckbeak']"
+Unidentified Muggle woman mentioned in Daily Prophet,/wiki/Unidentified_Muggle_woman_(II),['Unidentified Muggle woman mentioned in Daily Prophet']
+Boggart,/wiki/Boggart,['Boggart']
+Binky,/wiki/Binky,['Binky']
+Grindylow,/wiki/Grindylow,['Grindylow']
+Cedric Diggory,/wiki/Cedric_Diggory,"['Cedric', 'Cedric Diggory']"
+Hinkypunk,/wiki/Hinkypunk,['Hinkypunk']
+Davey Gudgeon,/wiki/Davey_Gudgeon,"['Davey', 'Davey Gudgeon']"
+Ambrosius Flume,/wiki/Ambrosius_Flume,"['Ambrosius', 'Ambrosius Flume']"
+Ambrosius Flume's wife,/wiki/Ambrosius_Flume%27s_wife,"[""Ambrosius Flume's wife""]"
+Rosmerta,/wiki/Rosmerta,['Rosmerta']
+Peter Pettigrew's mother,/wiki/Peter_Pettigrew%27s_mother,"[""Peter Pettigrew's mother""]"
+Derek,/wiki/Derek,['Derek']
+Septima Vector,/wiki/Septima_Vector,"['Professor Vector', 'Septima', 'Septima Vector']"
+Cho Chang,/wiki/Cho_Chang,"['Cho', 'Cho Chang']"
+Roger Davies,/wiki/Roger_Davies,"['Roger', 'Davies', 'Roger Davies']"
+Cassius Warrington,/wiki/Cassius_Warrington,"['Cassius', 'Warrington', 'Cassius Warrington']"
+Graham Montague,/wiki/Graham_Montague,"['Graham', 'Montague', 'Graham Montague']"
+Peregrine Derrick,/wiki/Peregrine_Derrick,"['Derrick', 'Peregrine', 'Peregrine Derrick']"
+Lucian Bole,/wiki/Lucian_Bole,"['Lucian', 'Bole', 'Lucian Bole']"
+Unidentified Committee for the Disposal of Dangerous Creatures member,/wiki/Unidentified_Committee_for_the_Disposal_of_Dangerous_Creatures_member,['Unidentified Committee for the Disposal of Dangerous Creatures member']
+Walden Macnair,/wiki/Walden_Macnair,"['Macnair', 'Walden', 'Walden Macnair']"
+Lyall Lupin,/wiki/Lyall_Lupin,"['Lyall', 'Lyall Lupin']"
+Hope Lupin,/wiki/Hope_Howell,"['Hope', 'Hope Lupin']"
+Pigwidgeon,/wiki/Pigwidgeon,['Pigwidgeon']
+Mary Riddle,/wiki/Mary_Riddle,"['Mrs. Riddle', 'Mary', 'Mary Riddle']"
+Thomas Riddle,/wiki/Thomas_Riddle,"['Thomas', 'Mr. Riddle', 'Thomas Riddle']"
+Riddles' maid,/wiki/Riddles%27_maid,"[""Riddles' maid""]"
+Riddles' cook,/wiki/Riddles%27_cook,"[""Riddles' cook""]"
+Frank Bryce,/wiki/Frank_Bryce,['Frank Bryce']
+Landlord of The Hanged Man,/wiki/Landlord_of_The_Hanged_Man,"['Landlord', 'Landlord of The Hanged Man']"
+Dot,/wiki/Dot,['Dot']
+Little Hangleton,/wiki/Little_Hangleton,['Little Hangleton']
+Great Hangleton,/wiki/Great_Hangleton,['Great Hangleton']
+Riddle House,/wiki/Riddle_House,"['Riddle', 'Riddle House']"
+Little Hangleton boys,/wiki/Little_Hangleton_boys,['Little Hangleton boys']
+Nagini,/wiki/Nagini,"['The Snake Girl', 'Nagini']"
+Bertha Jorkins,/wiki/Bertha_Jorkins,"['Bertha', 'Bertha Jorkins']"
+Smeltings Academy,/wiki/Smeltings_Academy,"['Smeltings', 'Smeltings Academy']"
+Little Whinging postman,/wiki/Little_Whinging_postman,['Little Whinging postman']
+Barty Crouch Snr,/wiki/Bartemius_Crouch_Senior,"['Barty', 'Barty Crouch Snr']"
+Ludo Bagman,/wiki/Ludovic_Bagman,"['Ludo', 'Ludo Bagman']"
+Otto Bagman,/wiki/Otto_Bagman,"['Otto', 'Otto Bagman']"
+Viktor Krum,/wiki/Viktor_Krum,"['Dumb Krum', 'Bulgarian Bonbon', 'Viktor', 'Krum', 'Viktor Krazy Krum', 'Viktor Krum']"
+Amos Diggory,/wiki/Amos_Diggory,"['Amos', 'Mr. Diggory', 'Amos Diggory']"
+Lovegood family,/wiki/Lovegood_family,['Lovegood family']
+Fawcett family,/wiki/Fawcett_family,['Fawcett family']
+Basil,/wiki/Basil,['Basil']
+Mr Roberts,/wiki/Roberts,"['Mr. Roberts', 'Mr Roberts']"
+Mr Payne,/wiki/Payne,"['Mr. Payne', 'Mr Payne']"
+Kevin,/wiki/Kevin,['Kevin']
+Kevin's mother,/wiki/Kevin%27s_mother,"[""Kevin's mother""]"
+Kevin's father,/wiki/Kevin%27s_father,"[""Kevin's father""]"
+Salem Witches Institute,/wiki/Salem_Witches%27_Institute,"['Salem', 'Salem Witches Institute']"
+Archie Aymslowe,/wiki/Archie_Aymslowe,"['Archie', 'Archie Aymslowe']"
+Mr Wood,/wiki/Oliver_Wood%27s_father,"['Mr. Wood', 'Mr Wood']"
+Mrs Wood,/wiki/Oliver_Wood%27s_mother,"['Mrs. Wood', 'Mrs Wood']"
+Cuthbert Mockridge,/wiki/Cuthbert_Mockridge,['Cuthbert Mockridge']
+Gilbert Wimple,/wiki/Gilbert_Wimple,"['Gilbert', 'Gilbert Wimple']"
+Arnold Peasegood,/wiki/Arnold_Peasegood,"['Arnie', 'Arnold', 'Arnold Peasegood']"
+Broderick Bode,/wiki/Broderick_Bode,"['Broderick', 'Bode', 'Broderick Bode']"
+Saul Croaker,/wiki/Saul_Croaker,"['Saul', 'Croaker', 'Saul Croaker']"
+Roddy Pontner,/wiki/Roddy_Pontner,"['Roddy', 'Pontner', 'Roddy Pontner']"
+Agatha Timms,/wiki/Agatha_Timms,"['Agatha', 'Agatha Timms']"
+Ali Bashir,/wiki/Ali_Bashir,"['Ali', 'Ali Bashir']"
+Omnioculars,/wiki/Omnioculars,['Omnioculars']
+Winky,/wiki/Winky,"['Blinky', 'Winky']"
+Bulgarian Minister for Magic,/wiki/Oblansk,"['Obalonsk', 'Bulgarian', 'Bulgarian Minister for Magic']"
+Mungo Bonham,/wiki/Mungo_Bonham,"['Mungo', 'Mungo Bonham']"
+Veela,/wiki/Veela,['Veela']
+Leprechaun,/wiki/Leprechaun,['Leprechaun']
+Vasily Dimitrov,/wiki/Vasily_Dimitrov,"['Dimitrov', 'Vasily', 'Vasily Dimitrov']"
+Clara Ivanova,/wiki/Clara_Ivanova,"['Ivanova', 'Clara', 'Clara Ivanova']"
+Lev Zograf,/wiki/Lev_Zograf,"['Zograf', 'Lev', 'Lev Zograf']"
+Alexei Levski,/wiki/Alexei_Levski,"['Alexei', 'Levski', 'Alexei Levski']"
+Pyotr Vulchanov,/wiki/Pyotr_Vulchanov,"['Vulchanov', 'Pyotr', 'Pyotr Vulchanov']"
+Ivan Volkov,/wiki/Ivan_Volkov,"['Ivan', 'Volkov', 'Ivan Volkov']"
+Connolly,/wiki/Connolly,['Connolly']
+Barry Ryan,/wiki/Barry_Ryan,"['Ryan', 'Barry', 'Barry Ryan']"
+Troy,/wiki/Troy,['Troy']
+Mullet,/wiki/Mullet,['Mullet']
+Moran,/wiki/Moran,['Moran']
+Quigley,/wiki/Quigley,['Quigley']
+Aidan Lynch,/wiki/Aidan_Lynch,"['Lynch', 'Aidan', 'Aidan Lynch']"
+Hassan Mostafa,/wiki/Hassan_Mostafa,"['Mostafa', 'Hassan', 'Hassan Mostafa']"
+Mrs Roberts,/wiki/Roberts%27s_wife,"['Mrs. Roberts', 'Mrs Roberts']"
+Roberts children,/wiki/Roberts_children,"['Roberts', 'Roberts children']"
+Unidentified Beauxbatons girl (I),/wiki/Unidentified_Beauxbatons_students#Beauxbatons_girl_(I),['Unidentified Beauxbatons girl (I)']
+Olympe Maxime,/wiki/Olympe_Maxime,"['Madam Maxime', 'Olympe', 'Olympe Maxime']"
+Wizard who claimed to be a dragon killer,/wiki/Wizard_who_claimed_to_be_a_dragon_killer,"['Wizard', 'Wizard who claimed to be a dragon killer']"
+Wizard who claimed to be a vampire hunter,/wiki/Wizard_who_claimed_to_be_a_Vampire_Hunter,['Wizard who claimed to be a vampire hunter']
+Rita Skeeter,/wiki/Rita_Skeeter,"['Queen of the Quills', 'Skeeter', 'Rita', 'Rita Skeeter']"
+Alastor Moody,/wiki/Alastor_Moody,"['Alastor', 'Mad-Eye', 'Alastor Moody']"
+Dennis Creevey,/wiki/Dennis_Creevey,['Dennis Creevey']
+Stewart Ackerley,/wiki/Stewart_Ackerley,"['Stewart', 'Stewart Ackerley']"
+Malcolm Baddock,/wiki/Malcolm_Baddock,['Malcolm Baddock']
+Eleanor Branstone,/wiki/Eleanor_Branstone,"['Eleanor', 'Eleanor Branstone']"
+Owen Cauldwell,/wiki/Owen_Cauldwell,"['Owen', 'Owen Cauldwell']"
+Emma Dobbs,/wiki/Emma_Dobbs,"['Emma', 'Emma Dobbs']"
+Laura Madley,/wiki/Laura_Madley,"['Laura', 'Laura Madley']"
+Natalie McDonald,/wiki/Natalie_McDonald,"['Natalie', 'Natalie McDonald']"
+Graham Pritchard,/wiki/Graham_Pritchard,['Graham Pritchard']
+Orla Quirke,/wiki/Orla_Quirke,"['Orla', 'Orla Quirke']"
+Kevin Whitby,/wiki/Kevin_Whitby,['Kevin Whitby']
+Hogwarts house-elves,/wiki/Hogwarts_house-elves,['Hogwarts house-elves']
+Barty Crouch Jr,/wiki/Bartemius_Crouch_Junior,"['Alastor ""Mad-Eye"" Moody', 'Master Barty', 'Barty Crouch Jnr', 'Barty Crouch Jr']"
+Eloise Midgeon,/wiki/Eloise_Midgen,"['Eloise', 'Eloise Midgeon']"
+Blast-Ended Skrewts,/wiki/Blast-Ended_Skrewt,['Blast-Ended Skrewts']
+Beauxbatons Academy of Magic,/wiki/Beauxbatons_Academy_of_Magic,"['Beauxbatons', 'Beauxbatons Academy of Magic']"
+Igor Karkaroff,/wiki/Igor_Karkaroff,"['Karkaroff', 'Igor', 'Igor Karkaroff']"
+Poliakoff,/wiki/Poliakoff,['Poliakoff']
+Summers,/wiki/Summers,['Summers']
+Fleur Delacour,/wiki/Fleur_Delacour,"['Fleur', 'Phlegm', 'Fleur Delacour']"
+Violet,/wiki/Violet,['Violet']
+Apolline Delacour's mother,/wiki/Apolline_Delacour%27s_mother,"[""Apolline Delacour's mother""]"
+Mykew Gregorovitch,/wiki/Mykew_Gregorovitch,"['Mykew', 'Gregorovitch', 'Mykew Gregorovitch']"
+Unidentified female Hungarian Horntail,/wiki/Unidentified_female_Hungarian_Horntail,['Unidentified female Hungarian Horntail']
+Unidentified female Chinese Fireball,/wiki/Unidentified_female_Chinese_Fireball,['Unidentified female Chinese Fireball']
+Unidentified female Common Welsh Green,/wiki/Unidentified_female_Common_Welsh_Green,['Unidentified female Common Welsh Green']
+Winky's mother,/wiki/Winky%27s_mother,"[""Winky's mother""]"
+Winky's grandmother,/wiki/Winky%27s_grandmother,"[""Winky's grandmother""]"
+Unidentified Hufflepuff third year girl,/wiki/Unidentified_Hufflepuff_girl_(III),['Unidentified Hufflepuff third year girl']
+Weird Sisters,/wiki/Weird_Sisters,['Weird Sisters']
+Joey Jenkins,/wiki/Joey_Jenkins,"['Joey', 'Joey Jenkins']"
+Unidentified Beauxbatons boy,/wiki/Unidentified_Beauxbatons_students#Beauxbatons_boy,['Unidentified Beauxbatons boy']
+Fridwulfa,/wiki/Fridwulfa,['Fridwulfa']
+Rubeus Hagrid's father,/wiki/Rubeus_Hagrid%27s_father,"[""Rubeus Hagrid's father""]"
+Boris the Bewildered,/wiki/Boris_the_Bewildered,"['Boris', 'Boris the Bewildered']"
+Wilhelmina Grubbly-Plank,/wiki/Wilhelmina_Grubbly-Plank,"['Wilhelmina', 'Professor Grubbly-Plank', 'Wilhelmina Grubbly-Plank']"
+Ludovic Bagman's goblin creditors,/wiki/Ludovic_Bagman%27s_goblin_creditors,"[""Ludovic Bagman's goblin creditors""]"
+Bertha Jorkins's second cousin,/wiki/Bertha_Jorkins%27s_second_cousin,"[""Bertha Jorkins's second cousin""]"
+Bertha Jorkins's aunt,/wiki/Bertha_Jorkins%27s_aunt,"[""Bertha Jorkins's aunt""]"
+Aberforth Dumbledore,/wiki/Aberforth_Dumbledore,"['Aberforth', 'Aberforth Dumbledore']"
+Olive Hornby's brother,/wiki/Olive_Hornby%27s_brother,"[""Olive Hornby's brother""]"
+Black Lake,/wiki/Great_Lake,"['Black', 'Black Lake']"
+Black Lake Merpeople colony,/wiki/Great_Lake_Merpeople_colony,['Black Lake Merpeople colony']
+Gabrielle Delacour,/wiki/Gabrielle_Delacour,"['Gabrielle', 'Gabrielle Delacour']"
+Murcus,/wiki/Murcus,['Murcus']
+Evan Rosier,/wiki/Evan_Rosier,"['Rosier', 'Evan', 'Evan Rosier']"
+Wilkes,/wiki/Wilkes,['Wilkes']
+Bellatrix Lestrange,/wiki/Bellatrix_Lestrange,"['Bellatrix', 'Bellatrix Lestrange']"
+Rodolphus Lestrange,/wiki/Rodolphus_Lestrange,"['Rodolphus', 'Rodolphus Lestrange']"
+Mrs Fudge,/wiki/Cornelius_Fudge%27s_wife,"['Mrs. Fudge', 'Mrs Fudge']"
+Andorran Minister of Magic,/wiki/Andorran_Ministry_of_Magic,"['Andorran', 'Andorran Minister of Magic']"
+Antonin Dolohov,/wiki/Antonin_Dolohov,"['Dolohov', 'Antonin', 'Antonin Dolohov']"
+Travers,/wiki/Travers,['Travers']
+Augustus Rookwood,/wiki/Augustus_Rookwood,"['Augustus', 'Rookwood', 'Augustus Rookwood']"
+Ludovic Bagman's father,/wiki/Ludovic_Bagman%27s_father,"[""Ludovic Bagman's father""]"
+Unidentified female Council of Magical Law juror,/wiki/Unidentified_female_Council_of_Magical_Law_juror,['Unidentified female Council of Magical Law juror']
+Rabastan Lestrange,/wiki/Rabastan_Lestrange,"['Rabastan', 'Rabastan Lestrange']"
+Frank Longbottom,/wiki/Frank_Longbottom,['Frank Longbottom']
+Alice Longbottom,/wiki/Alice_Longbottom,"[""Frank Longbottom's wife"", 'Alice', 'Alice Longbottom']"
+Florence,/wiki/Florence,['Florence']
+Florence's boyfriend,/wiki/Florence%27s_boyfriend,"[""Florence's boyfriend""]"
+Apolline Delacour,/wiki/Apolline_Delacour,"['Apolline', 'Apolline Delacour']"
+Mrs Diggory,/wiki/Cedric_Diggory%27s_mother,"['Mrs. Diggory', 'Mrs Diggory']"
+Mr Krum,/wiki/Viktor_Krum%27s_father,"['Mr. Krum', 'Mr Krum']"
+Mrs Krum,/wiki/Viktor_Krum%27s_mother,"['Mrs. Krum', 'Mrs Krum']"
+Apollyon Pringle,/wiki/Apollyon_Pringle,"['Apollyon', 'Apollyon Pringle']"
+Ogg,/wiki/Ogg,['Ogg']
+Bodrod the Bearded,/wiki/Bodrod_the_Bearded,"['Bodrod', 'Bodrod the Bearded']"
+Urg the Unclean,/wiki/Urg_the_Unclean,"['Urg', 'Urg the Unclean']"
+Lee Jordan's father,/wiki/Lee_Jordan%27s_father,"[""Lee Jordan's father""]"
+Bungy,/wiki/Bungy,['Bungy']
+Mary Dorkins,/wiki/Mary_Dorkins,['Mary Dorkins']
+Mrs Number Seven,/wiki/Owner_of_7_Privet_Drive,['Mrs Number Seven']
+Mark Evans,/wiki/Mark_Evans,"['Mark', 'Mark Evans']"
+Dementors,/wiki/Dementor,['Dementors']
+Mr Prentice,/wiki/Prentice,"['Mr. Prentice', 'Mr Prentice']"
+Nymphadora Tonks,/wiki/Nymphadora_Tonks,"['Dora', 'Nymphadora', 'Nymphadora Tonks']"
+Kingsley Shacklebolt,/wiki/Kingsley_Shacklebolt,"['Shacklebolt', 'Kingsley', 'Royal', 'Kingsley Shacklebolt']"
+Elphias Doge,/wiki/Elphias_Doge,"['Dogbreath Doge)', 'Elphias', 'Dodgy Doge', 'Darling Dodgy', 'Elphias Doge']"
+Emmeline Vance,/wiki/Emmeline_Vance,"['Emmeline', 'Emmeline Vance']"
+Sturgis Podmore,/wiki/Sturgis_Podmore,"['Sturgis', 'Podmore', 'Sturgis Podmore']"
+Hestia Jones,/wiki/Hestia_Jones,"['Hestia', 'Hestia Jones']"
+Edward Tonks,/wiki/Edward_Tonks,"['Edward', 'Edward Tonks']"
+Andromeda Tonks,/wiki/Andromeda_Tonks,"['Dromeda', 'Andromeda', 'Andromeda Tonks']"
+Kreacher,/wiki/Kreacher,['Kreacher']
+Walburga Black,/wiki/Walburga_Black,"['Walburga', 'Walburga Black']"
+Phineas Nigellus Black,/wiki/Phineas_Nigellus_Black,"['Phineas', 'Phineas Nigellus Black']"
+Kreacher's mother,/wiki/Kreacher%27s_mother,"[""Kreacher's mother""]"
+Nottingham,/wiki/Nottingham,['Nottingham']
+Ragnok,/wiki/Ragnok,['Ragnok']
+Will,/wiki/Will,['Will']
+Warty Harris,/wiki/Warty_Harris,"['Warty', 'Warty Harris']"
+Millicent Bagnold,/wiki/Millicent_Bagnold,['Millicent Bagnold']
+Fleamont Potter,/wiki/Fleamont_Potter,"['Fleamont', 'Fleamont Potter']"
+Euphemia Potter,/wiki/Euphemia_Potter,"['Euphemia', 'Euphemia Potter']"
+Alphard Black,/wiki/Alphard_Black,"['Alphard', 'Alphard Black']"
+Orion Black,/wiki/Orion_Black,"['Orion', 'Orion Black']"
+Regulus Black,/wiki/Regulus_Black,"['R.A.B.', 'Regulus', 'Regulus Black']"
+Araminta Meliflua,/wiki/Araminta_Meliflua_Black,"['Araminta', 'Araminta Meliflua']"
+Elladora Black,/wiki/Elladora_Black,"['Aunt Elladora', 'Elladora', 'Elladora Black']"
+Arcturus Black III,/wiki/Arcturus_Black_III,"['Arcturus', 'Arcturus Black III']"
+Rufus Scrimgeour,/wiki/Rufus_Scrimgeour,"['Rufus', 'Scrimgeour', 'Rufus Scrimgeour']"
+Amelia Bones,/wiki/Amelia_Bones,"['Amelia', 'Amelia Bones']"
+Eric Munch,/wiki/Eric_Munch,"['Eric', 'Eric Munch']"
+Dolores Umbridge,/wiki/Dolores_Umbridge,"['Dolores', 'Umbridge', 'Dolores Umbridge']"
+Wilbert Slinkhard,/wiki/Wilbert_Slinkhard,"['Wilbert', 'Slinkhard', 'Wilbert Slinkhard']"
+Marlene McKinnon,/wiki/Marlene_McKinnon,"['Marlene', 'Marlene McKinnon']"
+Benjy Fenwick,/wiki/Benjy_Fenwick,"['Benjy', 'Benjy Fenwick']"
+Edgar Bones,/wiki/Edgar_Bones,"['Edgar', 'Edgar Bones']"
+Caradoc Dearborn,/wiki/Caradoc_Dearborn,"['Caradoc', 'Caradoc Dearborn']"
+Gideon Prewett,/wiki/Gideon_Prewett,"['Gideon', 'Gideon Prewett']"
+Fabian Prewett,/wiki/Fabian_Prewett,"['Fabian', 'Fabian Prewett']"
+Dorcas Meadowes,/wiki/Dorcas_Meadowes,"['Dorcas', 'Dorcas Meadowes']"
+Luna Lovegood,/wiki/Luna_Lovegood,"['Luna', 'Loony Lovegood', 'Luna Lovegood']"
+Anthony Goldstein,/wiki/Anthony_Goldstein,"['Anthony', 'Anthony Goldstein']"
+Doris Purkiss,/wiki/Doris_Purkiss,['Doris Purkiss']
+Stubby Boardman,/wiki/Stubby_Boardman,"['Stubby', 'Stubby Boardman']"
+Xenophilius Lovegood,/wiki/Xenophilius_Lovegood,"['Mr. Lovegood', 'Xenophilius', 'Xenophilius Lovegood']"
+Hogwarts Thestral herd,/wiki/Hogwarts_Thestral_herd,['Hogwarts Thestral herd']
+Euan Abercrombie,/wiki/Euan_Abercrombie,"['Euan', 'Euan Abercrombie']"
+Rose Zeller,/wiki/Rose_Zeller,"['Rose', 'Rose Zeller']"
+Dean Thomas's mother,/wiki/Dean_Thomas%27s_mother,"[""Dean Thomas's mother""]"
+Dean Thomas's father,/wiki/Dean_Thomas%27s_father,"[""Dean Thomas's father""]"
+Patricia Stimpson,/wiki/Patricia_Stimpson,"['Patricia', 'Patricia Stimpson']"
+Kenneth Towler,/wiki/Kenneth_Towler,"['Kenneth', 'Kenneth Towler']"
+Inigo Imago,/wiki/Inigo_Imago,"['Inigo', 'Inigo Imago']"
+Lachlan the Lanky,/wiki/Lachlan_the_Lanky,"['Lachlan', 'Lachlan the Lanky']"
+Vicky Frobisher,/wiki/Vicky_Frobisher,"['Vicky', 'Vicky Frobisher']"
+Geoffrey Hooper,/wiki/Geoffrey_Hooper,"['Geoffrey', 'Geoffrey Hooper']"
+Wilfred the Wistful,/wiki/Wilfred_the_Wistful,"['Wilfred', 'Wilfred the Wistful']"
+Mrs Chang,/wiki/Cho_Chang%27s_mother,"['Mrs. Chang', 'Mrs Chang']"
+Donaghan Tremlett,/wiki/Donaghan_Tremlett,"['Donaghan', 'Donaghan Tremlett']"
+Griselda Marchbanks,/wiki/Griselda_Marchbanks,"['Griselda', 'Griselda Marchbanks']"
+Tiberius Ogden,/wiki/Tiberius_Ogden,"['Tiberius', 'Tiberius Ogden']"
+Cassandra Trelawney,/wiki/Cassandra_Trelawney,['Cassandra Trelawney']
+Marietta Edgecombe,/wiki/Marietta_Edgecombe,"['Marietta', 'Marietta Edgecombe']"
+Michael Corner,/wiki/Michael_Corner,"['Michael', 'Michael Corner']"
+Zacharias Smith,/wiki/Zacharias_Smith,"['Zacharias', 'Zacharias Smith']"
+Unidentified Gryffindor boy,/wiki/Unidentified_Gryffindor_boy,['Unidentified Gryffindor boy']
+Unidentified Gryffindor boy's friend,/wiki/Unidentified_Gryffindor_boy%27s_friend,"[""Unidentified Gryffindor boy's friend""]"
+Gargoyles at the staff room entrance,/wiki/Gargoyles_at_the_staffroom_entrance,"['Gargoyles', 'Gargoyles at the staff room entrance']"
+Barnabus the Barmy,/wiki/Barnabas_the_Barmy,"['Barnabus', 'Barnabas the Barmy', 'Barnabus the Barmy']"
+Mr Edgecombe,/wiki/Marietta_Edgecombe%27s_father,"['Mr. Edgecombe', 'Mr Edgecombe']"
+Mr Chang,/wiki/Cho_Chang%27s_father,"['Mr. Chang', 'Mr Chang']"
+Ladislaw Zamojski,/wiki/Ladislaw_Zamojski,"['Ladislaw', 'Ladislaw Zamojski']"
+Karkus,/wiki/Karkus,['Karkus']
+Golgomath,/wiki/Golgomath,['Golgomath']
+Tenebrus,/wiki/Tenebrus,['Tenebrus']
+Andrew Kirke,/wiki/Andrew_Kirke,"['Andrew', 'Kirke', 'Andrew Kirke']"
+Jack Sloper,/wiki/Jack_Sloper,"['Jack', 'Slope', 'Jack Sloper']"
+Everard,/wiki/Everard,['Everard']
+Dilys Derwent,/wiki/Dilys_Derwent,"['Dilys', 'Dilys Derwent']"
+Elfrida Cragg,/wiki/Elfrida_Cragg,"['Elfrida', 'Elfrida Cragg']"
+Dexter Fortescue,/wiki/Dexter_Fortescue,"['Dexter', 'Fortescu', 'Dexter Fortescue']"
+Unidentified female Head,/wiki/Gimlet-eyed_Hogwarts_Headmistress,['Unidentified female Head']
+Ventriloquist dummy at Purge and Dowse,"/wiki/Dummy_at_Purge_and_Dowse,_Ltd","['Ventriloquist', 'Ventriloquist dummy at Purge and Dowse']"
+St Mungo's Welcome Witch,/wiki/St_Mungo%27s_Welcome_Witch,"[""St Mungo's Welcome Witch""]"
+Dai Llewellyn,/wiki/Dai_Llewellyn,"['""Dangerous"" Dai', 'Dai', 'Dai Llewellyn']"
+Hippocrates Smethwyck,/wiki/Hippocrates_Smethwyck,"['Hippocrates', 'Healer Smethwyck', 'Hippocrates Smethwyck']"
+Augustus Pye,/wiki/Augustus_Pye,"['Pye', 'Augustus Pye']"
+Urquhart Rackharrow,/wiki/Urquhart_Rackharrow,"['Urquhart', 'Urquhart Rackharrow']"
+Willy Widdershins,/wiki/Willy_Widdershins,"['Willy', 'Willy Widdershins']"
+Portrait of a Healer in St Mungo's Hospital,/wiki/Portrait_of_a_Healer_in_St_Mungo%27s_Hospital,"[""Portrait of a Healer in St Mungo's Hospital""]"
+Miriam Strout,/wiki/Miriam_Strout,"['Healer Strout', 'Miriam', 'Miriam Strout']"
+Janus Thickey,/wiki/Janus_Thickey,"['Janus', 'Janus Thickey']"
+Agnes's son,/wiki/Agnes%27s_son,"[""Agnes's son""]"
+Puddifoot,/wiki/Puddifoot,['Puddifoot']
+Summerby,/wiki/Summerby,['Summerby']
+Tobias Snape,/wiki/Tobias_Snape,"['Tobias', 'Tobias Snape']"
+Eileen Prince,/wiki/Eileen_Prince,"['Eileen', 'Eileen Prince']"
+John Dawlish,/wiki/John_Dawlish,"['Dawlish', 'John', 'John Dawlish']"
+Mr Montague,/wiki/Graham_Montague%27s_father,"['Mr. Montague', 'Mr Montague']"
+Mrs Montague,/wiki/Graham_Montague%27s_mother,"['Mrs. Montague', 'Mrs Montague']"
+Bradley,/wiki/Bradley,['Bradley']
+Grawp,/wiki/Grawp,"['Grawpy', 'Grawp']"
+Magorian,/wiki/Magorian,['Magorian']
+Unidentified hard-faced grey centaur,/wiki/Unidentified_hard-faced_grey_centaur,['Unidentified hard-faced grey centaur']
+Chambers,/wiki/Chambers,['Chambers']
+Eddie Carmichael,/wiki/Eddie_Carmichael,"['Carmichael', 'Eddie', 'Eddie Carmichael']"
+Harold Dingle,/wiki/Harold_Dingle,"['Dingle', 'Harold', 'Harold Dingle']"
+Daphne Greengrass,/wiki/Daphne_Greengrass,"['Daphne', 'Daphne Greengrass']"
+Tofty,/wiki/Tofty,['Tofty']
+Pierre Bonaccord,/wiki/Pierre_Bonaccord,"['Pierre', 'Pierre Bonaccord']"
+Unidentified centaur,/wiki/Unidentified_centaur,['Unidentified centaur']
+Unidentified bearded centaur,/wiki/Unidentified_bearded_centaur,['Unidentified bearded centaur']
+Unidentified dun-coloured centaur,/wiki/Unidentified_dun-coloured_centaur,['Unidentified dun-coloured centaur']
+Unidentified thestrals,/wiki/Unidentified_Thestrals,['Unidentified thestrals']
+Jugson,/wiki/Jugson,['Jugson']
+Unidentified female Seer,/wiki/Unidentified_female_Seer,['Unidentified female Seer']
+Unidentified male Seer,/wiki/Unidentified_male_Seer,['Unidentified male Seer']
+Williamson,/wiki/Williamson,['Williamson']
+Dr Ubbly,/wiki/Dr_Ubbly%27s_Oblivious_Unction,"['Dr. Ubbly', 'Dr Ubbly']"
+Pandora Lovegood,/wiki/Pandora_Lovegood,"['Pandora', 'Pandora Lovegood']"
+Mrs Goyle,/wiki/Gregory_Goyle%27s_mother,"['Mrs. Goyle', 'Mrs Goyle']"
+Prime Minister's political opponent,/wiki/Prime_Minister%27s_political_opponent,"[""Prime Minister's political opponent""]"
+Herbert Chorley,/wiki/Herbert_Chorley,"['Herbert', 'Herbert Chorley']"
+Ulick Gamp,/wiki/Ulick_Gamp,"['Ulick', 'Ulick Gamp']"
+Prime Minister's niece,/wiki/Prime_Minister%27s_niece,"[""Prime Minister's niece""]"
+Chancellor of the Exchequer,/wiki/Chancellor_of_the_Exchequer,['Chancellor of the Exchequer']
+Fox near Spinner's End,/wiki/Fox_near_Spinner%27s_End,"[""Fox near Spinner's End""]"
+Corban Yaxley,/wiki/Corban_Yaxley,"['Yaxley', 'Corban', 'Corban Yaxley']"
+Amycus Carrow,/wiki/Amycus_Carrow,"['Carrows', 'Amycus', 'Amycus Carrow']"
+Alecto Carrow,/wiki/Alecto_Carrow,"['Alecto', 'Alecto Carrow']"
+Fenrir Greyback,/wiki/Fenrir_Greyback,"['Greyback', 'Fenrir', 'Fenrir Greyback']"
+Horace Slughorn,/wiki/Horace_Slughorn,"['Slughorn', 'Horace', 'Old Sluggy', 'Horace Slughorn']"
+Dirk Cresswell,/wiki/Dirk_Cresswell,"['Dirk', 'Dirk Cresswell']"
+Barnabus Cuffe,/wiki/Barnabas_Cuffe,['Barnabus Cuffe']
+Ciceron Harkiss,/wiki/Ciceron_Harkiss,"['Ciceron', 'Ciceron Harkiss']"
+Gwenog Jones,/wiki/Gwenog_Jones,"['Gwenog', 'Gwenog Jones']"
+Arkie Philpott,/wiki/Arkie_Philpott,"['Arkie', 'Arkie Philpott']"
+Amulet,/wiki/Amulet,['Amulet']
+Verity,/wiki/Verity,['Verity']
+Romilda Vane,/wiki/Romilda_Vane,"['Romilda', 'Romilda Vane']"
+Cormac McLaggen,/wiki/Cormac_McLaggen,"['McLaggen', 'Cormac', 'King Slug', 'Cormac McLaggen']"
+Marcus Belby,/wiki/Marcus_Belby,"['Belby', 'Marcus Belby']"
+Damocles,/wiki/Damocles_Belby,['Damocles']
+Mr Belby,/wiki/Marcus_Belby%27s_father,"['Mr. Belby', 'Mr Belby']"
+Bertie Higgs,/wiki/Bertie_Higgs,['Bertie Higgs']
+Blaise Zabini's mother,/wiki/Blaise_Zabini%27s_mother,"[""Blaise Zabini's mother""]"
+Proudfoot,/wiki/Proudfoot,['Proudfoot']
+Savage,/wiki/Savage,['Savage']
+Libatius Borage,/wiki/Libatius_Borage,"['Libatius', 'Libatius Borage']"
+Hector Dagworth-Granger,/wiki/Hector_Dagworth-Granger,"['Hector', 'Hector Dagworth-Granger']"
+Abraxas Malfoy,/wiki/Abraxas_Malfoy,"['Abraxas', 'Abraxas Malfoy']"
+Humphrey Belcher,/wiki/Humphrey_Belcher,"['Humphrey', 'Humphrey Belcher']"
+Bob Ogden,/wiki/Bob_Ogden,"['Ogden', 'Bob', 'Bob Ogden']"
+Marvolo Gaunt,/wiki/Marvolo_Gaunt,"['Mr. Gaunt', 'Marvolo', 'Marvolo Gaunt']"
+Morfin Gaunt,/wiki/Morfin_Gaunt,"['Morfin', 'Morfin Gaunt']"
+Cecilia,/wiki/Cecilia,['Cecilia']
+Mr Patil,/wiki/Patil_twins%27_father,"['Mr. Patil', 'Mr Patil']"
+Mrs Patil,/wiki/Patil_twins%27_mother,"['Mrs. Patil', 'Mrs Patil']"
+Mr Midgen,/wiki/Eloise_Midgen%27s_father,"['Mr. Midgen', 'Mr Midgen']"
+Mrs Abbott,/wiki/Hannah_Abbott%27s_mother,"['Mrs. Abbott', 'Mrs Abbott']"
+Demelza Robins,/wiki/Demelza_Robins,"['Demelza', 'Robins', 'Demelza Robins']"
+Jimmy Peakes,/wiki/Jimmy_Peakes,"['Peakes', 'Jimmy', 'Jimmy Peakes']"
+Ritchie Coote,/wiki/Ritchie_Coote,"['Ritchie', 'Coote', 'Ritchie Coote']"
+Melinda Bobbin,/wiki/Melinda_Bobbin,"['Melinda', 'Bobbin', 'Melinda Bobbin']"
+Leanne,/wiki/Leanne,['Leanne']
+Caractacus Burke,/wiki/Caractacus_Burke,"['Caractacus', 'Burkes', 'Caractacus Burke']"
+Mrs Cole,/wiki/Cole,"['Mrs. Cole', 'Mrs Cole']"
+Billy Stubbs,/wiki/Billy_Stubbs,"['Billy', 'Stubbs', 'Billy Stubbs']"
+Eric Whalley,/wiki/Eric_Whalley,"['Whalley', 'Eric Whalley']"
+Amy Benson,/wiki/Amy_Benson,"['Amy', 'Benson', 'Amy Benson']"
+Dennis Bishop,/wiki/Dennis_Bishop,"['Bishop', 'Dennis Bishop']"
+Muriel,/wiki/Muriel,['Muriel']
+Vaisey,/wiki/Vaisey,['Vaisey']
+Harper,/wiki/Harper,['Harper']
+Romilda Vane's grandmother,/wiki/Romilda_Vane%27s_grandmother,"[""Romilda Vane's grandmother""]"
+Eldred Worple,/wiki/Eldred_Worple,"['Eldred', 'Eldred Worple']"
+Sanguini,/wiki/Sanguini,['Sanguini']
+Gawain Robards,/wiki/Gawain_Robards,"['Gawain', 'Gawain Robards']"
+Fergus,/wiki/Fergus,['Fergus']
+Galatea Merrythought,/wiki/Galatea_Merrythought,"['Professor Merrythought', 'Galatea', 'Galatea Merrythought']"
+Golpalott,/wiki/Golpalott,['Golpalott']
+Scarpin,/wiki/Scarpin,['Scarpin']
+Wilkie Twycross,/wiki/Wilkie_Twycross,"['Twycross', 'Wilkie', 'Wilkie Twycross']"
+Cadwallader,/wiki/Cadwallader,['Cadwallader']
+Hokey,/wiki/Hokey,['Hokey']
+Hepzibah Smith,/wiki/Hepzibah_Smith,"['Hepzibah', 'Hepzibah Smith']"
+Octavius Pepper,/wiki/Octavius_Pepper,"['Octavius', 'Octavius Pepper']"
+Montgomery sisters,/wiki/Montgomery_sisters,['Montgomery sisters']
+Montgomery,/wiki/Montgomery,['Montgomery']
+Odo,/wiki/Odo,"['Odo the Hero', 'Odo']"
+Katie Bell's father,/wiki/Katie_Bell%27s_father,"[""Katie Bell's father""]"
+Katie Bell's mother,/wiki/Katie_Bell%27s_mother,"[""Katie Bell's mother""]"
+Bertram Aubrey,/wiki/Bertram_Aubrey,"['Bertram', 'Bertram Aubrey']"
+Inferi Army of Lord Voldemort,/wiki/Inferius,"['Inferi', 'Inferi Army of Lord Voldemort']"
+Thorfinn Rowle,/wiki/Thorfinn_Rowle,"['Thorfinn', 'Thorfinn Rowle']"
+Gibbon,/wiki/Gibbon,['Gibbon']
+Zacharias Smith's father,/wiki/Zacharias_Smith%27s_father,"[""Zacharias Smith's father""]"
+Rosalind Antigone Bungs,/wiki/Rosalind_Bungs,"['Rosalind', 'Bungs', 'Rosalind Antigone Bungs']"
+Rupert Brookstanton,/wiki/Rupert_Brookstanton,"['Rupert', 'Axebanger', 'Rupert Brookstanton']"
+Ceremony official,/wiki/Ceremony_official,"['Ceremony', 'Ceremony official']"
+Albino peacock,/wiki/Albino_peacock,"['Albino', 'Albino peacock']"
+Pius Thicknesse,/wiki/Pius_Thicknesse,"['Thicknesse', 'Pius', 'Pius Thicknesse']"
+Charity Burbage,/wiki/Charity_Burbage,"['Charity', 'Gorgovitch', 'Charity Burbage']"
+Percival Dumbledore,/wiki/Percival_Dumbledore,"['Percival', 'Percival Dumbledore']"
+Three Muggle boys,/wiki/Unidentified_Mould-on-the-Wold_boys,"['Three', 'Three Muggle boys']"
+Kendra Dumbledore,/wiki/Kendra_Dumbledore,"['Kendra', 'Kendra Dumbledore']"
+Ariana Dumbledore,/wiki/Ariana_Dumbledore,"['Ariana', 'Ariana Dumbledore']"
+Betty Braithwaite,/wiki/Betty_Braithwaite,"['Betty', 'Betty Braithwaite']"
+Ivor Dillonsby,/wiki/Ivor_Dillonsby,"['Ivor', 'Ivor Dillonsby']"
+Selwyn,/wiki/Selwyn,['Selwyn']
+Hedwig's killer,/wiki/Hedwig%27s_killer,"[""Hedwig's killer""]"
+Monsieur Delacour,/wiki/Delacour_sisters%27_father,"['Monsieur', 'Monsieur Delacour']"
+Dragomir Gorgovitch,/wiki/Dragomir_Gorgovitch,"['Dragomir', 'Dragomir Gorgovitch']"
+Beedle the Bard,/wiki/Beedle_the_Bard,"['Beedle', 'Beedle the Bard']"
+Lancelot,/wiki/Lancelot_(Healer),['Lancelot']
+The Weasleys' many cousins,/wiki/Weasley_family,"[""The Weasleys' many cousins""]"
+Barny Weasley,/wiki/Red-haired_Muggle_boy,"['Barny', 'Barny Weasley']"
+Delacour sisters' cousins,/wiki/Delacour_sisters%27_cousins,"[""Delacour sisters' cousins""]"
+Muriel's mother,/wiki/Muriel%27s_mother,"[""Muriel's mother""]"
+Viktor Krum's grandfather,/wiki/Viktor_Krum%27s_grandfather,"[""Viktor Krum's grandfather""]"
+Workmen at Tottenham Court Road,/wiki/Workmen_at_Tottenham_Court_Road,['Workmen at Tottenham Court Road']
+Waitress at Tottenham Court Road,/wiki/Waitress_at_Luchino_Caffe,['Waitress at Tottenham Court Road']
+Potters' cat,/wiki/Potters%27_cat,"[""Potters' cat""]"
+Unidentified Ministry,/wiki/British_Ministry_of_Magic,['Unidentified Ministry']
+Unidentified Magical Maintenence employee,/wiki/Magical_Maintenance_Department,['Unidentified Magical Maintenence employee']
+German-speaking woman,/wiki/German-speaking_woman,['German-speaking woman']
+German-speaking children,/wiki/German-speaking_children,['German-speaking children']
+Reginald Cattermole,/wiki/Reginald_Cattermole,"['Reginald', 'Cattermole', 'Reginald Cattermole']"
+Albert Runcorn,/wiki/Albert_Runcorn,"['Albert', 'Runcorn', 'Albert Runcorn']"
+Mary Cattermole,/wiki/Mary_Cattermole,['Mary Cattermole']
+Wakanda,/wiki/Wakanda,['Wakanda']
+Bernie,/wiki/Bernie,['Bernie']
+Dirk Cresswell's wife,/wiki/Dirk_Cresswell%27s_wife,"[""Dirk Cresswell's wife""]"
+Cresswell brothers,/wiki/Cresswell_brothers,"['Cresswell', 'Cresswell brothers']"
+Dirk Cresswell's friends,/wiki/Dirk_Cresswell%27s_friends,"[""Dirk Cresswell's friends""]"
+Arkie Alderton,/wiki/Arkie_Alderton,['Arkie Alderton']
+Arkie Alderton's alleged son,/wiki/Arkie_Alderton%27s_alleged_son,"[""Arkie Alderton's alleged son""]"
+Maisie Cattermole,/wiki/Maisie_Cattermole,"['Maisie', 'Maisie Cattermole']"
+Ellie Cattermole,/wiki/Ellie_Cattermole,"['Ellie', 'Ellie Cattermole']"
+Alfred Cattermole,/wiki/Alfred_Cattermole,"['Alfred', 'Alfred Cattermole']"
+Gornuk,/wiki/Gornuk,['Gornuk']
+Gamp,/wiki/Gamp,['Gamp']
+Bowman Wright,/wiki/Bowman_Wright,"['Bowman', 'Bowman Wright']"
+Ignotus Peverell,/wiki/Ignotus_Peverell,"['youngest brother', 'Third Brother', 'Ignotus', 'Ignotus Peverell']"
+Barnabus Finkley,/wiki/Barnabus_Finkley,['Barnabus Finkley']
+Enid Smeek,/wiki/Enid_Smeek,"['Enid', 'Enid Smeek']"
+Egbert the Egregious,/wiki/Egbert_the_Egregious,"['Egbert', 'Egbert the Egregious']"
+Godelot,/wiki/Godelot,['Godelot']
+Hereward,/wiki/Hereward,['Hereward']
+Loxias,/wiki/Loxias,['Loxias']
+Barnabas Deverill,/wiki/Barnabas_Deverill,"['Barnabas', 'Barnabas Deverill']"
+Arcus,/wiki/Arcus,['Arcus']
+Livius,/wiki/Livius,['Livius']
+Antioch Peverell,/wiki/Antioch_Peverell,"['First Brother', 'oldest brother', 'Antioch', 'Antioch Peverell']"
+Cadmus Peverell,/wiki/Cadmus_Peverell,"['Second Brother', 'Cadmus', 'Cadmus Peverell']"
+Death,/wiki/Death_(The_Tale_of_the_Three_Brothers),['Death']
+Dean Thomas's half-siblings,/wiki/Dean_Thomas%27s_half-siblings,"[""Dean Thomas's half-siblings""]"
+Scabior,/wiki/Scabior,['Scabior']
+Ragnuk,/wiki/Ragnuk,['Ragnuk']
+Edward Lupin,/wiki/Edward_Lupin,"['Teddy', 'Edward Lupin']"
+Marius,/wiki/Marius,['Marius']
+Unidentified Gringotts guard (I),/wiki/Unidentified_Gringotts_guard_(I),['Unidentified Gringotts guard (I)']
+Bogrod,/wiki/Bogrod,['Bogrod']
+Beggars on Diagon Alley,/wiki/Wandless,"['Beggars', 'Beggars on Diagon Alley']"
+Ukrainian Ironbelly at Gringotts,/wiki/Gringott%27s_Dragon,"['Ukrainian', 'Ukrainian Ironbelly at Gringotts']"
+Unidentified goblin killed by Voldemort,/wiki/Unidentified_goblin_killed_by_Voldemort,['Unidentified goblin killed by Voldemort']
+Mary Macdonald,/wiki/Mary_Macdonald,['Mary Macdonald']
+Albus Potter's owl,/wiki/Albus_Potter%27s_owl,"[""Albus Potter's owl""]"
+Rose Weasley,/wiki/Rose_Granger-Weasley,"['Ronnie', 'Rose Weasley']"
+Hugo Weasley,/wiki/Hugo_Granger-Weasley,"['Hugo', 'Hugo Weasley']"
+Scorpius Malfoy,/wiki/Scorpius_Malfoy,"['Scorpius', 'Scorpius the Dreadless', 'Scorpion King', 'Malfoy the Unanxious', 'Scorpius Malfoy']"
+Victoire Weasley,/wiki/Victoire_Weasley,"['Victoire', 'Victoire Weasley']"
+Astoria Greengrass,/wiki/Astoria_Malfoy,"['Astoria', 'Astoria Greengrass']"
+James Potter II's friends,/wiki/James_Potter_II%27s_friends,"[""James Potter II's friends""]"
