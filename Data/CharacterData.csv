@@ -1,8 +1,708 @@
 Name,Link
-"['Vernon Dursley', 'Petunia Dursley', 'Dudley Dursley', 'Lily Potter', 'James Potter', 'Harry Potter', 'Violet-cloaked wizard', 'Lord Voldemort', 'Jim McGuffin', 'Ted', ""Vernon Dursley's secretary"", 'Albus Dumbledore', 'Minerva McGonagall', 'Dedalus Diggle', 'Poppy Pomfrey', 'Rubeus Hagrid', 'Sirius Black', 'Marge Dursley', 'Arabella Figg', 'Tibbles', 'Snowy', 'Mr Paws', 'Tufty', 'Yvonne', 'Piers Polkiss', ""Piers Polkiss's mother"", 'Keeper of the reptile house', 'Zoo director', 'A boa constrictor', 'A gorilla', 'Dennis', 'Malcolm', 'Gordon', ""Dudley's parrot"", ""Dudley's tortoise"", 'Owner of the Railview Hotel', 'Merlin', 'Mr Evans', 'Mrs Evans', 'McKinnon family', 'Bones family', 'Prewett family', 'Cornelius Fudge', 'Miranda Goshawk', 'Bathilda Bagshot', 'Adalbert Waffling', 'Emeric Switch', 'Phyllida Spore', 'Arsenus Jigger', 'Newton Scamander', 'Quentin Trimble', 'Tom', 'Doris Crockford', 'Quirinus Quirrell', 'Gringotts Head Goblin', 'Griphook', 'Madam Malkin', 'Draco Malfoy', 'Lucius Malfoy', 'Narcissa Malfoy', 'Vindictus Viridian', 'Hedwig', 'Garrick Ollivander', ""King's Cross Station guard"", 'Ginny Weasley', 'Molly Weasley', 'Percy Weasley', 'Fred Weasley', 'George Weasley', 'Ron Weasley', 'Neville Longbottom', 'Augusta Longbottom', 'Lee Jordan', ""Lee Jordan's tarantula"", 'Bill Weasley', 'Charlie Weasley', 'Arthur Weasley', 'Peter Pettigrew', 'Cornelius Agrippa', 'Claudius Ptolemy', 'Gellert Grindelwald', 'Nicolas Flamel', 'Morgan le Fay', 'Hengist of Woodcroft', 'Alberic Grunnion', 'Circe', 'Paracelsus', 'Cliodna', 'Bertie Bott', 'Trevor', 'Hermione Granger', 'Vincent Crabbe', 'Gregory Goyle', 'Hogwarts Express conductor', 'Hermes', 'Fat Friar', 'Peeves', 'Sorting Hat', 'Hannah Abbott', 'Susan Bones', 'Terry Boot', 'Mandy Brocklehurst', 'Lavender Brown', 'Millicent Bulstrode', 'Justin Finch-Fletchley', 'Seamus Finnigan', 'Morag MacDougal', 'Lily Moon', 'Theodore Nott', 'Pansy Parkinson', 'Padma Patil', 'Parvati Patil', 'Sally-Anne Perks', 'Dean Thomas', 'Lisa Turpin', 'Blaise Zabini', 'Nearly-Headless Nick', 'Bloody Baron', 'Mr Finnigan', 'Mrs Finnigan', 'Algie', 'Severus Snape', 'Argus Filch', 'Rolanda Hooch', 'Fat Lady', 'Mrs Norris', 'Pomona Sprout', 'Cuthbert Binns', 'Emeric the Evil', 'Uric the Oddball', 'Filius Flitwick', 'Fang', 'Oliver Wood', 'Helena Ravenclaw', ""Draco Malfoy's eagle owl"", 'Gregory the Smarmy', 'Fluffy', 'Baruffio', 'Angelina Johnson', 'Marcus Flint', 'Alicia Spinnet', 'Katie Bell', 'Miles Bletchley', 'Adrian Pucey', 'Terence Higgs', 'Irma Pince', 'Perenelle Flamel', 'Norbert', 'Ronan', 'Bane', 'Firenze', 'Unicorn', 'Elfric the Eager', 'Hogwarts Giant Squid', ""King's Cross Station""]","['/wiki/Vernon_Dursley', '/wiki/Petunia_Dursley', '/wiki/Dudley_Dursley', '/wiki/Lily_J._Potter', '/wiki/James_Potter_I', '/wiki/Harry_Potter', '/wiki/Violet-cloaked_wizard', '/wiki/Tom_Riddle', '/wiki/Jim_McGuffin', '/wiki/Ted', '/wiki/Vernon_Dursley%27s_secretary', '/wiki/Albus_Dumbledore', '/wiki/Minerva_McGonagall', '/wiki/Dedalus_Diggle', '/wiki/Poppy_Pomfrey', '/wiki/Rubeus_Hagrid', '/wiki/Sirius_Black', '/wiki/Marjorie_Dursley', '/wiki/Arabella_Figg', '/wiki/Mr_Tibbles', '/wiki/Snowy', '/wiki/Mr_Paws', '/wiki/Tufty', '/wiki/Yvonne', '/wiki/Piers_Polkiss', '/wiki/Piers_Polkiss%27s_mother', '/wiki/Keeper_of_the_reptile_house', '/wiki/Zoo_director', '/wiki/Boa_constrictor_at_the_zoo', '/wiki/Gorilla_at_the_zoo', '/wiki/Dennis', '/wiki/Malcolm', '/wiki/Gordon', '/wiki/Dudley_Dursley%27s_parrot', '/wiki/Dudley_Dursley%27s_tortoise', '/wiki/Owner_of_the_Railview_Hotel', '/wiki/Merlin', '/wiki/Evans_sisters%27_father', '/wiki/Evans_sisters%27_mother', '/wiki/McKinnon_family', '/wiki/Bones_family', '/wiki/Prewett_family', '/wiki/Cornelius_Fudge', '/wiki/Miranda_Goshawk', '/wiki/Bathilda_Bagshot', '/wiki/Adalbert_Waffling', '/wiki/Emeric_Switch', '/wiki/Phyllida_Spore', '/wiki/Arsenius_Jigger', '/wiki/Newton_Scamander', '/wiki/Quentin_Trimble', '/wiki/Tom', '/wiki/Doris_Crockford', '/wiki/Quirinus_Quirrell', '/wiki/Gringotts_Head_Goblin', '/wiki/Griphook', '/wiki/Madam_Malkin%27s_Robes_for_All_Occasions', '/wiki/Draco_Malfoy', '/wiki/Lucius_Malfoy', '/wiki/Narcissa_Malfoy', '/wiki/Vindictus_Viridian', '/wiki/Hedwig', '/wiki/Garrick_Ollivander', '/wiki/King%27s_Cross_Station_guard', '/wiki/Ginevra_Weasley', '/wiki/Molly_Weasley', '/wiki/Percy_Weasley', '/wiki/Fred_Weasley', '/wiki/George_Weasley', '/wiki/Ronald_Weasley', '/wiki/Neville_Longbottom', '/wiki/Augusta_Longbottom', '/wiki/Lee_Jordan', '/wiki/Lee_Jordan%27s_tarantula', '/wiki/William_Weasley', '/wiki/Charles_Weasley', '/wiki/Arthur_Weasley', '/wiki/Peter_Pettigrew', '/wiki/Cornelius_Agrippa', '/wiki/Ptolemy', '/wiki/Gellert_Grindelwald', '/wiki/Nicolas_Flamel', '/wiki/Morgan_le_Fay', '/wiki/Hengist_of_Woodcroft', '/wiki/Alberic_Grunnion', '/wiki/Circe', '/wiki/Phillipus_von_Hohenheim', '/wiki/Cliodna', '/wiki/Bertie_Bott', '/wiki/Trevor', '/wiki/Hermione_Granger', '/wiki/Vincent_Crabbe', '/wiki/Gregory_Goyle', '/wiki/Hogwarts_Express_conductor', '/wiki/Hermes', '/wiki/Fat_Friar', '/wiki/Peeves', '/wiki/Sorting_Hat', '/wiki/Hannah_Abbott', '/wiki/Susan_Bones', '/wiki/Terry_Boot', '/wiki/Mandy_Brocklehurst', '/wiki/Lavender_Brown', '/wiki/Millicent_Bulstrode', '/wiki/Justin_Finch-Fletchley', '/wiki/Seamus_Finnigan', '/wiki/Morag_MacDougal', '/wiki/Lily_Moon', '/wiki/Theodore_Nott', '/wiki/Pansy_Parkinson', '/wiki/Padma_Patil', '/wiki/Parvati_Patil', '/wiki/Sally-Anne_Perks', '/wiki/Dean_Thomas', '/wiki/Lisa_Turpin', '/wiki/Blaise_Zabini', '/wiki/Nicholas_de_Mimsy-Porpington', '/wiki/Bloody_Baron', '/wiki/Seamus_Finnigan%27s_father', '/wiki/Seamus_Finnigan%27s_mother', '/wiki/Algie_Longbottom', '/wiki/Severus_Snape', '/wiki/Argus_Filch', '/wiki/Rolanda_Hooch', '/wiki/Fat_Lady', '/wiki/Mrs_Norris', '/wiki/Pomona_Sprout', '/wiki/Cuthbert_Binns', '/wiki/Emeric_the_Evil', '/wiki/Uric_the_Oddball', '/wiki/Filius_Flitwick', '/wiki/Fang', '/wiki/Oliver_Wood', '/wiki/Helena_Ravenclaw', '/wiki/Draco_Malfoy%27s_eagle_owl', '/wiki/Gregory_the_Smarmy', '/wiki/Fluffy', '/wiki/Baruffio', '/wiki/Angelina_Johnson', '/wiki/Marcus_Flint', '/wiki/Alicia_Spinnet', '/wiki/Katie_Bell', '/wiki/Miles_Bletchley', '/wiki/Adrian_Pucey', '/wiki/Terence_Higgs', '/wiki/Irma_Pince', '/wiki/Perenelle_Flamel', '/wiki/Norberta', '/wiki/Ronan', '/wiki/Bane', '/wiki/Firenze', '/wiki/Unicorn', '/wiki/Elfric_the_Eager', '/wiki/Hogwarts_Giant_Squid', '/wiki/King%27s_Cross_Station']"
-"['Mr Mason', 'Mrs Mason', 'Dobby', 'Mafalda Hopkirk', 'Errol', 'Perkins', 'Weasley family', 'Weasley family', 'Celestina Warbeck', 'Gilderoy Lockhart', 'Father Christmas', 'Mundungus Fletcher', 'Mortlake', 'Weasley family ghoul', 'Chudley Cannons', 'Martin Miggs', 'Mr Borgin', 'Aged witch', 'Mr Granger', 'Mrs Granger', 'Dr Filibuster', 'Bozo', 'Manager of Flourish and Blotts', 'Hetty Bayliss', 'Angus Fleet', ""Justin Finch-Fletchley's mother"", 'Colin Creevey', 'Bandon Banshee', 'Ogden', 'pixies', 'Gladys Gudgeon', 'Veronica Smethley', 'Sir Patrick Delaney-Podmore', 'Z. Nettles', 'D.J. Prod', 'salamander', 'Portly ghost', 'Myrtle Warren', 'Wailing Widow', 'Ghosts', 'Mrs Skower', 'Godric Gryffindor', 'Helga Hufflepuff', 'Rowena Ravenclaw', 'Salazar Slytherin', 'Transylvanian', 'Yeti', 'Vampire', 'Wagga Wagga Werewolf', 'Ernie Macmillan', 'Blood-Sucking Bugbear', 'Aurora Sinistra', 'Fawkes', 'Penelope Clearwater', ""Millicent Bulstrode's cat"", 'dwarfs', 'Armando Dippet', 'Aragog', 'Hogwarts Board of Governors', 'Mosag', 'Forbidden Forest Acromantula colony', 'Olive Hornby', 'Tom Riddle Senior', 'Merope Riddle', 'Serpent of Slytherin']","['/wiki/Mason', '/wiki/Mason%27s_wife', '/wiki/Dobby', '/wiki/Mafalda_Hopkirk', '/wiki/Errol', '/wiki/Perkins', '/wiki/Weasley_family', '/wiki/Weasley_family', '/wiki/Celestina_Warbeck', '/wiki/Gilderoy_Lockhart', '/wiki/Father_Christmas', '/wiki/Mundungus_Fletcher', '/wiki/Mortlake', '/wiki/Weasley_family_ghoul', '/wiki/Chudley_Cannons', '/wiki/Martin_Miggs', '/wiki/Borgin', '/wiki/Aged_witch', '/wiki/Hermione_Granger%27s_father', '/wiki/Hermione_Granger%27s_mother', '/wiki/Dr_Filibuster%27s_Fireworks', '/wiki/Bozo', '/wiki/Manager_of_Flourish_and_Blotts', '/wiki/Hetty_Bayliss', '/wiki/Angus_Fleet', '/wiki/Justin_Finch-Fletchley%27s_mother', '/wiki/Colin_Creevey', '/wiki/Bandon_Banshee', '/wiki/Ogden', '/wiki/Pixie', '/wiki/Gladys_Gudgeon', '/wiki/Veronica_Smethley', '/wiki/Patrick_Delaney-Podmore', '/wiki/Z._Nettles', '/wiki/Demetrius_Prod', '/wiki/Fire_Dwelling_Salamander', '/wiki/Portly_ghost', '/wiki/Myrtle_Warren', '/wiki/Wailing_Widow', '/wiki/Ghost', '/wiki/Skower', '/wiki/Godric_Gryffindor', '/wiki/Helga_Hufflepuff', '/wiki/Rowena_Ravenclaw', '/wiki/Salazar_Slytherin', '/wiki/Transylvania', '/wiki/Yeti', '/wiki/Vampire', '/wiki/Wagga_Wagga_Werewolf', '/wiki/Ernest_Macmillan', '/wiki/Blood-Sucking_Bugbear', '/wiki/Aurora_Sinistra', '/wiki/Fawkes', '/wiki/Penelope_Clearwater', '/wiki/Millicent_Bulstrode%27s_cat', '/wiki/Dwarf', '/wiki/Armando_Dippet', '/wiki/Aragog', '/wiki/Hogwarts_Board_of_Governors', '/wiki/Mosag', '/wiki/Forbidden_Forest_Acromantula_colony', '/wiki/Olive_Hornby', '/wiki/Tom_Riddle_Senior', '/wiki/Merope_Riddle', '/wiki/Serpent_of_Slytherin']"
-"['Wendelin the Weird', 'Unidentified Hogwarts owl', 'Fleetwood', 'Ripper', 'Fubster', 'Stan Shunpike', 'Ernie Prang', 'Sleeping wizard on the Knight Bus', 'Marsh', 'Prime Minister', 'Florean Fortescue', 'Cassandra Vablatsky', 'Magical Menagerie saleswoman', 'Crookshanks', 'Remus Lupin', 'Silvanus Kettleburn', 'Dementor', 'Cadogan', 'Sybill Trelawney', 'Bilius', 'Hogwarts Hippogriff herd', 'Buckbeak', 'Unidentified Muggle woman mentioned in Daily Prophet', 'Boggart', 'Binky', 'Grindylow', 'Cedric Diggory', 'Hinkypunk', 'Davey Gudgeon', 'Ambrosius Flume', ""Ambrosius Flume's wife"", 'Rosmerta', ""Peter Pettigrew's mother"", 'Derek', 'Septima Vector', 'Cho Chang', 'Roger Davies', 'Cassius Warrington', 'Graham Montague', 'Peregrine Derrick', 'Lucian Bole', 'Unidentified Committee for the Disposal of Dangerous Creatures member', 'Walden Macnair', 'Lyall Lupin', 'Hope Lupin', 'Pigwidgeon']","['/wiki/Wendelin_the_Weird', '/wiki/Unidentified_Hogwarts_owl', '/wiki/Fleetwood', '/wiki/Ripper', '/wiki/Fubster', '/wiki/Stanley_Shunpike', '/wiki/Ernest_Prang', '/wiki/Dishevelled_Wizard', '/wiki/Marsh', '/wiki/Prime_Minister', '/wiki/Florean_Fortescue', '/wiki/Cassandra_Vablatsky', '/wiki/Magical_Menagerie_saleswoman', '/wiki/Crookshanks', '/wiki/Remus_Lupin', '/wiki/Silvanus_Kettleburn', '/wiki/Dementor', '/wiki/Cadogan', '/wiki/Sybill_Trelawney', '/wiki/Bilius', '/wiki/Hogwarts_Hippogriff_herd', '/wiki/Buckbeak', '/wiki/Unidentified_Muggle_woman_(II)', '/wiki/Boggart', '/wiki/Binky', '/wiki/Grindylow', '/wiki/Cedric_Diggory', '/wiki/Hinkypunk', '/wiki/Davey_Gudgeon', '/wiki/Ambrosius_Flume', '/wiki/Ambrosius_Flume%27s_wife', '/wiki/Rosmerta', '/wiki/Peter_Pettigrew%27s_mother', '/wiki/Derek', '/wiki/Septima_Vector', '/wiki/Cho_Chang', '/wiki/Roger_Davies', '/wiki/Cassius_Warrington', '/wiki/Graham_Montague', '/wiki/Peregrine_Derrick', '/wiki/Lucian_Bole', '/wiki/Unidentified_Committee_for_the_Disposal_of_Dangerous_Creatures_member', '/wiki/Walden_Macnair', '/wiki/Lyall_Lupin', '/wiki/Hope_Howell', '/wiki/Pigwidgeon']"
-"['Mary Riddle', 'Thomas Riddle', ""Riddles' maid"", ""Riddles' cook"", 'Frank Bryce', 'Landlord of The Hanged Man', 'Dot', 'Little Hangleton', 'Great Hangleton', 'Riddle House', 'Little Hangleton boys', 'Nagini', 'Bertha Jorkins', 'Smeltings Academy', 'Little Whinging postman', 'Barty Crouch Snr', 'Ludo Bagman', 'Otto Bagman', 'Viktor Krum', 'Amos Diggory', 'Lovegood family', 'Fawcett family', 'Basil', 'Mr Roberts', 'Mr Payne', 'Kevin', ""Kevin's mother"", ""Kevin's father"", 'Salem Witches Institute', 'Archie Aymslowe', 'Mr Wood', 'Mrs Wood', 'Cuthbert Mockridge', 'Gilbert Wimple', 'Arnold Peasegood', 'Broderick Bode', 'Saul Croaker', 'Roddy Pontner', 'Agatha Timms', 'Ali Bashir', 'Omnioculars', 'Winky', 'Bulgarian Minister for Magic', 'Mungo Bonham', 'Veela', 'Leprechaun', 'Vasily Dimitrov', 'Clara Ivanova', 'Lev Zograf', 'Alexei Levski', 'Pyotr Vulchanov', 'Ivan Volkov', 'Connolly', 'Barry Ryan', 'Troy', 'Mullet', 'Moran', 'Quigley', 'Aidan Lynch', 'Hassan Mostafa', 'Mrs Roberts', 'Roberts children', 'Unidentified Beauxbatons girl (I)', 'Olympe Maxime', 'Wizard who claimed to be a dragon killer', 'Wizard who claimed to be a vampire hunter', 'Rita Skeeter', 'Alastor Moody', 'Dennis Creevey', 'Stewart Ackerley', 'Malcolm Baddock', 'Eleanor Branstone', 'Owen Cauldwell', 'Emma Dobbs', 'Laura Madley', 'Natalie McDonald', 'Graham Pritchard', 'Orla Quirke', 'Kevin Whitby', 'Hogwarts house-elves', 'Barty Crouch Jr', 'Eloise Midgeon', 'Blast-Ended Skrewts', 'Beauxbatons Academy of Magic', 'Igor Karkaroff', 'Poliakoff', 'Summers', 'Fleur Delacour', 'Violet', ""Apolline Delacour's mother"", 'Mykew Gregorovitch', 'Unidentified female Hungarian Horntail', 'Unidentified female Chinese Fireball', 'Unidentified female Common Welsh Green', ""Winky's mother"", ""Winky's grandmother"", 'Unidentified Hufflepuff third year girl', 'Weird Sisters', 'Joey Jenkins', 'Unidentified Beauxbatons boy', 'Fridwulfa', ""Rubeus Hagrid's father"", 'Boris the Bewildered', 'Wilhelmina Grubbly-Plank', 'Care of Magical Creatures', ""Ludovic Bagman's goblin creditors"", ""Bertha Jorkins's second cousin"", ""Bertha Jorkins's aunt"", 'Aberforth Dumbledore', ""Olive Hornby's brother"", 'Unicorn', 'Black Lake', 'Black Lake Merpeople colony', 'Gabrielle Delacour', 'Murcus', 'Evan Rosier', 'Wilkes', 'Bellatrix Lestrange', 'Rodolphus Lestrange', 'Care of Magical Creatures', 'Mrs Fudge', 'Andorran Minister of Magic', 'Antonin Dolohov', 'Travers', 'Augustus Rookwood', ""Ludovic Bagman's father"", 'Unidentified female Council of Magical Law juror', 'Rabastan Lestrange', 'Frank Longbottom', 'Alice Longbottom', 'Florence', ""Florence's boyfriend"", 'Apolline Delacour', 'Mrs Diggory', 'Mr Krum', 'Mrs Krum', 'Apollyon Pringle', 'Ogg', 'Bodrod the Bearded', 'Urg the Unclean', 'Hedge Maze', 'Hedge Maze', 'Hedge Maze', 'Crabbe', 'Goyle', 'Nott', ""Lee Jordan's father"", 'Harry Potter and the Goblet of Fire', 'Harry Potter and the Goblet of Fire (film)', 'Harry Potter and the Goblet of Fire (soundtrack)', 'Harry Potter and the Goblet of Fire (video game)']","['/wiki/Mary_Riddle', '/wiki/Thomas_Riddle', '/wiki/Riddles%27_maid', '/wiki/Riddles%27_cook', '/wiki/Frank_Bryce', '/wiki/Landlord_of_The_Hanged_Man', '/wiki/Dot', '/wiki/Little_Hangleton', '/wiki/Great_Hangleton', '/wiki/Riddle_House', '/wiki/Little_Hangleton_boys', '/wiki/Nagini', '/wiki/Bertha_Jorkins', '/wiki/Smeltings_Academy', '/wiki/Little_Whinging_postman', '/wiki/Bartemius_Crouch_Senior', '/wiki/Ludovic_Bagman', '/wiki/Otto_Bagman', '/wiki/Viktor_Krum', '/wiki/Amos_Diggory', '/wiki/Lovegood_family', '/wiki/Fawcett_family', '/wiki/Basil', '/wiki/Roberts', '/wiki/Payne', '/wiki/Kevin', '/wiki/Kevin%27s_mother', '/wiki/Kevin%27s_father', '/wiki/Salem_Witches%27_Institute', '/wiki/Archie_Aymslowe', '/wiki/Oliver_Wood%27s_father', '/wiki/Oliver_Wood%27s_mother', '/wiki/Cuthbert_Mockridge', '/wiki/Gilbert_Wimple', '/wiki/Arnold_Peasegood', '/wiki/Broderick_Bode', '/wiki/Saul_Croaker', '/wiki/Roddy_Pontner', '/wiki/Agatha_Timms', '/wiki/Ali_Bashir', '/wiki/Omnioculars', '/wiki/Winky', '/wiki/Oblansk', '/wiki/Mungo_Bonham', '/wiki/Veela', '/wiki/Leprechaun', '/wiki/Vasily_Dimitrov', '/wiki/Clara_Ivanova', '/wiki/Lev_Zograf', '/wiki/Alexei_Levski', '/wiki/Pyotr_Vulchanov', '/wiki/Ivan_Volkov', '/wiki/Connolly', '/wiki/Barry_Ryan', '/wiki/Troy', '/wiki/Mullet', '/wiki/Moran', '/wiki/Quigley', '/wiki/Aidan_Lynch', '/wiki/Hassan_Mostafa', '/wiki/Roberts%27s_wife', '/wiki/Roberts_children', '/wiki/Unidentified_Beauxbatons_students#Beauxbatons_girl_(I)', '/wiki/Olympe_Maxime', '/wiki/Wizard_who_claimed_to_be_a_dragon_killer', '/wiki/Wizard_who_claimed_to_be_a_Vampire_Hunter', '/wiki/Rita_Skeeter', '/wiki/Alastor_Moody', '/wiki/Dennis_Creevey', '/wiki/Stewart_Ackerley', '/wiki/Malcolm_Baddock', '/wiki/Eleanor_Branstone', '/wiki/Owen_Cauldwell', '/wiki/Emma_Dobbs', '/wiki/Laura_Madley', '/wiki/Natalie_McDonald', '/wiki/Graham_Pritchard', '/wiki/Orla_Quirke', '/wiki/Kevin_Whitby', '/wiki/Hogwarts_house-elves', '/wiki/Bartemius_Crouch_Junior', '/wiki/Eloise_Midgen', '/wiki/Blast-Ended_Skrewt', '/wiki/Beauxbatons_Academy_of_Magic', '/wiki/Igor_Karkaroff', '/wiki/Poliakoff', '/wiki/Summers', '/wiki/Fleur_Delacour', '/wiki/Violet', '/wiki/Apolline_Delacour%27s_mother', '/wiki/Mykew_Gregorovitch', '/wiki/Unidentified_female_Hungarian_Horntail', '/wiki/Unidentified_female_Chinese_Fireball', '/wiki/Unidentified_female_Common_Welsh_Green', '/wiki/Winky%27s_mother', '/wiki/Winky%27s_grandmother', '/wiki/Unidentified_Hufflepuff_girl_(III)', '/wiki/Weird_Sisters', '/wiki/Joey_Jenkins', '/wiki/Unidentified_Beauxbatons_students#Beauxbatons_boy', '/wiki/Fridwulfa', '/wiki/Rubeus_Hagrid%27s_father', '/wiki/Boris_the_Bewildered', '/wiki/Wilhelmina_Grubbly-Plank', '/wiki/Care_of_Magical_Creatures', '/wiki/Ludovic_Bagman%27s_goblin_creditors', '/wiki/Bertha_Jorkins%27s_second_cousin', '/wiki/Bertha_Jorkins%27s_aunt', '/wiki/Aberforth_Dumbledore', '/wiki/Olive_Hornby%27s_brother', '/wiki/Unicorn', '/wiki/Great_Lake', '/wiki/Great_Lake_Merpeople_colony', '/wiki/Gabrielle_Delacour', '/wiki/Murcus', '/wiki/Evan_Rosier', '/wiki/Wilkes', '/wiki/Bellatrix_Lestrange', '/wiki/Rodolphus_Lestrange', '/wiki/Care_of_Magical_Creatures', '/wiki/Cornelius_Fudge%27s_wife', '/wiki/Andorran_Ministry_of_Magic', '/wiki/Antonin_Dolohov', '/wiki/Travers', '/wiki/Augustus_Rookwood', '/wiki/Ludovic_Bagman%27s_father', '/wiki/Unidentified_female_Council_of_Magical_Law_juror', '/wiki/Rabastan_Lestrange', '/wiki/Frank_Longbottom', '/wiki/Alice_Longbottom', '/wiki/Florence', '/wiki/Florence%27s_boyfriend', '/wiki/Apolline_Delacour', '/wiki/Cedric_Diggory%27s_mother', '/wiki/Viktor_Krum%27s_father', '/wiki/Viktor_Krum%27s_mother', '/wiki/Apollyon_Pringle', '/wiki/Ogg', '/wiki/Bodrod_the_Bearded', '/wiki/Urg_the_Unclean', '/wiki/Triwizard_Maze', '/wiki/Triwizard_Maze', '/wiki/Triwizard_Maze', '/wiki/Crabbe', '/wiki/Goyle', '/wiki/Nott', '/wiki/Lee_Jordan%27s_father', '/wiki/Harry_Potter_and_the_Goblet_of_Fire', '/wiki/Harry_Potter_and_the_Goblet_of_Fire_(film)', '/wiki/Harry_Potter_and_the_Goblet_of_Fire_(soundtrack)', '/wiki/Harry_Potter_and_the_Goblet_of_Fire_(video_game)']"
-"['Bungy', 'Mary Dorkins', 'Mrs Number Seven', 'Mark Evans', 'Dementors', 'Mr Prentice', 'Nymphadora Tonks', 'Kingsley Shacklebolt', 'Elphias Doge', 'Emmeline Vance', 'Sturgis Podmore', 'Hestia Jones', 'Edward Tonks', 'Andromeda Tonks', 'Kreacher', 'Walburga Black', 'Phineas Nigellus Black', ""Kreacher's mother"", '12 Grimmauld Place', 'Nottingham', 'Ragnok', 'Will', 'Warty Harris', 'Millicent Bagnold', 'Fleamont Potter', 'Euphemia Potter', 'Alphard Black', 'Orion Black', 'Regulus Black', 'Araminta Meliflua', 'Elladora Black', 'Arcturus Black III', '12 Grimmauld Place', '12 Grimmauld Place', 'Rufus Scrimgeour', 'Amelia Bones', 'Eric Munch', 'Bob', 'Dolores Umbridge', 'Wilbert Slinkhard', 'Marlene McKinnon', 'Benjy Fenwick', 'Edgar Bones', 'Caradoc Dearborn', 'Gideon Prewett', 'Fabian Prewett', 'Dorcas Meadowes', 'Luna Lovegood', 'Anthony Goldstein', 'Doris Purkiss', 'Stubby Boardman', 'Xenophilius Lovegood', 'Hogwarts Thestral herd', 'Euan Abercrombie', 'Rose Zeller', ""Dean Thomas's mother"", ""Dean Thomas's father"", 'Patricia Stimpson', 'Kenneth Towler', 'Inigo Imago', 'Care of Magical Creatures', 'Lachlan the Lanky', 'Vicky Frobisher', 'Geoffrey Hooper', 'Wilfred the Wistful', 'Mrs Chang', 'Donaghan Tremlett', 'Griselda Marchbanks', 'Tiberius Ogden', 'Cassandra Trelawney', 'Marietta Edgecombe', 'Michael Corner', 'Zacharias Smith', 'Unidentified Gryffindor boy', ""Unidentified Gryffindor boy's friend"", 'Gargoyles at the staff room entrance', 'Barnabus the Barmy', 'Mr Edgecombe', 'Mr Chang', 'Ladislaw Zamojski', 'Karkus', 'Golgomath', 'Tenebrus', 'Andrew Kirke', 'Jack Sloper', 'Everard', 'Dilys Derwent', 'Elfrida Cragg', 'Dexter Fortescue', 'Unidentified female Head', 'Ventriloquist dummy at Purge and Dowse', ""St Mungo's Welcome Witch"", 'Dai Llewellyn', 'Hippocrates Smethwyck', 'Augustus Pye', 'Urquhart Rackharrow', 'Willy Widdershins', ""Portrait of a Healer in St Mungo's Hospital"", 'Miriam Strout', 'Janus Thickey', ""Agnes's son"", 'Puddifoot', 'Summerby', 'Tobias Snape', 'Eileen Prince', 'John Dawlish', 'Mr Montague', 'Mrs Montague', 'Bradley', 'Grawp', 'Magorian', 'Unidentified hard-faced grey centaur', 'Chambers', 'Eddie Carmichael', 'Harold Dingle', 'Daphne Greengrass', 'Tofty', 'Pierre Bonaccord', 'Unidentified centaur', 'Unidentified bearded centaur', 'Unidentified dun-coloured centaur', 'Unidentified thestrals', 'Jugson', 'Unidentified female Seer', 'Unidentified male Seer', 'Williamson', 'Dr Ubbly', 'Pandora Lovegood', 'Mrs Goyle']","['/wiki/Bungy', '/wiki/Mary_Dorkins', '/wiki/Owner_of_7_Privet_Drive', '/wiki/Mark_Evans', '/wiki/Dementor', '/wiki/Prentice', '/wiki/Nymphadora_Tonks', '/wiki/Kingsley_Shacklebolt', '/wiki/Elphias_Doge', '/wiki/Emmeline_Vance', '/wiki/Sturgis_Podmore', '/wiki/Hestia_Jones', '/wiki/Edward_Tonks', '/wiki/Andromeda_Tonks', '/wiki/Kreacher', '/wiki/Walburga_Black', '/wiki/Phineas_Nigellus_Black', '/wiki/Kreacher%27s_mother', '/wiki/12_Grimmauld_Place', '/wiki/Nottingham', '/wiki/Ragnok', '/wiki/Will', '/wiki/Warty_Harris', '/wiki/Millicent_Bagnold', '/wiki/Fleamont_Potter', '/wiki/Euphemia_Potter', '/wiki/Alphard_Black', '/wiki/Orion_Black', '/wiki/Regulus_Black', '/wiki/Araminta_Meliflua_Black', '/wiki/Elladora_Black', '/wiki/Arcturus_Black_III', '/wiki/12_Grimmauld_Place', '/wiki/12_Grimmauld_Place', '/wiki/Rufus_Scrimgeour', '/wiki/Amelia_Bones', '/wiki/Eric_Munch', '/wiki/Bob', '/wiki/Dolores_Umbridge', '/wiki/Wilbert_Slinkhard', '/wiki/Marlene_McKinnon', '/wiki/Benjy_Fenwick', '/wiki/Edgar_Bones', '/wiki/Caradoc_Dearborn', '/wiki/Gideon_Prewett', '/wiki/Fabian_Prewett', '/wiki/Dorcas_Meadowes', '/wiki/Luna_Lovegood', '/wiki/Anthony_Goldstein', '/wiki/Doris_Purkiss', '/wiki/Stubby_Boardman', '/wiki/Xenophilius_Lovegood', '/wiki/Hogwarts_Thestral_herd', '/wiki/Euan_Abercrombie', '/wiki/Rose_Zeller', '/wiki/Dean_Thomas%27s_mother', '/wiki/Dean_Thomas%27s_father', '/wiki/Patricia_Stimpson', '/wiki/Kenneth_Towler', '/wiki/Inigo_Imago', '/wiki/Care_of_Magical_Creatures', '/wiki/Lachlan_the_Lanky', '/wiki/Vicky_Frobisher', '/wiki/Geoffrey_Hooper', '/wiki/Wilfred_the_Wistful', '/wiki/Cho_Chang%27s_mother', '/wiki/Donaghan_Tremlett', '/wiki/Griselda_Marchbanks', '/wiki/Tiberius_Ogden', '/wiki/Cassandra_Trelawney', '/wiki/Marietta_Edgecombe', '/wiki/Michael_Corner', '/wiki/Zacharias_Smith', '/wiki/Unidentified_Gryffindor_boy', '/wiki/Unidentified_Gryffindor_boy%27s_friend', '/wiki/Gargoyles_at_the_staffroom_entrance', '/wiki/Barnabas_the_Barmy', '/wiki/Marietta_Edgecombe%27s_father', '/wiki/Cho_Chang%27s_father', '/wiki/Ladislaw_Zamojski', '/wiki/Karkus', '/wiki/Golgomath', '/wiki/Tenebrus', '/wiki/Andrew_Kirke', '/wiki/Jack_Sloper', '/wiki/Everard', '/wiki/Dilys_Derwent', '/wiki/Elfrida_Cragg', '/wiki/Dexter_Fortescue', '/wiki/Gimlet-eyed_Hogwarts_Headmistress', '/wiki/Dummy_at_Purge_and_Dowse,_Ltd', '/wiki/St_Mungo%27s_Welcome_Witch', '/wiki/Dai_Llewellyn', '/wiki/Hippocrates_Smethwyck', '/wiki/Augustus_Pye', '/wiki/Urquhart_Rackharrow', '/wiki/Willy_Widdershins', '/wiki/Portrait_of_a_Healer_in_St_Mungo%27s_Hospital', '/wiki/Miriam_Strout', '/wiki/Janus_Thickey', '/wiki/Agnes%27s_son', '/wiki/Puddifoot', '/wiki/Summerby', '/wiki/Tobias_Snape', '/wiki/Eileen_Prince', '/wiki/John_Dawlish', '/wiki/Graham_Montague%27s_father', '/wiki/Graham_Montague%27s_mother', '/wiki/Bradley', '/wiki/Grawp', '/wiki/Magorian', '/wiki/Unidentified_hard-faced_grey_centaur', '/wiki/Chambers', '/wiki/Eddie_Carmichael', '/wiki/Harold_Dingle', '/wiki/Daphne_Greengrass', '/wiki/Tofty', '/wiki/Pierre_Bonaccord', '/wiki/Unidentified_centaur', '/wiki/Unidentified_bearded_centaur', '/wiki/Unidentified_dun-coloured_centaur', '/wiki/Unidentified_Thestrals', '/wiki/Jugson', '/wiki/Unidentified_female_Seer', '/wiki/Unidentified_male_Seer', '/wiki/Williamson', '/wiki/Dr_Ubbly%27s_Oblivious_Unction', '/wiki/Pandora_Lovegood', '/wiki/Gregory_Goyle%27s_mother']"
-"[""Prime Minister's political opponent"", 'Herbert Chorley', 'Ulick Gamp', ""Prime Minister's niece"", 'Chancellor of the Exchequer', ""Fox near Spinner's End"", 'Corban Yaxley', 'Amycus Carrow', 'Alecto Carrow', 'Fenrir Greyback', 'Horace Slughorn', 'Dirk Cresswell', 'Barnabus Cuffe', 'Ciceron Harkiss', 'Gwenog Jones', 'Arkie Philpott', 'Amulet', 'Verity', 'Arnold', 'Romilda Vane', 'Cormac McLaggen', 'Marcus Belby', 'Damocles', 'Mr Belby', 'Tiberius', 'Bertie Higgs', ""Blaise Zabini's mother"", 'Proudfoot', 'Savage', 'Libatius Borage', 'Hector Dagworth-Granger', 'Abraxas Malfoy', 'Humphrey Belcher', 'Bob Ogden', 'Marvolo Gaunt', 'Morfin Gaunt', 'Cecilia', 'Mr Patil', 'Mrs Patil', 'Mr Midgen', 'Mrs Abbott', 'Demelza Robins', 'Jimmy Peakes', 'Ritchie Coote', 'Melinda Bobbin', 'Leanne', 'Caractacus Burke', 'Mrs Cole', 'Billy Stubbs', 'Eric Whalley', 'Amy Benson', 'Dennis Bishop', 'Muriel', 'Vaisey', 'Urquhart', 'Harper', ""Romilda Vane's grandmother"", 'Eldred Worple', 'Sanguini', 'Gawain Robards', 'Fergus', 'Galatea Merrythought', 'Lestrange', 'Golpalott', 'Scarpin', 'Wilkie Twycross', 'Cadwallader', 'Hokey', 'Hepzibah Smith', 'Octavius Pepper', 'Montgomery sisters', 'Montgomery', 'Odo', ""Katie Bell's father"", ""Katie Bell's mother"", 'Bertram Aubrey', 'Inferi Army of Lord Voldemort', 'Thorfinn Rowle', 'Gibbon', ""Zacharias Smith's father"", 'Rosalind Antigone Bungs', 'Rupert Brookstanton', 'Ceremony official']","['/wiki/Prime_Minister%27s_political_opponent', '/wiki/Herbert_Chorley', '/wiki/Ulick_Gamp', '/wiki/Prime_Minister%27s_niece', '/wiki/Chancellor_of_the_Exchequer', '/wiki/Fox_near_Spinner%27s_End', '/wiki/Corban_Yaxley', '/wiki/Amycus_Carrow', '/wiki/Alecto_Carrow', '/wiki/Fenrir_Greyback', '/wiki/Horace_Slughorn', '/wiki/Dirk_Cresswell', '/wiki/Barnabas_Cuffe', '/wiki/Ciceron_Harkiss', '/wiki/Gwenog_Jones', '/wiki/Arkie_Philpott', '/wiki/Amulet', '/wiki/Verity', '/wiki/Arnold', '/wiki/Romilda_Vane', '/wiki/Cormac_McLaggen', '/wiki/Marcus_Belby', '/wiki/Damocles_Belby', '/wiki/Marcus_Belby%27s_father', '/wiki/Tiberius', '/wiki/Bertie_Higgs', '/wiki/Blaise_Zabini%27s_mother', '/wiki/Proudfoot', '/wiki/Savage', '/wiki/Libatius_Borage', '/wiki/Hector_Dagworth-Granger', '/wiki/Abraxas_Malfoy', '/wiki/Humphrey_Belcher', '/wiki/Bob_Ogden', '/wiki/Marvolo_Gaunt', '/wiki/Morfin_Gaunt', '/wiki/Cecilia', '/wiki/Patil_twins%27_father', '/wiki/Patil_twins%27_mother', '/wiki/Eloise_Midgen%27s_father', '/wiki/Hannah_Abbott%27s_mother', '/wiki/Demelza_Robins', '/wiki/Jimmy_Peakes', '/wiki/Ritchie_Coote', '/wiki/Melinda_Bobbin', '/wiki/Leanne', '/wiki/Caractacus_Burke', '/wiki/Cole', '/wiki/Billy_Stubbs', '/wiki/Eric_Whalley', '/wiki/Amy_Benson', '/wiki/Dennis_Bishop', '/wiki/Muriel', '/wiki/Vaisey', '/wiki/Urquhart', '/wiki/Harper', '/wiki/Romilda_Vane%27s_grandmother', '/wiki/Eldred_Worple', '/wiki/Sanguini', '/wiki/Gawain_Robards', '/wiki/Fergus', '/wiki/Galatea_Merrythought', '/wiki/Lestrange', '/wiki/Golpalott', '/wiki/Scarpin', '/wiki/Wilkie_Twycross', '/wiki/Cadwallader', '/wiki/Hokey', '/wiki/Hepzibah_Smith', '/wiki/Octavius_Pepper', '/wiki/Montgomery_sisters', '/wiki/Montgomery', '/wiki/Odo', '/wiki/Katie_Bell%27s_father', '/wiki/Katie_Bell%27s_mother', '/wiki/Bertram_Aubrey', '/wiki/Inferius', '/wiki/Thorfinn_Rowle', '/wiki/Gibbon', '/wiki/Zacharias_Smith%27s_father', '/wiki/Rosalind_Bungs', '/wiki/Rupert_Brookstanton', '/wiki/Ceremony_official']"
-"['Albino peacock', 'Pius Thicknesse', 'Charity Burbage', 'Percival Dumbledore', 'Three Muggle boys', 'Kendra Dumbledore', 'Ariana Dumbledore', 'Betty Braithwaite', 'Ivor Dillonsby', 'Selwyn', ""Hedwig's killer"", 'Monsieur Delacour', 'Dragomir Gorgovitch', 'Beedle the Bard', 'Lancelot', ""The Weasleys' many cousins"", 'Barny Weasley', ""Delacour sisters' cousins"", ""Muriel's mother"", ""Viktor Krum's grandfather"", 'Workmen at Tottenham Court Road', 'Waitress at Tottenham Court Road', ""Potters' cat"", 'Unidentified Ministry', 'Unidentified Magical Maintenence employee', 'German-speaking woman', 'German-speaking children', 'Reginald Cattermole', 'Albert Runcorn', 'Mary Cattermole', 'Wakanda', 'Bernie', 'Bletchley', ""Dirk Cresswell's wife"", 'Cresswell brothers', ""Dirk Cresswell's friends"", 'Arkie Alderton', ""Arkie Alderton's alleged son"", 'Maisie Cattermole', 'Ellie Cattermole', 'Alfred Cattermole', 'Gornuk', 'Gamp', 'Bowman Wright', 'Ignotus Peverell', 'Barnabus Finkley', 'Enid Smeek', 'Snatchers', 'Egbert the Egregious', 'Godelot', 'Hereward', 'Loxias', 'Barnabas Deverill', 'Arcus', 'Livius', 'Antioch Peverell', 'Cadmus Peverell', 'Death', ""Dean Thomas's half-siblings"", 'Scabior', 'Dudley', 'Snatchers', 'Ragnuk', 'Edward Lupin', 'Marius', 'Unidentified Gringotts guard (I)', 'Bogrod', 'Beggars on Diagon Alley', 'Ukrainian Ironbelly at Gringotts', 'Unidentified goblin killed by Voldemort', 'Ravenclaw', 'Mary Macdonald', 'Lily Potter', 'James Potter II', 'Albus Potter', ""Albus Potter's owl"", 'Rose Weasley', 'Hugo Weasley', 'Scorpius Malfoy', 'Victoire Weasley', 'Astoria Greengrass', ""James Potter II's friends""]","['/wiki/Albino_peacock', '/wiki/Pius_Thicknesse', '/wiki/Charity_Burbage', '/wiki/Percival_Dumbledore', '/wiki/Unidentified_Mould-on-the-Wold_boys', '/wiki/Kendra_Dumbledore', '/wiki/Ariana_Dumbledore', '/wiki/Betty_Braithwaite', '/wiki/Ivor_Dillonsby', '/wiki/Selwyn', '/wiki/Hedwig%27s_killer', '/wiki/Delacour_sisters%27_father', '/wiki/Dragomir_Gorgovitch', '/wiki/Beedle_the_Bard', '/wiki/Lancelot_(Healer)', '/wiki/Weasley_family', '/wiki/Red-haired_Muggle_boy', '/wiki/Delacour_sisters%27_cousins', '/wiki/Muriel%27s_mother', '/wiki/Viktor_Krum%27s_grandfather', '/wiki/Workmen_at_Tottenham_Court_Road', '/wiki/Waitress_at_Luchino_Caffe', '/wiki/Potters%27_cat', '/wiki/British_Ministry_of_Magic', '/wiki/Magical_Maintenance_Department', '/wiki/German-speaking_woman', '/wiki/German-speaking_children', '/wiki/Reginald_Cattermole', '/wiki/Albert_Runcorn', '/wiki/Mary_Cattermole', '/wiki/Wakanda', '/wiki/Bernie', '/wiki/Bletchley', '/wiki/Dirk_Cresswell%27s_wife', '/wiki/Cresswell_brothers', '/wiki/Dirk_Cresswell%27s_friends', '/wiki/Arkie_Alderton', '/wiki/Arkie_Alderton%27s_alleged_son', '/wiki/Maisie_Cattermole', '/wiki/Ellie_Cattermole', '/wiki/Alfred_Cattermole', '/wiki/Gornuk', '/wiki/Gamp', '/wiki/Bowman_Wright', '/wiki/Ignotus_Peverell', '/wiki/Barnabus_Finkley', '/wiki/Enid_Smeek', '/wiki/Snatchers', '/wiki/Egbert_the_Egregious', '/wiki/Godelot', '/wiki/Hereward', '/wiki/Loxias', '/wiki/Barnabas_Deverill', '/wiki/Arcus', '/wiki/Livius', '/wiki/Antioch_Peverell', '/wiki/Cadmus_Peverell', '/wiki/Death_(The_Tale_of_the_Three_Brothers)', '/wiki/Dean_Thomas%27s_half-siblings', '/wiki/Scabior', '/wiki/Dudley', '/wiki/Snatchers', '/wiki/Ragnuk', '/wiki/Edward_Lupin', '/wiki/Marius', '/wiki/Unidentified_Gringotts_guard_(I)', '/wiki/Bogrod', '/wiki/Wandless', '/wiki/Gringott%27s_Dragon', '/wiki/Unidentified_goblin_killed_by_Voldemort', '/wiki/Ravenclaw', '/wiki/Mary_Macdonald', '/wiki/Lily_L._Potter', '/wiki/James_Potter_II', '/wiki/Albus_Potter', '/wiki/Albus_Potter%27s_owl', '/wiki/Rose_Granger-Weasley', '/wiki/Hugo_Granger-Weasley', '/wiki/Scorpius_Malfoy', '/wiki/Victoire_Weasley', '/wiki/Astoria_Malfoy', '/wiki/James_Potter_II%27s_friends']"
+Vernon Dursley,/wiki/Vernon_Dursley
+Petunia Dursley,/wiki/Petunia_Dursley
+Dudley Dursley,/wiki/Dudley_Dursley
+Lily Potter,/wiki/Lily_J._Potter
+James Potter,/wiki/James_Potter_I
+Harry Potter,/wiki/Harry_Potter
+Violet-cloaked wizard,/wiki/Violet-cloaked_wizard
+Lord Voldemort,/wiki/Tom_Riddle
+Jim McGuffin,/wiki/Jim_McGuffin
+Ted,/wiki/Ted
+Vernon Dursley's secretary,/wiki/Vernon_Dursley%27s_secretary
+Albus Dumbledore,/wiki/Albus_Dumbledore
+Minerva McGonagall,/wiki/Minerva_McGonagall
+Dedalus Diggle,/wiki/Dedalus_Diggle
+Poppy Pomfrey,/wiki/Poppy_Pomfrey
+Rubeus Hagrid,/wiki/Rubeus_Hagrid
+Sirius Black,/wiki/Sirius_Black
+Marge Dursley,/wiki/Marjorie_Dursley
+Arabella Figg,/wiki/Arabella_Figg
+Tibbles,/wiki/Mr_Tibbles
+Snowy,/wiki/Snowy
+Mr Paws,/wiki/Mr_Paws
+Tufty,/wiki/Tufty
+Yvonne,/wiki/Yvonne
+Piers Polkiss,/wiki/Piers_Polkiss
+Piers Polkiss's mother,/wiki/Piers_Polkiss%27s_mother
+Keeper of the reptile house,/wiki/Keeper_of_the_reptile_house
+Zoo director,/wiki/Zoo_director
+A boa constrictor,/wiki/Boa_constrictor_at_the_zoo
+A gorilla,/wiki/Gorilla_at_the_zoo
+Dennis,/wiki/Dennis
+Malcolm,/wiki/Malcolm
+Gordon,/wiki/Gordon
+Dudley's parrot,/wiki/Dudley_Dursley%27s_parrot
+Dudley's tortoise,/wiki/Dudley_Dursley%27s_tortoise
+Owner of the Railview Hotel,/wiki/Owner_of_the_Railview_Hotel
+Merlin,/wiki/Merlin
+Mr Evans,/wiki/Evans_sisters%27_father
+Mrs Evans,/wiki/Evans_sisters%27_mother
+McKinnon family,/wiki/McKinnon_family
+Bones family,/wiki/Bones_family
+Prewett family,/wiki/Prewett_family
+Cornelius Fudge,/wiki/Cornelius_Fudge
+Miranda Goshawk,/wiki/Miranda_Goshawk
+Bathilda Bagshot,/wiki/Bathilda_Bagshot
+Adalbert Waffling,/wiki/Adalbert_Waffling
+Emeric Switch,/wiki/Emeric_Switch
+Phyllida Spore,/wiki/Phyllida_Spore
+Arsenus Jigger,/wiki/Arsenius_Jigger
+Newton Scamander,/wiki/Newton_Scamander
+Quentin Trimble,/wiki/Quentin_Trimble
+Tom,/wiki/Tom
+Doris Crockford,/wiki/Doris_Crockford
+Quirinus Quirrell,/wiki/Quirinus_Quirrell
+Gringotts Head Goblin,/wiki/Gringotts_Head_Goblin
+Griphook,/wiki/Griphook
+Madam Malkin,/wiki/Madam_Malkin%27s_Robes_for_All_Occasions
+Draco Malfoy,/wiki/Draco_Malfoy
+Lucius Malfoy,/wiki/Lucius_Malfoy
+Narcissa Malfoy,/wiki/Narcissa_Malfoy
+Vindictus Viridian,/wiki/Vindictus_Viridian
+Hedwig,/wiki/Hedwig
+Garrick Ollivander,/wiki/Garrick_Ollivander
+King's Cross Station guard,/wiki/King%27s_Cross_Station_guard
+Ginny Weasley,/wiki/Ginevra_Weasley
+Molly Weasley,/wiki/Molly_Weasley
+Percy Weasley,/wiki/Percy_Weasley
+Fred Weasley,/wiki/Fred_Weasley
+George Weasley,/wiki/George_Weasley
+Ron Weasley,/wiki/Ronald_Weasley
+Neville Longbottom,/wiki/Neville_Longbottom
+Augusta Longbottom,/wiki/Augusta_Longbottom
+Lee Jordan,/wiki/Lee_Jordan
+Lee Jordan's tarantula,/wiki/Lee_Jordan%27s_tarantula
+Bill Weasley,/wiki/William_Weasley
+Charlie Weasley,/wiki/Charles_Weasley
+Arthur Weasley,/wiki/Arthur_Weasley
+Peter Pettigrew,/wiki/Peter_Pettigrew
+Cornelius Agrippa,/wiki/Cornelius_Agrippa
+Claudius Ptolemy,/wiki/Ptolemy
+Gellert Grindelwald,/wiki/Gellert_Grindelwald
+Nicolas Flamel,/wiki/Nicolas_Flamel
+Morgan le Fay,/wiki/Morgan_le_Fay
+Hengist of Woodcroft,/wiki/Hengist_of_Woodcroft
+Alberic Grunnion,/wiki/Alberic_Grunnion
+Circe,/wiki/Circe
+Paracelsus,/wiki/Phillipus_von_Hohenheim
+Cliodna,/wiki/Cliodna
+Bertie Bott,/wiki/Bertie_Bott
+Trevor,/wiki/Trevor
+Hermione Granger,/wiki/Hermione_Granger
+Vincent Crabbe,/wiki/Vincent_Crabbe
+Gregory Goyle,/wiki/Gregory_Goyle
+Hogwarts Express conductor,/wiki/Hogwarts_Express_conductor
+Hermes,/wiki/Hermes
+Fat Friar,/wiki/Fat_Friar
+Peeves,/wiki/Peeves
+Sorting Hat,/wiki/Sorting_Hat
+Hannah Abbott,/wiki/Hannah_Abbott
+Susan Bones,/wiki/Susan_Bones
+Terry Boot,/wiki/Terry_Boot
+Mandy Brocklehurst,/wiki/Mandy_Brocklehurst
+Lavender Brown,/wiki/Lavender_Brown
+Millicent Bulstrode,/wiki/Millicent_Bulstrode
+Justin Finch-Fletchley,/wiki/Justin_Finch-Fletchley
+Seamus Finnigan,/wiki/Seamus_Finnigan
+Morag MacDougal,/wiki/Morag_MacDougal
+Lily Moon,/wiki/Lily_Moon
+Theodore Nott,/wiki/Theodore_Nott
+Pansy Parkinson,/wiki/Pansy_Parkinson
+Padma Patil,/wiki/Padma_Patil
+Parvati Patil,/wiki/Parvati_Patil
+Sally-Anne Perks,/wiki/Sally-Anne_Perks
+Dean Thomas,/wiki/Dean_Thomas
+Lisa Turpin,/wiki/Lisa_Turpin
+Blaise Zabini,/wiki/Blaise_Zabini
+Nearly-Headless Nick,/wiki/Nicholas_de_Mimsy-Porpington
+Bloody Baron,/wiki/Bloody_Baron
+Mr Finnigan,/wiki/Seamus_Finnigan%27s_father
+Mrs Finnigan,/wiki/Seamus_Finnigan%27s_mother
+Algie,/wiki/Algie_Longbottom
+Severus Snape,/wiki/Severus_Snape
+Argus Filch,/wiki/Argus_Filch
+Rolanda Hooch,/wiki/Rolanda_Hooch
+Fat Lady,/wiki/Fat_Lady
+Mrs Norris,/wiki/Mrs_Norris
+Pomona Sprout,/wiki/Pomona_Sprout
+Cuthbert Binns,/wiki/Cuthbert_Binns
+Emeric the Evil,/wiki/Emeric_the_Evil
+Uric the Oddball,/wiki/Uric_the_Oddball
+Filius Flitwick,/wiki/Filius_Flitwick
+Fang,/wiki/Fang
+Oliver Wood,/wiki/Oliver_Wood
+Helena Ravenclaw,/wiki/Helena_Ravenclaw
+Draco Malfoy's eagle owl,/wiki/Draco_Malfoy%27s_eagle_owl
+Gregory the Smarmy,/wiki/Gregory_the_Smarmy
+Fluffy,/wiki/Fluffy
+Baruffio,/wiki/Baruffio
+Angelina Johnson,/wiki/Angelina_Johnson
+Marcus Flint,/wiki/Marcus_Flint
+Alicia Spinnet,/wiki/Alicia_Spinnet
+Katie Bell,/wiki/Katie_Bell
+Miles Bletchley,/wiki/Miles_Bletchley
+Adrian Pucey,/wiki/Adrian_Pucey
+Terence Higgs,/wiki/Terence_Higgs
+Irma Pince,/wiki/Irma_Pince
+Perenelle Flamel,/wiki/Perenelle_Flamel
+Norbert,/wiki/Norberta
+Ronan,/wiki/Ronan
+Bane,/wiki/Bane
+Firenze,/wiki/Firenze
+Unicorn,/wiki/Unicorn
+Elfric the Eager,/wiki/Elfric_the_Eager
+Hogwarts Giant Squid,/wiki/Hogwarts_Giant_Squid
+King's Cross Station,/wiki/King%27s_Cross_Station
+Mr Mason,/wiki/Mason
+Mrs Mason,/wiki/Mason%27s_wife
+Dobby,/wiki/Dobby
+Mafalda Hopkirk,/wiki/Mafalda_Hopkirk
+Errol,/wiki/Errol
+Perkins,/wiki/Perkins
+Weasley family,/wiki/Weasley_family
+Weasley family,/wiki/Weasley_family
+Celestina Warbeck,/wiki/Celestina_Warbeck
+Gilderoy Lockhart,/wiki/Gilderoy_Lockhart
+Father Christmas,/wiki/Father_Christmas
+Mundungus Fletcher,/wiki/Mundungus_Fletcher
+Mortlake,/wiki/Mortlake
+Weasley family ghoul,/wiki/Weasley_family_ghoul
+Chudley Cannons,/wiki/Chudley_Cannons
+Martin Miggs,/wiki/Martin_Miggs
+Mr Borgin,/wiki/Borgin
+Aged witch,/wiki/Aged_witch
+Mr Granger,/wiki/Hermione_Granger%27s_father
+Mrs Granger,/wiki/Hermione_Granger%27s_mother
+Dr Filibuster,/wiki/Dr_Filibuster%27s_Fireworks
+Bozo,/wiki/Bozo
+Manager of Flourish and Blotts,/wiki/Manager_of_Flourish_and_Blotts
+Hetty Bayliss,/wiki/Hetty_Bayliss
+Angus Fleet,/wiki/Angus_Fleet
+Justin Finch-Fletchley's mother,/wiki/Justin_Finch-Fletchley%27s_mother
+Colin Creevey,/wiki/Colin_Creevey
+Bandon Banshee,/wiki/Bandon_Banshee
+Ogden,/wiki/Ogden
+pixies,/wiki/Pixie
+Gladys Gudgeon,/wiki/Gladys_Gudgeon
+Veronica Smethley,/wiki/Veronica_Smethley
+Sir Patrick Delaney-Podmore,/wiki/Patrick_Delaney-Podmore
+Z. Nettles,/wiki/Z._Nettles
+D.J. Prod,/wiki/Demetrius_Prod
+salamander,/wiki/Fire_Dwelling_Salamander
+Portly ghost,/wiki/Portly_ghost
+Myrtle Warren,/wiki/Myrtle_Warren
+Wailing Widow,/wiki/Wailing_Widow
+Ghosts,/wiki/Ghost
+Mrs Skower,/wiki/Skower
+Godric Gryffindor,/wiki/Godric_Gryffindor
+Helga Hufflepuff,/wiki/Helga_Hufflepuff
+Rowena Ravenclaw,/wiki/Rowena_Ravenclaw
+Salazar Slytherin,/wiki/Salazar_Slytherin
+Transylvanian,/wiki/Transylvania
+Yeti,/wiki/Yeti
+Vampire,/wiki/Vampire
+Wagga Wagga Werewolf,/wiki/Wagga_Wagga_Werewolf
+Ernie Macmillan,/wiki/Ernest_Macmillan
+Blood-Sucking Bugbear,/wiki/Blood-Sucking_Bugbear
+Aurora Sinistra,/wiki/Aurora_Sinistra
+Fawkes,/wiki/Fawkes
+Penelope Clearwater,/wiki/Penelope_Clearwater
+Millicent Bulstrode's cat,/wiki/Millicent_Bulstrode%27s_cat
+dwarfs,/wiki/Dwarf
+Armando Dippet,/wiki/Armando_Dippet
+Aragog,/wiki/Aragog
+Hogwarts Board of Governors,/wiki/Hogwarts_Board_of_Governors
+Mosag,/wiki/Mosag
+Forbidden Forest Acromantula colony,/wiki/Forbidden_Forest_Acromantula_colony
+Olive Hornby,/wiki/Olive_Hornby
+Tom Riddle Senior,/wiki/Tom_Riddle_Senior
+Merope Riddle,/wiki/Merope_Riddle
+Serpent of Slytherin,/wiki/Serpent_of_Slytherin
+Wendelin the Weird,/wiki/Wendelin_the_Weird
+Unidentified Hogwarts owl,/wiki/Unidentified_Hogwarts_owl
+Fleetwood,/wiki/Fleetwood
+Ripper,/wiki/Ripper
+Fubster,/wiki/Fubster
+Stan Shunpike,/wiki/Stanley_Shunpike
+Ernie Prang,/wiki/Ernest_Prang
+Sleeping wizard on the Knight Bus,/wiki/Dishevelled_Wizard
+Marsh,/wiki/Marsh
+Prime Minister,/wiki/Prime_Minister
+Florean Fortescue,/wiki/Florean_Fortescue
+Cassandra Vablatsky,/wiki/Cassandra_Vablatsky
+Magical Menagerie saleswoman,/wiki/Magical_Menagerie_saleswoman
+Crookshanks,/wiki/Crookshanks
+Remus Lupin,/wiki/Remus_Lupin
+Silvanus Kettleburn,/wiki/Silvanus_Kettleburn
+Dementor,/wiki/Dementor
+Cadogan,/wiki/Cadogan
+Sybill Trelawney,/wiki/Sybill_Trelawney
+Bilius,/wiki/Bilius
+Hogwarts Hippogriff herd,/wiki/Hogwarts_Hippogriff_herd
+Buckbeak,/wiki/Buckbeak
+Unidentified Muggle woman mentioned in Daily Prophet,/wiki/Unidentified_Muggle_woman_(II)
+Boggart,/wiki/Boggart
+Binky,/wiki/Binky
+Grindylow,/wiki/Grindylow
+Cedric Diggory,/wiki/Cedric_Diggory
+Hinkypunk,/wiki/Hinkypunk
+Davey Gudgeon,/wiki/Davey_Gudgeon
+Ambrosius Flume,/wiki/Ambrosius_Flume
+Ambrosius Flume's wife,/wiki/Ambrosius_Flume%27s_wife
+Rosmerta,/wiki/Rosmerta
+Peter Pettigrew's mother,/wiki/Peter_Pettigrew%27s_mother
+Derek,/wiki/Derek
+Septima Vector,/wiki/Septima_Vector
+Cho Chang,/wiki/Cho_Chang
+Roger Davies,/wiki/Roger_Davies
+Cassius Warrington,/wiki/Cassius_Warrington
+Graham Montague,/wiki/Graham_Montague
+Peregrine Derrick,/wiki/Peregrine_Derrick
+Lucian Bole,/wiki/Lucian_Bole
+Unidentified Committee for the Disposal of Dangerous Creatures member,/wiki/Unidentified_Committee_for_the_Disposal_of_Dangerous_Creatures_member
+Walden Macnair,/wiki/Walden_Macnair
+Lyall Lupin,/wiki/Lyall_Lupin
+Hope Lupin,/wiki/Hope_Howell
+Pigwidgeon,/wiki/Pigwidgeon
+Mary Riddle,/wiki/Mary_Riddle
+Thomas Riddle,/wiki/Thomas_Riddle
+Riddles' maid,/wiki/Riddles%27_maid
+Riddles' cook,/wiki/Riddles%27_cook
+Frank Bryce,/wiki/Frank_Bryce
+Landlord of The Hanged Man,/wiki/Landlord_of_The_Hanged_Man
+Dot,/wiki/Dot
+Little Hangleton,/wiki/Little_Hangleton
+Great Hangleton,/wiki/Great_Hangleton
+Riddle House,/wiki/Riddle_House
+Little Hangleton boys,/wiki/Little_Hangleton_boys
+Nagini,/wiki/Nagini
+Bertha Jorkins,/wiki/Bertha_Jorkins
+Smeltings Academy,/wiki/Smeltings_Academy
+Little Whinging postman,/wiki/Little_Whinging_postman
+Barty Crouch Snr,/wiki/Bartemius_Crouch_Senior
+Ludo Bagman,/wiki/Ludovic_Bagman
+Otto Bagman,/wiki/Otto_Bagman
+Viktor Krum,/wiki/Viktor_Krum
+Amos Diggory,/wiki/Amos_Diggory
+Lovegood family,/wiki/Lovegood_family
+Fawcett family,/wiki/Fawcett_family
+Basil,/wiki/Basil
+Mr Roberts,/wiki/Roberts
+Mr Payne,/wiki/Payne
+Kevin,/wiki/Kevin
+Kevin's mother,/wiki/Kevin%27s_mother
+Kevin's father,/wiki/Kevin%27s_father
+Salem Witches Institute,/wiki/Salem_Witches%27_Institute
+Archie Aymslowe,/wiki/Archie_Aymslowe
+Mr Wood,/wiki/Oliver_Wood%27s_father
+Mrs Wood,/wiki/Oliver_Wood%27s_mother
+Cuthbert Mockridge,/wiki/Cuthbert_Mockridge
+Gilbert Wimple,/wiki/Gilbert_Wimple
+Arnold Peasegood,/wiki/Arnold_Peasegood
+Broderick Bode,/wiki/Broderick_Bode
+Saul Croaker,/wiki/Saul_Croaker
+Roddy Pontner,/wiki/Roddy_Pontner
+Agatha Timms,/wiki/Agatha_Timms
+Ali Bashir,/wiki/Ali_Bashir
+Omnioculars,/wiki/Omnioculars
+Winky,/wiki/Winky
+Bulgarian Minister for Magic,/wiki/Oblansk
+Mungo Bonham,/wiki/Mungo_Bonham
+Veela,/wiki/Veela
+Leprechaun,/wiki/Leprechaun
+Vasily Dimitrov,/wiki/Vasily_Dimitrov
+Clara Ivanova,/wiki/Clara_Ivanova
+Lev Zograf,/wiki/Lev_Zograf
+Alexei Levski,/wiki/Alexei_Levski
+Pyotr Vulchanov,/wiki/Pyotr_Vulchanov
+Ivan Volkov,/wiki/Ivan_Volkov
+Connolly,/wiki/Connolly
+Barry Ryan,/wiki/Barry_Ryan
+Troy,/wiki/Troy
+Mullet,/wiki/Mullet
+Moran,/wiki/Moran
+Quigley,/wiki/Quigley
+Aidan Lynch,/wiki/Aidan_Lynch
+Hassan Mostafa,/wiki/Hassan_Mostafa
+Mrs Roberts,/wiki/Roberts%27s_wife
+Roberts children,/wiki/Roberts_children
+Unidentified Beauxbatons girl (I),/wiki/Unidentified_Beauxbatons_students#Beauxbatons_girl_(I)
+Olympe Maxime,/wiki/Olympe_Maxime
+Wizard who claimed to be a dragon killer,/wiki/Wizard_who_claimed_to_be_a_dragon_killer
+Wizard who claimed to be a vampire hunter,/wiki/Wizard_who_claimed_to_be_a_Vampire_Hunter
+Rita Skeeter,/wiki/Rita_Skeeter
+Alastor Moody,/wiki/Alastor_Moody
+Dennis Creevey,/wiki/Dennis_Creevey
+Stewart Ackerley,/wiki/Stewart_Ackerley
+Malcolm Baddock,/wiki/Malcolm_Baddock
+Eleanor Branstone,/wiki/Eleanor_Branstone
+Owen Cauldwell,/wiki/Owen_Cauldwell
+Emma Dobbs,/wiki/Emma_Dobbs
+Laura Madley,/wiki/Laura_Madley
+Natalie McDonald,/wiki/Natalie_McDonald
+Graham Pritchard,/wiki/Graham_Pritchard
+Orla Quirke,/wiki/Orla_Quirke
+Kevin Whitby,/wiki/Kevin_Whitby
+Hogwarts house-elves,/wiki/Hogwarts_house-elves
+Barty Crouch Jr,/wiki/Bartemius_Crouch_Junior
+Eloise Midgeon,/wiki/Eloise_Midgen
+Blast-Ended Skrewts,/wiki/Blast-Ended_Skrewt
+Beauxbatons Academy of Magic,/wiki/Beauxbatons_Academy_of_Magic
+Igor Karkaroff,/wiki/Igor_Karkaroff
+Poliakoff,/wiki/Poliakoff
+Summers,/wiki/Summers
+Fleur Delacour,/wiki/Fleur_Delacour
+Violet,/wiki/Violet
+Apolline Delacour's mother,/wiki/Apolline_Delacour%27s_mother
+Mykew Gregorovitch,/wiki/Mykew_Gregorovitch
+Unidentified female Hungarian Horntail,/wiki/Unidentified_female_Hungarian_Horntail
+Unidentified female Chinese Fireball,/wiki/Unidentified_female_Chinese_Fireball
+Unidentified female Common Welsh Green,/wiki/Unidentified_female_Common_Welsh_Green
+Winky's mother,/wiki/Winky%27s_mother
+Winky's grandmother,/wiki/Winky%27s_grandmother
+Unidentified Hufflepuff third year girl,/wiki/Unidentified_Hufflepuff_girl_(III)
+Weird Sisters,/wiki/Weird_Sisters
+Joey Jenkins,/wiki/Joey_Jenkins
+Unidentified Beauxbatons boy,/wiki/Unidentified_Beauxbatons_students#Beauxbatons_boy
+Fridwulfa,/wiki/Fridwulfa
+Rubeus Hagrid's father,/wiki/Rubeus_Hagrid%27s_father
+Boris the Bewildered,/wiki/Boris_the_Bewildered
+Wilhelmina Grubbly-Plank,/wiki/Wilhelmina_Grubbly-Plank
+Care of Magical Creatures,/wiki/Care_of_Magical_Creatures
+Ludovic Bagman's goblin creditors,/wiki/Ludovic_Bagman%27s_goblin_creditors
+Bertha Jorkins's second cousin,/wiki/Bertha_Jorkins%27s_second_cousin
+Bertha Jorkins's aunt,/wiki/Bertha_Jorkins%27s_aunt
+Aberforth Dumbledore,/wiki/Aberforth_Dumbledore
+Olive Hornby's brother,/wiki/Olive_Hornby%27s_brother
+Unicorn,/wiki/Unicorn
+Black Lake,/wiki/Great_Lake
+Black Lake Merpeople colony,/wiki/Great_Lake_Merpeople_colony
+Gabrielle Delacour,/wiki/Gabrielle_Delacour
+Murcus,/wiki/Murcus
+Evan Rosier,/wiki/Evan_Rosier
+Wilkes,/wiki/Wilkes
+Bellatrix Lestrange,/wiki/Bellatrix_Lestrange
+Rodolphus Lestrange,/wiki/Rodolphus_Lestrange
+Care of Magical Creatures,/wiki/Care_of_Magical_Creatures
+Mrs Fudge,/wiki/Cornelius_Fudge%27s_wife
+Andorran Minister of Magic,/wiki/Andorran_Ministry_of_Magic
+Antonin Dolohov,/wiki/Antonin_Dolohov
+Travers,/wiki/Travers
+Augustus Rookwood,/wiki/Augustus_Rookwood
+Ludovic Bagman's father,/wiki/Ludovic_Bagman%27s_father
+Unidentified female Council of Magical Law juror,/wiki/Unidentified_female_Council_of_Magical_Law_juror
+Rabastan Lestrange,/wiki/Rabastan_Lestrange
+Frank Longbottom,/wiki/Frank_Longbottom
+Alice Longbottom,/wiki/Alice_Longbottom
+Florence,/wiki/Florence
+Florence's boyfriend,/wiki/Florence%27s_boyfriend
+Apolline Delacour,/wiki/Apolline_Delacour
+Mrs Diggory,/wiki/Cedric_Diggory%27s_mother
+Mr Krum,/wiki/Viktor_Krum%27s_father
+Mrs Krum,/wiki/Viktor_Krum%27s_mother
+Apollyon Pringle,/wiki/Apollyon_Pringle
+Ogg,/wiki/Ogg
+Bodrod the Bearded,/wiki/Bodrod_the_Bearded
+Urg the Unclean,/wiki/Urg_the_Unclean
+Hedge Maze,/wiki/Triwizard_Maze
+Hedge Maze,/wiki/Triwizard_Maze
+Hedge Maze,/wiki/Triwizard_Maze
+Crabbe,/wiki/Crabbe
+Goyle,/wiki/Goyle
+Nott,/wiki/Nott
+Lee Jordan's father,/wiki/Lee_Jordan%27s_father
+Bungy,/wiki/Bungy
+Mary Dorkins,/wiki/Mary_Dorkins
+Mrs Number Seven,/wiki/Owner_of_7_Privet_Drive
+Mark Evans,/wiki/Mark_Evans
+Dementors,/wiki/Dementor
+Mr Prentice,/wiki/Prentice
+Nymphadora Tonks,/wiki/Nymphadora_Tonks
+Kingsley Shacklebolt,/wiki/Kingsley_Shacklebolt
+Elphias Doge,/wiki/Elphias_Doge
+Emmeline Vance,/wiki/Emmeline_Vance
+Sturgis Podmore,/wiki/Sturgis_Podmore
+Hestia Jones,/wiki/Hestia_Jones
+Edward Tonks,/wiki/Edward_Tonks
+Andromeda Tonks,/wiki/Andromeda_Tonks
+Kreacher,/wiki/Kreacher
+Walburga Black,/wiki/Walburga_Black
+Phineas Nigellus Black,/wiki/Phineas_Nigellus_Black
+Kreacher's mother,/wiki/Kreacher%27s_mother
+12 Grimmauld Place,/wiki/12_Grimmauld_Place
+Nottingham,/wiki/Nottingham
+Ragnok,/wiki/Ragnok
+Will,/wiki/Will
+Warty Harris,/wiki/Warty_Harris
+Millicent Bagnold,/wiki/Millicent_Bagnold
+Fleamont Potter,/wiki/Fleamont_Potter
+Euphemia Potter,/wiki/Euphemia_Potter
+Alphard Black,/wiki/Alphard_Black
+Orion Black,/wiki/Orion_Black
+Regulus Black,/wiki/Regulus_Black
+Araminta Meliflua,/wiki/Araminta_Meliflua_Black
+Elladora Black,/wiki/Elladora_Black
+Arcturus Black III,/wiki/Arcturus_Black_III
+12 Grimmauld Place,/wiki/12_Grimmauld_Place
+12 Grimmauld Place,/wiki/12_Grimmauld_Place
+Rufus Scrimgeour,/wiki/Rufus_Scrimgeour
+Amelia Bones,/wiki/Amelia_Bones
+Eric Munch,/wiki/Eric_Munch
+Bob,/wiki/Bob
+Dolores Umbridge,/wiki/Dolores_Umbridge
+Wilbert Slinkhard,/wiki/Wilbert_Slinkhard
+Marlene McKinnon,/wiki/Marlene_McKinnon
+Benjy Fenwick,/wiki/Benjy_Fenwick
+Edgar Bones,/wiki/Edgar_Bones
+Caradoc Dearborn,/wiki/Caradoc_Dearborn
+Gideon Prewett,/wiki/Gideon_Prewett
+Fabian Prewett,/wiki/Fabian_Prewett
+Dorcas Meadowes,/wiki/Dorcas_Meadowes
+Luna Lovegood,/wiki/Luna_Lovegood
+Anthony Goldstein,/wiki/Anthony_Goldstein
+Doris Purkiss,/wiki/Doris_Purkiss
+Stubby Boardman,/wiki/Stubby_Boardman
+Xenophilius Lovegood,/wiki/Xenophilius_Lovegood
+Hogwarts Thestral herd,/wiki/Hogwarts_Thestral_herd
+Euan Abercrombie,/wiki/Euan_Abercrombie
+Rose Zeller,/wiki/Rose_Zeller
+Dean Thomas's mother,/wiki/Dean_Thomas%27s_mother
+Dean Thomas's father,/wiki/Dean_Thomas%27s_father
+Patricia Stimpson,/wiki/Patricia_Stimpson
+Kenneth Towler,/wiki/Kenneth_Towler
+Inigo Imago,/wiki/Inigo_Imago
+Care of Magical Creatures,/wiki/Care_of_Magical_Creatures
+Lachlan the Lanky,/wiki/Lachlan_the_Lanky
+Vicky Frobisher,/wiki/Vicky_Frobisher
+Geoffrey Hooper,/wiki/Geoffrey_Hooper
+Wilfred the Wistful,/wiki/Wilfred_the_Wistful
+Mrs Chang,/wiki/Cho_Chang%27s_mother
+Donaghan Tremlett,/wiki/Donaghan_Tremlett
+Griselda Marchbanks,/wiki/Griselda_Marchbanks
+Tiberius Ogden,/wiki/Tiberius_Ogden
+Cassandra Trelawney,/wiki/Cassandra_Trelawney
+Marietta Edgecombe,/wiki/Marietta_Edgecombe
+Michael Corner,/wiki/Michael_Corner
+Zacharias Smith,/wiki/Zacharias_Smith
+Unidentified Gryffindor boy,/wiki/Unidentified_Gryffindor_boy
+Unidentified Gryffindor boy's friend,/wiki/Unidentified_Gryffindor_boy%27s_friend
+Gargoyles at the staff room entrance,/wiki/Gargoyles_at_the_staffroom_entrance
+Barnabus the Barmy,/wiki/Barnabas_the_Barmy
+Mr Edgecombe,/wiki/Marietta_Edgecombe%27s_father
+Mr Chang,/wiki/Cho_Chang%27s_father
+Ladislaw Zamojski,/wiki/Ladislaw_Zamojski
+Karkus,/wiki/Karkus
+Golgomath,/wiki/Golgomath
+Tenebrus,/wiki/Tenebrus
+Andrew Kirke,/wiki/Andrew_Kirke
+Jack Sloper,/wiki/Jack_Sloper
+Everard,/wiki/Everard
+Dilys Derwent,/wiki/Dilys_Derwent
+Elfrida Cragg,/wiki/Elfrida_Cragg
+Dexter Fortescue,/wiki/Dexter_Fortescue
+Unidentified female Head,/wiki/Gimlet-eyed_Hogwarts_Headmistress
+Ventriloquist dummy at Purge and Dowse,"/wiki/Dummy_at_Purge_and_Dowse,_Ltd"
+St Mungo's Welcome Witch,/wiki/St_Mungo%27s_Welcome_Witch
+Dai Llewellyn,/wiki/Dai_Llewellyn
+Hippocrates Smethwyck,/wiki/Hippocrates_Smethwyck
+Augustus Pye,/wiki/Augustus_Pye
+Urquhart Rackharrow,/wiki/Urquhart_Rackharrow
+Willy Widdershins,/wiki/Willy_Widdershins
+Portrait of a Healer in St Mungo's Hospital,/wiki/Portrait_of_a_Healer_in_St_Mungo%27s_Hospital
+Miriam Strout,/wiki/Miriam_Strout
+Janus Thickey,/wiki/Janus_Thickey
+Agnes's son,/wiki/Agnes%27s_son
+Puddifoot,/wiki/Puddifoot
+Summerby,/wiki/Summerby
+Tobias Snape,/wiki/Tobias_Snape
+Eileen Prince,/wiki/Eileen_Prince
+John Dawlish,/wiki/John_Dawlish
+Mr Montague,/wiki/Graham_Montague%27s_father
+Mrs Montague,/wiki/Graham_Montague%27s_mother
+Bradley,/wiki/Bradley
+Grawp,/wiki/Grawp
+Magorian,/wiki/Magorian
+Unidentified hard-faced grey centaur,/wiki/Unidentified_hard-faced_grey_centaur
+Chambers,/wiki/Chambers
+Eddie Carmichael,/wiki/Eddie_Carmichael
+Harold Dingle,/wiki/Harold_Dingle
+Daphne Greengrass,/wiki/Daphne_Greengrass
+Tofty,/wiki/Tofty
+Pierre Bonaccord,/wiki/Pierre_Bonaccord
+Unidentified centaur,/wiki/Unidentified_centaur
+Unidentified bearded centaur,/wiki/Unidentified_bearded_centaur
+Unidentified dun-coloured centaur,/wiki/Unidentified_dun-coloured_centaur
+Unidentified thestrals,/wiki/Unidentified_Thestrals
+Jugson,/wiki/Jugson
+Unidentified female Seer,/wiki/Unidentified_female_Seer
+Unidentified male Seer,/wiki/Unidentified_male_Seer
+Williamson,/wiki/Williamson
+Dr Ubbly,/wiki/Dr_Ubbly%27s_Oblivious_Unction
+Pandora Lovegood,/wiki/Pandora_Lovegood
+Mrs Goyle,/wiki/Gregory_Goyle%27s_mother
+Prime Minister's political opponent,/wiki/Prime_Minister%27s_political_opponent
+Herbert Chorley,/wiki/Herbert_Chorley
+Ulick Gamp,/wiki/Ulick_Gamp
+Prime Minister's niece,/wiki/Prime_Minister%27s_niece
+Chancellor of the Exchequer,/wiki/Chancellor_of_the_Exchequer
+Fox near Spinner's End,/wiki/Fox_near_Spinner%27s_End
+Corban Yaxley,/wiki/Corban_Yaxley
+Amycus Carrow,/wiki/Amycus_Carrow
+Alecto Carrow,/wiki/Alecto_Carrow
+Fenrir Greyback,/wiki/Fenrir_Greyback
+Horace Slughorn,/wiki/Horace_Slughorn
+Dirk Cresswell,/wiki/Dirk_Cresswell
+Barnabus Cuffe,/wiki/Barnabas_Cuffe
+Ciceron Harkiss,/wiki/Ciceron_Harkiss
+Gwenog Jones,/wiki/Gwenog_Jones
+Arkie Philpott,/wiki/Arkie_Philpott
+Amulet,/wiki/Amulet
+Verity,/wiki/Verity
+Arnold,/wiki/Arnold
+Romilda Vane,/wiki/Romilda_Vane
+Cormac McLaggen,/wiki/Cormac_McLaggen
+Marcus Belby,/wiki/Marcus_Belby
+Damocles,/wiki/Damocles_Belby
+Mr Belby,/wiki/Marcus_Belby%27s_father
+Tiberius,/wiki/Tiberius
+Bertie Higgs,/wiki/Bertie_Higgs
+Blaise Zabini's mother,/wiki/Blaise_Zabini%27s_mother
+Proudfoot,/wiki/Proudfoot
+Savage,/wiki/Savage
+Libatius Borage,/wiki/Libatius_Borage
+Hector Dagworth-Granger,/wiki/Hector_Dagworth-Granger
+Abraxas Malfoy,/wiki/Abraxas_Malfoy
+Humphrey Belcher,/wiki/Humphrey_Belcher
+Bob Ogden,/wiki/Bob_Ogden
+Marvolo Gaunt,/wiki/Marvolo_Gaunt
+Morfin Gaunt,/wiki/Morfin_Gaunt
+Cecilia,/wiki/Cecilia
+Mr Patil,/wiki/Patil_twins%27_father
+Mrs Patil,/wiki/Patil_twins%27_mother
+Mr Midgen,/wiki/Eloise_Midgen%27s_father
+Mrs Abbott,/wiki/Hannah_Abbott%27s_mother
+Demelza Robins,/wiki/Demelza_Robins
+Jimmy Peakes,/wiki/Jimmy_Peakes
+Ritchie Coote,/wiki/Ritchie_Coote
+Melinda Bobbin,/wiki/Melinda_Bobbin
+Leanne,/wiki/Leanne
+Caractacus Burke,/wiki/Caractacus_Burke
+Mrs Cole,/wiki/Cole
+Billy Stubbs,/wiki/Billy_Stubbs
+Eric Whalley,/wiki/Eric_Whalley
+Amy Benson,/wiki/Amy_Benson
+Dennis Bishop,/wiki/Dennis_Bishop
+Muriel,/wiki/Muriel
+Vaisey,/wiki/Vaisey
+Urquhart,/wiki/Urquhart
+Harper,/wiki/Harper
+Romilda Vane's grandmother,/wiki/Romilda_Vane%27s_grandmother
+Eldred Worple,/wiki/Eldred_Worple
+Sanguini,/wiki/Sanguini
+Gawain Robards,/wiki/Gawain_Robards
+Fergus,/wiki/Fergus
+Galatea Merrythought,/wiki/Galatea_Merrythought
+Lestrange,/wiki/Lestrange
+Golpalott,/wiki/Golpalott
+Scarpin,/wiki/Scarpin
+Wilkie Twycross,/wiki/Wilkie_Twycross
+Cadwallader,/wiki/Cadwallader
+Hokey,/wiki/Hokey
+Hepzibah Smith,/wiki/Hepzibah_Smith
+Octavius Pepper,/wiki/Octavius_Pepper
+Montgomery sisters,/wiki/Montgomery_sisters
+Montgomery,/wiki/Montgomery
+Odo,/wiki/Odo
+Katie Bell's father,/wiki/Katie_Bell%27s_father
+Katie Bell's mother,/wiki/Katie_Bell%27s_mother
+Bertram Aubrey,/wiki/Bertram_Aubrey
+Inferi Army of Lord Voldemort,/wiki/Inferius
+Thorfinn Rowle,/wiki/Thorfinn_Rowle
+Gibbon,/wiki/Gibbon
+Zacharias Smith's father,/wiki/Zacharias_Smith%27s_father
+Rosalind Antigone Bungs,/wiki/Rosalind_Bungs
+Rupert Brookstanton,/wiki/Rupert_Brookstanton
+Ceremony official,/wiki/Ceremony_official
+Albino peacock,/wiki/Albino_peacock
+Pius Thicknesse,/wiki/Pius_Thicknesse
+Charity Burbage,/wiki/Charity_Burbage
+Percival Dumbledore,/wiki/Percival_Dumbledore
+Three Muggle boys,/wiki/Unidentified_Mould-on-the-Wold_boys
+Kendra Dumbledore,/wiki/Kendra_Dumbledore
+Ariana Dumbledore,/wiki/Ariana_Dumbledore
+Betty Braithwaite,/wiki/Betty_Braithwaite
+Ivor Dillonsby,/wiki/Ivor_Dillonsby
+Selwyn,/wiki/Selwyn
+Hedwig's killer,/wiki/Hedwig%27s_killer
+Monsieur Delacour,/wiki/Delacour_sisters%27_father
+Dragomir Gorgovitch,/wiki/Dragomir_Gorgovitch
+Beedle the Bard,/wiki/Beedle_the_Bard
+Lancelot,/wiki/Lancelot_(Healer)
+The Weasleys' many cousins,/wiki/Weasley_family
+Barny Weasley,/wiki/Red-haired_Muggle_boy
+Delacour sisters' cousins,/wiki/Delacour_sisters%27_cousins
+Muriel's mother,/wiki/Muriel%27s_mother
+Viktor Krum's grandfather,/wiki/Viktor_Krum%27s_grandfather
+Workmen at Tottenham Court Road,/wiki/Workmen_at_Tottenham_Court_Road
+Waitress at Tottenham Court Road,/wiki/Waitress_at_Luchino_Caffe
+Potters' cat,/wiki/Potters%27_cat
+Unidentified Ministry,/wiki/British_Ministry_of_Magic
+Unidentified Magical Maintenence employee,/wiki/Magical_Maintenance_Department
+German-speaking woman,/wiki/German-speaking_woman
+German-speaking children,/wiki/German-speaking_children
+Reginald Cattermole,/wiki/Reginald_Cattermole
+Albert Runcorn,/wiki/Albert_Runcorn
+Mary Cattermole,/wiki/Mary_Cattermole
+Wakanda,/wiki/Wakanda
+Bernie,/wiki/Bernie
+Bletchley,/wiki/Bletchley
+Dirk Cresswell's wife,/wiki/Dirk_Cresswell%27s_wife
+Cresswell brothers,/wiki/Cresswell_brothers
+Dirk Cresswell's friends,/wiki/Dirk_Cresswell%27s_friends
+Arkie Alderton,/wiki/Arkie_Alderton
+Arkie Alderton's alleged son,/wiki/Arkie_Alderton%27s_alleged_son
+Maisie Cattermole,/wiki/Maisie_Cattermole
+Ellie Cattermole,/wiki/Ellie_Cattermole
+Alfred Cattermole,/wiki/Alfred_Cattermole
+Gornuk,/wiki/Gornuk
+Gamp,/wiki/Gamp
+Bowman Wright,/wiki/Bowman_Wright
+Ignotus Peverell,/wiki/Ignotus_Peverell
+Barnabus Finkley,/wiki/Barnabus_Finkley
+Enid Smeek,/wiki/Enid_Smeek
+Snatchers,/wiki/Snatchers
+Egbert the Egregious,/wiki/Egbert_the_Egregious
+Godelot,/wiki/Godelot
+Hereward,/wiki/Hereward
+Loxias,/wiki/Loxias
+Barnabas Deverill,/wiki/Barnabas_Deverill
+Arcus,/wiki/Arcus
+Livius,/wiki/Livius
+Antioch Peverell,/wiki/Antioch_Peverell
+Cadmus Peverell,/wiki/Cadmus_Peverell
+Death,/wiki/Death_(The_Tale_of_the_Three_Brothers)
+Dean Thomas's half-siblings,/wiki/Dean_Thomas%27s_half-siblings
+Scabior,/wiki/Scabior
+Dudley,/wiki/Dudley
+Snatchers,/wiki/Snatchers
+Ragnuk,/wiki/Ragnuk
+Edward Lupin,/wiki/Edward_Lupin
+Marius,/wiki/Marius
+Unidentified Gringotts guard (I),/wiki/Unidentified_Gringotts_guard_(I)
+Bogrod,/wiki/Bogrod
+Beggars on Diagon Alley,/wiki/Wandless
+Ukrainian Ironbelly at Gringotts,/wiki/Gringott%27s_Dragon
+Unidentified goblin killed by Voldemort,/wiki/Unidentified_goblin_killed_by_Voldemort
+Ravenclaw,/wiki/Ravenclaw
+Mary Macdonald,/wiki/Mary_Macdonald
+Lily L. Potter,/wiki/Lily_L._Potter
+James Potter II,/wiki/James_Potter_II
+Albus Potter,/wiki/Albus_Potter
+Albus Potter's owl,/wiki/Albus_Potter%27s_owl
+Rose Weasley,/wiki/Rose_Granger-Weasley
+Hugo Weasley,/wiki/Hugo_Granger-Weasley
+Scorpius Malfoy,/wiki/Scorpius_Malfoy
+Victoire Weasley,/wiki/Victoire_Weasley
+Astoria Greengrass,/wiki/Astoria_Malfoy
+James Potter II's friends,/wiki/James_Potter_II%27s_friends
